@@ -10,29 +10,29 @@ export const benefits: IBenefit[] = [
         description: "Configureert de spraakassistent en instellingen direct in het dashboard.",
         bullets: [
             {
-                title: "Identiteit",
-                description: "Stel Naam, Toon (Formeel/Informeel) en Persoonlijkheid in (bv. 'Enthousiast').",
-                icon: <FiUserCheck size={26} />
+                title: "Meertalig & Accenten",
+                description: "Spreekt en begrijpt meerdere talen vloeiend. Schakelt moeiteloos over tijdens het gesprek.",
+                icon: <FiGlobe size={26} />
             },
             {
-                title: "Kennisbank",
-                description: "Injecteert jouw Bedrijfsdetails, Prijzen en Openingstijden direct in de prompt.",
-                icon: <FiFileText size={26} />
+                title: "Workflows & Acties",
+                description: "Volledige opties voor workflows, uitgaande calls en alle gewenste features.",
+                icon: <FiCpu size={26} />
             },
             {
-                title: "Slimme Routing",
-                description: "Stel in naar wie door te verbinden bij falen of frustratie.",
-                icon: <FiPhoneMissed size={26} />
+                title: "Slim Doorverbinden",
+                description: "Schakelt gesprekken automatisch door naar andere nummers indien nodig.",
+                icon: <FiSmartphone size={26} />
             },
             {
-                title: "Intake Flows",
-                description: "Configureert specifieke vragen voor afspraken of intakes.",
-                icon: <FiTrendingUp size={26} />
+                title: "Multi-Agenda Booking",
+                description: "Plant afspraken direct in meerdere agenda's en systemen tegelijk.",
+                icon: <FiCalendar size={26} />
             },
             {
-                title: "Kosten",
-                description: "Configuratie kost 1 Credit. Gesprekskosten variëren van €0.15 tot €0.30 per minuut op basis van jouw instellingen.",
-                icon: <FiCreditCard size={26} />,
+                title: "Alles Inclusief",
+                description: "Alle features en updates zijn inbegrepen. Geen extra kosten.",
+                icon: <FiCheckCircle size={26} />,
                 isHighlighted: true
             }
         ],
