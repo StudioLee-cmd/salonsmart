@@ -1,9 +1,9 @@
 export const siteDetails = {
-    siteName: 'KapperAI',
-    siteUrl: 'http://localhost:3000/',
+    siteName: 'SalonSmart',
+    siteUrl: 'https://salonsmart.nl/',
     metadata: {
-        title: 'KapperAI - De slimme assistent voor jouw kapsalon',
-        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. KapperAI regelt je agenda, telefoon en administratie volledig automatisch.',
+        title: 'SalonSmart - De slimme assistent voor jouw salon',
+        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. SalonSmart regelt je agenda, telefoon en administratie volledig automatisch.',
     },
     language: 'nl-nl',
     locale: 'nl-NL',
