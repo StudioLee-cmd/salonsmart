@@ -13,7 +13,7 @@ const VoiceDemo: React.FC = () => {
     const [isSDKReady, setIsSDKReady] = useState(false);
 
     const publicKey = "5cf7462d-30fe-4d70-9ea1-89ce0bd65ec5";
-    const assistantId = "b1738305-8aba-4337-8dab-1ed9c93e8747";
+    const assistantId = "39384fe5-3c1a-46f1-9836-4b9fcd048ef6";
 
     useEffect(() => {
         // 1. Check if already loaded
