@@ -65,12 +65,12 @@ const FallingText = () => {
         });
 
         const allWords = [
-            // HERO USPs (KAPPER EDITION)
-            "Winst tot in de Puntjes 💇‍♀️",
-            "Alles-in-1 Systeem ✂️",
+            // HERO USPs (SALON EDITION)
+            "Meer Winst per Behandeling 💅",
+            "Alles-in-1 Systeem 📱",
             "Nooit Meer Gemiste Afspraken 📅",
-            "Je Balie Eindelijk Opgeruimd ✨",
-            "Knippen Zonder Zorgen 💇‍♀️",
+            "Je Agenda Altijd Vol 🗓️",
+            "Ondernemen Zonder Zorgen 🚀",
             "Je Salon in je Broekzak 📱",
             "Jouw AI Receptioniste 🤖",
             "Stop Omzetlekkages 💸",
@@ -83,20 +83,20 @@ const FallingText = () => {
             "Klanten die terugkomen als een boemerang 🪃",
             "Slapende klanten wakker schudden ⏰",
 
-            // KAPPERS PUNS & FUN (PUNCHIER)
-            "Minder lullen, meer krullen 💇‍♂️",
-            "Tijd voor koffie & roddels ☕",
+            // SALON PUNS & FUN
+            "Minder bellen, meer nagellak 💅",
+            "Tijd voor een kopje thee & roddels ☕",
             "Laat de telefoon maar rinkelen (AI pakt op) 📞",
             "Laat de AI je agenda vullen 🤖",
-            "Föhnen, niet telefoneren 💨",
-            "Geen uitgroei in je planning 📅",
-            "Geknipt voor succes ✂️",
-            "Jij de schaar, AI de rest 💈",
-            "Van kapster naar top-ondernemer 🚀",
-            "Handen in het haar? Nergens voor nodig! 👐",
+            "Lakken, niet telefoneren 💅",
+            "Geen vlekken in je planning 📅",
+            "Glitters voor jou, AI voor de rest ✨",
+            "Jij de nagels, AI het gedoe 🤖",
+            "Van salonhouder naar top-ondernemer 🚀",
+            "Handen te druk met je werk? AI helpt 👐",
             "Meer omzet in minder tijd ⏳",
-            "Altijd scherp, net als je schaar 🔪",
-            "Strakke coupe, strakke planning 📏",
+            "Altijd scherp, net als je vijl 💎",
+            "Strakke laklaag, strakke planning 💅",
             "Eindelijk rustig lunchen 🥗"
         ];
 
