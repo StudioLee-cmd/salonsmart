@@ -11,7 +11,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Heb ik technische kennis nodig om dit te beheren?",
-        answer: "Nee, absoluut niet. Ons dashboard is ontworpen voor gebruiksgemak: als je WhatsApp kunt gebruiken, kun je LoodgieterAI gebruiken. Voor complexere inrichting bieden we bovendien onze 'Managed Service' aan.",
+        answer: "Nee, absoluut niet. Ons dashboard is ontworpen voor gebruiksgemak: als je WhatsApp kunt gebruiken, kun je KapperAI gebruiken. Voor complexere inrichting bieden we bovendien onze 'Managed Service' aan.",
     },
     {
         question: "Kan ik de AI koppelen aan mijn eigen software?",

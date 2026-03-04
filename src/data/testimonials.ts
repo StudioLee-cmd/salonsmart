@@ -4,36 +4,36 @@ import { ITestimonial } from "@/types";
 export const testimonials: ITestimonial[] = [
     {
         name: 'Marieke Jansen',
-        role: 'Loodgietersbedrijf Jansen, Utrecht',
-        message: 'Mijn vrouw is blij dat ik eindelijk weer eens op tijd thuis ben voor het eten. De planning vult zichzelf, ik hoef alleen maar te rijden. Top spul.',
+        role: 'Haarsalon Marieke, Utrecht',
+        message: 'Mijn klanten vinden het heerlijk dat ze direct een afspraak kunnen plannen als ik aan het knippen ben. Mijn agenda vult zichzelf, ik hoef alleen maar de schaar te pakken. Top spul.',
         avatar: '/images/testimonials/testimonial-1.jpg',
         stars: 5
     },
     {
         name: 'Sarah de Vries',
-        role: 'De Vries Installatietechniek, Rotterdam',
-        message: 'Ik was sceptisch over "AI", dacht dat het robotachtig zou klinken. Maar klanten hebben géén idee. Ze zijn gewoon blij dat er opgenomen wordt.',
+        role: 'Studio De Vries, Rotterdam',
+        message: 'Ik was sceptisch over "AI", dacht dat het robotachtig zou klinken. Maar klanten hebben géén idee. Ze zijn gewoon blij dat er opgenomen wordt voor hun kleuring.',
         avatar: '/images/testimonials/testimonial-2.png',
         stars: 5
     },
     {
         name: 'Peter Bakker',
-        role: 'Bakker Totaalonderhoud, Amsterdam',
-        message: 'Eerst nam ik de telefoon op tijdens het solderen. Niet handig. Nu doet de AI het, en hij klinkt nog vriendelijker dan ik als ik gestrest ben ook.',
+        role: 'Bakker Herenkappers, Amsterdam',
+        message: 'Eerst nam ik de telefoon op tijdens het scheren. Niet handig voor de klant. Nu doet de AI het, en hij klinkt nog vriendelijker dan ik als ik gestrest ben ook.',
         avatar: '/images/testimonials/testimonial-3.png',
         stars: 5
     },
     {
-        name: 'Johan "De Pijp" Visser',
-        role: 'Visser Loodgieters, Den Haag',
-        message: 'Minder lekkages in mijn agenda dan bij de klant! Serieus, geen gaten meer, geen dubbele afspraken. Het systeem betaalt zichzelf terug in een week.',
+        name: 'Johan Visser',
+        role: 'Visser Haarmode, Den Haag',
+        message: 'Minder gaten in mijn agenda dan vroeger! Serieus, geen dubbele afspraken meer. Het systeem betaalt zichzelf terug in een week door de extra boekingen.',
         avatar: '/images/testimonials/testimonial-4.jpg',
         stars: 5
     },
     {
         name: 'Karel van den Berg',
-        role: 'Karel Klust, Eindhoven',
-        message: 'Als ZZP’er is de telefoon je grootste vijand. Nu is het mijn beste vriend. Ik krijg gewoon een appje: "Nieuwe klus in agenda". Heerlijk.',
+        role: 'Karel Knipt, Eindhoven',
+        message: 'Als ZZP’er is de telefoon je grootste vijand als je handen vol haar zitten. Nu is het mijn beste vriend. Ik krijg gewoon een appje: "Nieuwe klant in agenda". Heerlijk.',
         avatar: '/images/testimonials/testimonial-5.png',
         stars: 5
     },
@@ -67,8 +67,8 @@ export const testimonials: ITestimonial[] = [
     },
     {
         name: 'Robert Veenstra',
-        role: 'Veenstra Loodgieters, Maastricht',
-        message: 'De investering waard? Dubbel en dwars. Eén spoedklus die je anders had gemist en je hebt het er al uit. Niet twijfelen, gewoon doen.',
+        role: 'Veenstra Haarspecialist, Maastricht',
+        message: 'De investering waard? Dubbel en dwars. Eén grote kleurnuance die je anders had gemist en je hebt het er al uit. Niet twijfelen, gewoon doen.',
         avatar: '/images/testimonials/testimonial-10.png',
         stars: 5
     },
