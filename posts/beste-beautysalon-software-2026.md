@@ -68,20 +68,20 @@ Sommige tools doen alles. Andere zijn sterk in boekingen maar missen marketing. 
 
 ## SalonSmart — AI-marketing en automatisering
 
-[SalonSmart](/) richt zich niet op agenda of kassa, maar op alles wat daarna komt: klanten vinden, reviews verzamelen, no-shows voorkomen en zichtbaar worden op Google én in AI-zoekmachines.
+[SalonSmart](/) is een compleet AI-systeem voor beauty salons: online boekingsagenda, klantbeheer, facturatie, automatische review-verzoeken via WhatsApp, AI-chatbot en optimalisatie voor Google én AI-zoekmachines — zonder commissie per boeking.
 
-**Sterkste punt:** AI-gestuurde marketing op autopilot. Automatische review-verzoeken via WhatsApp, AI-chatbot voor afspraken, en optimalisatie voor zowel Google als AI-zoekresultaten (ChatGPT, Perplexity). Geen commissie.
+**Sterkste punt:** Compleet systeem met AI: boekingsagenda, facturatie, review-automatisering via WhatsApp, AI-chatbot en vindbaarheid op Google én AI-zoekresultaten (ChatGPT, Perplexity). Custom booking app zonder commissie.
 
-**Nadeel:** Geen eigen kassasysteem of boekingsagenda — SalonSmart werkt als aanvulling op je bestaande tools.
+**Nadeel:** Relatief nieuw op de markt vergeleken met gevestigde namen als Treatwell of Salonized — maar biedt wel meer AI-functionaliteit en geen commissie.
 
-**Geschikt voor:** Salons die hun boekingen al geregeld hebben maar meer klanten willen, betere reviews zoeken en hun [online vindbaarheid](/blog/hoe-een-beauty-salon-meer-klanten-krijgt-via-google) willen verbeteren.
+**Geschikt voor:** Salons die alles in één AI-systeem willen: boekingen, klantbeheer, reviews en marketing — zonder commissie en met [betere online vindbaarheid](/blog/hoe-een-beauty-salon-meer-klanten-krijgt-via-google).
 
 ## Vergelijking: welke software past bij jou?
 
 | | Treatwell | Fresha | Salonized | Phorest | SalonSmart |
 |---|---|---|---|---|---|
-| **Online boekingen** | ✓ | ✓ | ✓ | ✓ | ✗ |
-| **Kassasysteem** | ✓ | ✓ | ✓ | ✓ | ✗ |
+| **Online boekingen** | ✓ | ✓ | ✓ | ✓ | ✓ |
+| **Kassasysteem** | ✓ | ✓ | ✓ | ✓ | Facturatie |
 | **Klantenbeheer** | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Review-automatisering** | Beperkt | Extra kosten | Beperkt | ✓ | ✓ (WhatsApp) |
 | **AI-marketing** | ✗ | ✗ | ✗ | ✗ | ✓ |
@@ -99,8 +99,8 @@ De beste keuze hangt af van wat jouw salon nodig heeft:
 - **Wil je gratis starten?** Fresha is een goede basis zonder maandelijkse kosten.
 - **Wil je een compleet Nederlands systeem?** Salonized combineert alles in één en werkt met iDEAL.
 - **Wil je focussen op klantbinding?** Phorest biedt sterke marketing en loyaliteitstools.
-- **Wil je slimmer groeien met AI?** [SalonSmart](/) automatiseert reviews, WhatsApp-herinneringen en online vindbaarheid — als aanvulling op je huidige tools.
+- **Wil je slimmer groeien met AI?** [SalonSmart](/) combineert boekingen, reviews en AI-marketing in één systeem — zonder commissie.
 
-De slimste aanpak is combineren: een boekings- en kassatool voor de dagelijkse operatie, en een marketingtool zoals [SalonSmart](/) voor groei.
+[SalonSmart](/) combineert boekingen, klantbeheer en AI-marketing in één systeem dat groeit met je salon.
 
 Benieuwd wat SalonSmart voor jouw salon kan betekenen? [Neem contact op](/contact) — we denken graag mee.
