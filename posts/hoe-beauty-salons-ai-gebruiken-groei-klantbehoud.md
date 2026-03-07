@@ -38,4 +38,4 @@ Na elke behandeling ontvangt de klant een vriendelijk reviewverzoek via WhatsApp
 
 ## Conclusie
 
-Beauty salons die AI inzetten, groeien sneller, hebben minder no-shows en bouwen een trouwe klantenkring. Meer weten? Ga naar [salonsmart.nl](https://salonsmart.nl).
+Beauty salons die AI inzetten, groeien sneller, hebben minder no-shows en bouwen een trouwe klantenkring. Meer weten? Ga naar [salonsmart.nl](https://www.salonsmart.nl).
