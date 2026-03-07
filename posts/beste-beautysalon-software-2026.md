@@ -103,4 +103,4 @@ De beste keuze hangt af van wat jouw salon nodig heeft:
 
 [SalonSmart](/) combineert boekingen, klantbeheer en AI-marketing in één systeem dat groeit met je salon.
 
-Benieuwd wat SalonSmart voor jouw salon kan betekenen? [Neem contact op](/contact) — we denken graag mee.
+Benieuwd wat SalonSmart voor jouw salon kan betekenen? [Plan een gratis gesprek](https://calendly.com/tim-studiolee) — we denken graag mee.
