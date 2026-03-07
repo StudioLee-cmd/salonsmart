@@ -98,7 +98,7 @@ Jij behandelt klanten. Wij regelen de rest:
 
 Volle agenda, minder no-shows, meer reviews. Alles op autopilot.
 
-**Benieuwd wat SalonSmart voor jouw salon kan doen?** Plan een gratis kennismaking via salonsmart.nl.
+**Benieuwd wat SalonSmart voor jouw salon kan doen?** Plan een gratis kennismaking via [salonsmart.nl](https://www.salonsmart.nl).
 
 ---
 
