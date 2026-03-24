@@ -65,7 +65,7 @@ Een introductieaanbieding verlaagt de drempel voor nieuwe klanten:
 
 Belangrijk: de introductieaanbieding is de start, niet het doel. Focus op [klantretentie](/blog/klantretentie-beautysalon-5-procent-meer-25-procent-winst) zodat die nieuwe klant ook terugkomt.
 
-### 5. Email marketing voor heractiveringsing
+### 5. Email marketing voor heractivering
 
 Veel salons hebben een klantenbestand vol inactieve klanten — mensen die ooit zijn geweest maar niet meer terugkomen. [Email marketing](/blog/email-marketing-beautysalons-klantcontact) is het perfecte middel om hen terug te winnen:
 
@@ -81,7 +81,7 @@ De sterkste leadgeneratiestrategie combineert online bereik met offline beleving
 |--------|---------|
 | Google zichtbaarheid | Salonlocatie en sfeer |
 | Instagram portfolio | Samenwerkingen met kappers/fotografen |
-| Email heractiveringsing | Introductieaanbiedingen |
+| Email heractivering | Introductieaanbiedingen |
 | Website met boekingsoptie | Evenementen (beauty-avond, workshop) |
 
 ## Laat leadgeneratie voor je werken
@@ -97,3 +97,4 @@ De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei in nieuwe klan
 Wachten tot klanten vanzelf komen is geen strategie. Beautysalons die actief investeren in meerdere leadkanalen — Google, social media, samenwerkingen en email marketing — bouwen een constante stroom aan nieuwe klanten op. Begin met het kanaal dat het best past bij jouw salon en bouw van daaruit verder.
 
 Lees ook hoe je [upselling slim toepast in je salon](/blog/upselling-beautysalon-omzet-per-klant) en hoe je met [seizoensmarketing het hele jaar door actief blijft](/blog/seizoensmarketing-beautysalon-acties-trends).
+
