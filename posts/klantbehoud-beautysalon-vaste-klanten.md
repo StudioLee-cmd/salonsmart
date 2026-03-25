@@ -11,7 +11,7 @@ tags: ["klantbehoud", "beautysalon", "loyaliteit"]
 
 ## Waarom klantbehoud winstgevender is dan nieuwe klanten
 
-Het werven van een nieuwe klant kost vijf tot zeven keer meer dan het behouden van een bestaande. En een klant die [vijf procent langer blijft, levert tot 25% meer winst op](/blog/klantretentie-beautysalon).
+Het werven van een nieuwe klant kost vijf tot zeven keer meer dan het behouden van een bestaande. En een klant die [vijf procent langer blijft, levert tot 25% meer winst op](/blog/klantretentie-beautysalon-meer-winst).
 
 Toch investeren de meeste salons het grootste deel van hun marketing in nieuwe klanten. Instagram-advertenties, Google-ads, kortingsacties — alles gericht op de eerste boeking. Maar de echte winst zit in de tweede, derde en tiende boeking.
 
@@ -29,7 +29,7 @@ Klantbehoud begint bij het eerste bezoek. Een klant die een uitstekende eerste e
 
 **Vervolgafspraak direct inplannen**. "Over zes weken is het tijd voor je volgende behandeling. Zal ik het alvast inplannen?" De kans dat een klant terugkomt is 80% als ze weggaan met een afspraak, en 20% als ze dat niet doen.
 
-**Herinneringen sturen**. Automatische sms of [email](/blog/email-marketing-beautysalons) twee weken voor de volgende afspraak. "Tijd voor je volgende gezichtsbehandeling — zullen we een afspraak maken?"
+**Herinneringen sturen**. Automatische sms of [email](/blog/email-marketing-beautysalon-klantcontact) twee weken voor de volgende afspraak. "Tijd voor je volgende gezichtsbehandeling — zullen we een afspraak maken?"
 
 **[Seizoensgebonden aanbiedingen](/blog/seizoensmarketing-beautysalon-acties)**. Lentepakket, zomerverzorging, herfstreset — geef klanten een reden om vaker te komen voor seizoensbehandelingen die ze normaal niet boeken.
 
@@ -47,10 +47,10 @@ Een loyaliteitsprogramma hoeft niet complex te zijn:
 
 Tussen bezoeken in blijf je relevant via:
 
-- **[Social media](/blog/social-media-voor-beautysalons)**: tips, trends en resultaten delen
-- **[Email marketing](/blog/email-marketing-beautysalons)**: maandelijkse nieuwsbrief met seizoenstips en aanbiedingen
+- **[Social media](/blog/social-media-voor-salons)**: tips, trends en resultaten delen
+- **[Email marketing](/blog/email-marketing-beautysalon-klantcontact)**: maandelijkse nieuwsbrief met seizoenstips en aanbiedingen
 - **Verjaardagsbericht**: een persoonlijk berichtje op de verjaardag van de klant, eventueel met een verjaardagskorting
-- **Na elk bezoek**: een bedankbericht met verzorgingstips en een [reviewverzoek](/blog/meer-google-reviews-beautysalon)
+- **Na elk bezoek**: een bedankbericht met verzorgingstips en een [reviewverzoek](/blog/meer-google-reviews-beauty-salon)
 
 ## Aan de slag
 

@@ -17,7 +17,7 @@ Het goede nieuws: met een paar gerichte aanpassingen kun je je website verandere
 
 ## Online boeken als standaard
 
-In 2026 verwachten klanten dat ze online kunnen boeken. [Online boeken](/blog/online-boeken-beautysalons) is niet meer optioneel — het is een basisvereiste. Klanten willen op elk moment van de dag een afspraak kunnen maken, ook 's avonds of in het weekend.
+In 2026 verwachten klanten dat ze online kunnen boeken. [Online boeken](/blog/online-boeken-beautysalon-verwachting-2026) is niet meer optioneel — het is een basisvereiste. Klanten willen op elk moment van de dag een afspraak kunnen maken, ook 's avonds of in het weekend.
 
 Integreer een boekingswidget op je homepage. Niet een link naar een externe pagina, maar een ingebouwde module die direct beschikbare tijden toont. Hoe minder klikken nodig zijn, hoe meer boekingen je krijgt.
 
@@ -41,7 +41,7 @@ Nieuwe klanten die je salon niet kennen, vertrouwen op wat anderen zeggen:
 - **Instagram feed integreren**: laat je nieuwste werk zien, live vanaf je Instagram
 - **Aantal behandelingen noemen**: "Meer dan 3.000 tevreden klanten" of "10 jaar ervaring in [plaatsnaam]"
 
-Combineer dit met een actief [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-beautysalon) en je [social media](/blog/social-media-voor-beautysalons) strategie. Consistentie over alle kanalen versterkt het vertrouwen.
+Combineer dit met een actief [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-beautysalon) en je [social media](/blog/social-media-voor-salons) strategie. Consistentie over alle kanalen versterkt het vertrouwen.
 
 ## Mobiele optimalisatie
 
@@ -54,7 +54,7 @@ Meer dan 75% van salonbezoekers zoekt op een smartphone. Controleer:
 
 Test je website op je eigen telefoon. Probeer een afspraak te maken alsof je een nieuwe klant bent. Elke hindernis die je tegenkomt, ervaart elke bezoeker ook.
 
-## [Upselling](/blog/upselling-beautysalon) via je website
+## [Upselling](/blog/leadgeneratie-beautysalon) via je website
 
 Je website kan helpen om de gemiddelde orderwaarde te verhogen:
 
@@ -68,7 +68,7 @@ Je website kan helpen om de gemiddelde orderwaarde te verhogen:
 - **Verouderde foto's**: foto's van drie jaar geleden ondermijnen vertrouwen
 - **Geen prijzen**: klanten willen weten wat het kost voordat ze bellen
 - **Te veel pagina's**: een salon heeft vijf tot zeven pagina's nodig, niet twintig
-- **[Email marketing](/blog/email-marketing-beautysalon-klantcontact) en [retentie](/blog/klantretentie-beautysalon) niet koppelen aan de website**: als je klanten binnenhaalt via je website maar ze niet opvolgt, verlies je ze weer
+- **[Email marketing](/blog/email-marketing-beautysalon-klantcontact) en [retentie](/blog/klantretentie-beautysalon-meer-winst) niet koppelen aan de website**: als je klanten binnenhaalt via je website maar ze niet opvolgt, verlies je ze weer
 
 ## Aan de slag
 

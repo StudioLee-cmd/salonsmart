@@ -16,7 +16,7 @@ Elk bezoek aan je beautysalon begint en eindigt met communicatie. De bevestiging
 In de beauty-industrie draait alles om gevoel. Klanten willen zich speciaal voelen, gehoord worden en vertrouwen dat ze in goede handen zijn:
 
 - Salons met gestructureerde communicatie hebben **25% minder no-shows**
-- Persoonlijke follow-ups verhogen de [retentie met 20%](/blog/klantretentie-beautysalon-5-procent-meer-25-procent-winst)
+- Persoonlijke follow-ups verhogen de [retentie met 20%](/blog/klantretentie-beautysalon-meer-winst)
 - Klanten die zich gewaardeerd voelen, geven **40% meer uit** per bezoek
 
 ## De 5 contactmomenten die ertoe doen
@@ -47,7 +47,7 @@ Dit is het meest persoonlijke moment. Luister, adviseer, en noteer voorkeuren:
 
 ### 5. De follow-up (3-4 weken later)
 
-"Hoe bevalt je behandeling? Het is bijna tijd voor een nieuwe sessie — zullen we een afspraak inplannen?" Dit is waar [klantbehoud](/blog/klantbehoud-beautysalon-bezoekers-vaste-klanten) concreet wordt.
+"Hoe bevalt je behandeling? Het is bijna tijd voor een nieuwe sessie — zullen we een afspraak inplannen?" Dit is waar [klantbehoud](/blog/klantbehoud-beautysalon-vaste-klanten) concreet wordt.
 
 ## Welke kanalen werken het best?
 
@@ -55,7 +55,7 @@ Dit is het meest persoonlijke moment. Luister, adviseer, en noteer voorkeuren:
 |--------|--------------|----------|
 | WhatsApp | Bevestigingen, herinneringen | 90%+ openrate |
 | SMS | Backup voor herinneringen | 95%+ openrate |
-| [Email](/blog/email-marketing-beautysalons-klantcontact) | Nieuwsbrieven, seizoenstips | Meer ruimte voor content |
+| [Email](/blog/email-marketing-beautysalon-klantcontact) | Nieuwsbrieven, seizoenstips | Meer ruimte voor content |
 | Instagram DM | Persoonlijk contact | Visueel en informeel |
 
 ## Automatiseren zonder de persoonlijke touch te verliezen
@@ -71,13 +71,13 @@ Automatiseer de structuur, niet de toon:
 
 1. **Alleen communiceren bij problemen** — stuur ook positieve berichten
 2. **Te veel berichten** — max 1 per week buiten afspraken om
-3. **Niet reageren op [reviews](/blog/meer-google-reviews-beauty-salon-automatisch)** — altijd reageren, ook positief
+3. **Niet reageren op [reviews](/blog/meer-google-reviews-beauty-salon)** — altijd reageren, ook positief
 4. **Geen opt-out** — wettelijk verplicht en voorkomt irritatie
 5. **Copy-paste berichten** — klanten merken het als het onpersoonlijk is
 
 ## Geen tijd voor communicatie?
 
-Bij StudioLee nemen we de complete digitale communicatie uit handen. Van automatische bevestigingen tot [social media](/blog/social-media-beautysalons-meer-klanten) en review-opvolging. Met slechts **15 minuten per maand** aan jouw kant.
+Bij StudioLee nemen we de complete digitale communicatie uit handen. Van automatische bevestigingen tot [social media](/blog/social-media-beautysalons-instagram) en review-opvolging. Met slechts **15 minuten per maand** aan jouw kant.
 
 De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
 

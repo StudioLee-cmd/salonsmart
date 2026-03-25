@@ -42,7 +42,7 @@ Instagram is niet dood — maar de manier waarop je het gebruikt, bepaalt of het
 - **Call-to-action in bio** — een directe boekingslink, niet alleen je telefoonnummer
 - **Consistentie** — minstens 3 posts per week om zichtbaar te blijven
 
-Bekijk ook onze tips voor [social media voor beautysalons](/blog/social-media-beautysalons-slim-content-plannen).
+Bekijk ook onze tips voor [social media voor beautysalons](/blog/social-media-beautysalons-instagram).
 
 ### 3. Samenwerkingen met complementaire bedrijven
 
@@ -63,11 +63,11 @@ Een introductieaanbieding verlaagt de drempel voor nieuwe klanten:
 - **Eerste behandeling -20%** — genoeg korting om te verleiden, niet zo veel dat het je service devalueert
 - **Vriendinnenactie** — "Kom samen en ontvang beiden 10% korting"
 
-Belangrijk: de introductieaanbieding is de start, niet het doel. Focus op [klantretentie](/blog/klantretentie-beautysalon-5-procent-meer-25-procent-winst) zodat die nieuwe klant ook terugkomt.
+Belangrijk: de introductieaanbieding is de start, niet het doel. Focus op [klantretentie](/blog/klantretentie-beautysalon-meer-winst) zodat die nieuwe klant ook terugkomt.
 
 ### 5. Email marketing voor heractivering
 
-Veel salons hebben een klantenbestand vol inactieve klanten — mensen die ooit zijn geweest maar niet meer terugkomen. [Email marketing](/blog/email-marketing-beautysalons-klantcontact) is het perfecte middel om hen terug te winnen:
+Veel salons hebben een klantenbestand vol inactieve klanten — mensen die ooit zijn geweest maar niet meer terugkomen. [Email marketing](/blog/email-marketing-beautysalon-klantcontact) is het perfecte middel om hen terug te winnen:
 
 - "We missen je! Boek een behandeling en ontvang een gratis mini-facial"
 - Seizoensgebonden aanbiedingen: "Zomerklaar? Boek nu je zomerbehandeling"
@@ -96,5 +96,5 @@ De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei in nieuwe klan
 
 Wachten tot klanten vanzelf komen is geen strategie. Beautysalons die actief investeren in meerdere leadkanalen — Google, social media, samenwerkingen en email marketing — bouwen een constante stroom aan nieuwe klanten op. Begin met het kanaal dat het best past bij jouw salon en bouw van daaruit verder.
 
-Lees ook hoe je [upselling slim toepast in je salon](/blog/upselling-beautysalon-omzet-per-klant) en hoe je met [seizoensmarketing het hele jaar door actief blijft](/blog/seizoensmarketing-beautysalon-acties-trends).
+Lees ook hoe je [upselling slim toepast in je salon](/blog/upselling-beautysalon-meer-omzet-per-klant) en hoe je met [seizoensmarketing het hele jaar door actief blijft](/blog/seizoensmarketing-beautysalon-acties).
 

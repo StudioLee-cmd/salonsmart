@@ -21,7 +21,7 @@ De snelste winst: automatische herinneringen die no-shows verminderen:
 - **Bevestiging vragen**: laat de klant met één klik bevestigen of wijzigen
 - **Na de afspraak**: bedankmail met een link om een volgende afspraak te boeken
 
-No-shows kosten salons gemiddeld 10-15% van de omzet. Automatische herinneringen halveren dat. Lees meer over hoe [online boeken](/blog/online-boeken-beautysalons) je planning verder optimaliseert.
+No-shows kosten salons gemiddeld 10-15% van de omzet. Automatische herinneringen halveren dat. Lees meer over hoe [online boeken](/blog/online-boeken-beautysalon-verwachting-2026) je planning verder optimaliseert.
 
 ## Verjaardagsacties en seizoensaanbiedingen
 
@@ -52,7 +52,7 @@ E-mailmarketing hoeft niet duur te zijn:
 - **Mailchimp**: gratis tot 500 contacten, goed voor nieuwsbrieven
 - **Brevo**: goede automatisering, betaalbaar
 
-Begin met je boekingssoftware voor afspraakherinneringen. Voeg later een e-mailtool toe voor nieuwsbrieven en seizoensacties. De investering is minimaal, het rendement aanzienlijk. Versterk het effect door [klantretentie](/blog/klantretentie-beautysalon) als prioriteit te behandelen.
+Begin met je boekingssoftware voor afspraakherinneringen. Voeg later een e-mailtool toe voor nieuwsbrieven en seizoensacties. De investering is minimaal, het rendement aanzienlijk. Versterk het effect door [klantretentie](/blog/klantretentie-beautysalon-meer-winst) als prioriteit te behandelen.
 
 ## Conclusie
 

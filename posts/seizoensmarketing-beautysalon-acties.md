@@ -21,7 +21,7 @@ Het verschil met salons die het niet doen? Een stabielere omzet, minder rustige 
 
 Het voorjaar is het seizoen van vernieuwing. Klanten willen af van de winterhuid en klaar zijn voor de zomer:
 
-**Huidverzorgingspakketten**. Na de winter is de huid vaak droog en dof. Bied een lentepakket aan: dieptereiniging + hydratatie + gezichtsmassage voor een vaste prijs. Promoot het als "lentefrisse huid" op [social media](/blog/social-media-voor-beautysalons).
+**Huidverzorgingspakketten**. Na de winter is de huid vaak droog en dof. Bied een lentepakket aan: dieptereiniging + hydratatie + gezichtsmassage voor een vaste prijs. Promoot het als "lentefrisse huid" op [social media](/blog/social-media-voor-salons).
 
 **Browlifts en lashlifts**. Het voorjaar is het populairste moment voor wenkbrauw- en wimperbehandelingen. Klanten willen er fris uitzien voor het buitenseizoen. Plan extra capaciteit in voor deze behandelingen.
 
@@ -47,11 +47,11 @@ Na de zomer verandert de behoefte van klanten. De herfst en winter bieden unieke
 
 **Huidherstel na de zomer**. Zonbeschadigde huid, droogheid en pigmentvlekken. Positioneer je herfsbehandelingen als "reset voor je huid."
 
-**Wellnesspakketten**. De donkere maanden vragen om verwennerij. Bied relaxbehandelingen, aromatherapie en [lichaamsverzorging](/blog/upselling-beautysalon) aan als wellness-ervaring. Dit trekt klanten die normaal alleen voor een standaardbehandeling komen.
+**Wellnesspakketten**. De donkere maanden vragen om verwennerij. Bied relaxbehandelingen, aromatherapie en [lichaamsverzorging](/blog/leadgeneratie-beautysalon) aan als wellness-ervaring. Dit trekt klanten die normaal alleen voor een standaardbehandeling komen.
 
 **Feestdagenplanning**. December is de drukste maand. Begin in oktober met promoten: kerstpakketten, oud-en-nieuw-looks, groepsboekingen voor bedrijfsfeesten. Bied early-bird kortingen aan voor klanten die in oktober boeken.
 
-**Cadeaubonnen voor de feestdagen**. November en december zijn de maanden voor cadeaubonnen. Promoot ze actief via [email marketing](/blog/email-marketing-beautysalons), social media en in je salon. Ze brengen nieuwe klanten in januari — traditioneel de rustigste maand.
+**Cadeaubonnen voor de feestdagen**. November en december zijn de maanden voor cadeaubonnen. Promoot ze actief via [email marketing](/blog/email-marketing-beautysalon-klantcontact), social media en in je salon. Ze brengen nieuwe klanten in januari — traditioneel de rustigste maand.
 
 ## Je seizoenskalender opzetten
 
@@ -67,7 +67,7 @@ Plan je marketing voor het hele jaar in een middag:
 | November | Feestdagen + Black Friday | Early-bird kerstpakketten |
 | December | Cadeaubonnen + feestlooks | Cadeauboncampagne |
 
-Gebruik je [email marketing](/blog/email-marketing-beautysalons) en [social media](/blog/social-media-voor-beautysalons) om elke actie minimaal twee weken van tevoren te communiceren. Consistentie is de sleutel — klanten moeten weten dat ze bij jou terecht kunnen voor seizoensbehandelingen.
+Gebruik je [email marketing](/blog/email-marketing-beautysalon-klantcontact) en [social media](/blog/social-media-voor-salons) om elke actie minimaal twee weken van tevoren te communiceren. Consistentie is de sleutel — klanten moeten weten dat ze bij jou terecht kunnen voor seizoensbehandelingen.
 
 ## Aan de slag
 
