@@ -7,8 +7,6 @@ image: "/images/blog/klantcommunicatie-beautysalon.png"
 tags: ["klantcommunicatie", "beautysalon", "klanttevredenheid"]
 ---
 
-# Klantcommunicatie voor je beautysalon: van bevestiging tot follow-up
-
 Elk bezoek aan je beautysalon begint en eindigt met communicatie. De bevestiging, de herinnering, het gesprek tijdens de behandeling, de nazorg — elke interactie bepaalt of je klant terugkomt. Toch laten veel salons deze contactmomenten onbenut.
 
 ## Waarom communicatie zo belangrijk is

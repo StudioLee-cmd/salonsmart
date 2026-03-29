@@ -7,8 +7,6 @@ image: "/images/blog/mond-tot-mondreclame-beautysalon.png"
 tags: ["mond-tot-mond", "beautysalon", "marketing"]
 ---
 
-# Mond-tot-mondreclame voor je beautysalon: klanten als ambassadeurs
-
 "Waar heb jij dat laten doen?" Dat is de beste marketingvraag die er bestaat. Wanneer een vriendin je wenkbrauwen, huidbehandeling of manicure complimenteert en je je salon noemt — dat is mond-tot-mondreclame in actie. Geen advertentie, geen social media post, gewoon oprechte aanbeveling.
 
 Voor beautysalons is dit de krachtigste groeistrategie. In dit artikel leer je hoe je er actief aan werkt.

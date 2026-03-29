@@ -7,8 +7,6 @@ image: "/images/blog/samenwerken-als-beautysalon-partnerschappen.png"
 tags: ["samenwerkingen", "beautysalon", "groei"]
 ---
 
-# Samenwerken als beautysalon: partnerschappen die je salon laten groeien
-
 Als beautysalon heb je te maken met seizoenspieken (bruiloften, feestdagen) en rustigere periodes. Samenwerkingen met complementaire bedrijven helpen je om het hele jaar door een volle agenda te houden — en nieuwe klantsegmenten aan te boren.
 
 ## Waarom partnerschappen voor beautysalons werken
@@ -53,7 +51,7 @@ Combineer je krachten met partners voor seizoensgebonden aanbiedingen: een "Vale
 
 ## Online zichtbaarheid
 
-Vermeld je samenwerkingspartners op je [website](/blog/beautysalon-website-meer-boekingen). Deel gezamenlijke [before-after content](/blog/social-media-beautysalons-meer-klanten) op sociale media. Link naar elkaars websites — dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-beautysalon).
+Vermeld je samenwerkingspartners op je [website](/blog/salonwebsite-boekingsmachine). Deel gezamenlijke [before-after content](/blog/social-media-beautysalons-instagram) op sociale media. Link naar elkaars websites — dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-beautysalon).
 
 ## Resultaten meten
 

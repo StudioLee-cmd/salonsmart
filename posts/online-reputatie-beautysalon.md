@@ -7,8 +7,6 @@ image: "/images/blog/online-reputatie-beautysalon.png"
 tags: ["online reputatie", "beautysalon", "reviews"]
 ---
 
-# Online reputatie als beautysalon: reviews die nieuwe klanten trekken
-
 "Ken je een goede beautysalon?" Die vraag wordt steeds vaker beantwoord via Google in plaats van via vriendinnen. Klanten googelen, vergelijken sterren en lezen reviews. Jouw online reputatie is het eerste filter.
 
 ## Waarom reviews alles bepalen voor beautysalons

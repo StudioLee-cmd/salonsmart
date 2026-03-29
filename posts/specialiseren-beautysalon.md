@@ -7,8 +7,6 @@ image: "/images/blog/specialiseren-beautysalon.png"
 tags: ["specialisatie", "beautysalon", "groei"]
 ---
 
-# Specialiseren als beautysalon: van alleskunner naar expert
-
 Elke beautysalon biedt gezichtsbehandelingen, manicures en massage. Dat is de standaard. Maar de salons die het hardst groeien, zijn de salons die ergens expert in zijn. Specialisatie maakt je onmisbaar.
 
 ## Waarom specialisatie werkt
