@@ -5,6 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-beautysalon-software-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
+cluster: "tools-uitleg"
 ---
 
 Of je nu een nagelsalon, wimper studio of schoonheidssalon runt — zonder goede software loop je klanten mis. Maar welke software past bij jouw salon? De keuze is groot, en niet elke tool doet hetzelfde.

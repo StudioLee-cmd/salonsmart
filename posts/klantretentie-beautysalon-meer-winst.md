@@ -5,6 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantretentie-beautysalon-meer-winst.png"
 tags: ["Beautysalon", "Klantretentie", "Winst"]
+cluster: "crm-klantbeheer"
 ---
 
 ## De kracht van retentie

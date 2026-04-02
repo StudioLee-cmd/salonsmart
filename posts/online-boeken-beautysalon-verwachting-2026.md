@@ -5,6 +5,7 @@ date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-boeken-beautysalon-verwachting-2026.png"
 tags: ["Beautysalon", "Online Boeken", "Klantbeleving"]
+cluster: "klantbeleving"
 ---
 
 ## Waarom bellen niet meer genoeg is

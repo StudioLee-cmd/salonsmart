@@ -5,6 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/treatwell-vs-salonsmart-welke-past-bij-jouw-beautysalon.png"
 tags: ["Tools", "Vergelijking", "Beauty Salons"]
+cluster: "tools-uitleg"
 ---
 
 Treatwell is het bekendste boekingsplatform voor beauty salons. Klanten vinden je via het platform en boeken direct. Maar je betaalt commissie, klanten zijn van Treatwell, en marketing doe je zelf. SalonSmart pakt het anders aan.

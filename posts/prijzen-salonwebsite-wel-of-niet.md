@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-salonwebsite-wel-of-niet.png"
 tags: ["Prijzen", "Website", "Strategie"]
+cluster: "prijzen-communiceren"
 ---
 
 ## Het grote prijzendebat

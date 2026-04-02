@@ -5,6 +5,7 @@ date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/personal-branding-beautysalon.png"
 tags: ["Branding", "Marketing", "Groei"]
+cluster: "branding"
 ---
 
 In elke stad zijn tientallen beautysalons. Ze bieden vergelijkbare behandelingen voor vergelijkbare prijzen. Toch zijn er altijd salons die voller zitten dan andere. Het verschil? Branding. De salons die eruit springen hebben een herkenbare identiteit die klanten aanspreekt en bindt.

@@ -5,6 +5,7 @@ date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-beautysalon.png"
 tags: ["specialisatie", "beautysalon", "groei"]
+cluster: "specialisatie"
 ---
 
 Elke beautysalon biedt gezichtsbehandelingen, manicures en massage. Dat is de standaard. Maar de salons die het hardst groeien, zijn de salons die ergens expert in zijn. Specialisatie maakt je onmisbaar.

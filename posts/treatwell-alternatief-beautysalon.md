@@ -5,6 +5,7 @@ date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/treatwell-alternatief-beautysalon.jpg"
 tags: ["Vergelijking", "Software", "Groei"]
+cluster: "software-vergelijking"
 ---
 
 ## Waarom beautysalons Treatwell verlaten

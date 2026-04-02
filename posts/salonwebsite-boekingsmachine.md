@@ -7,6 +7,7 @@ image: "/images/blog/salonwebsite-boekingsmachine.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["website", "beautysalon", "conversie"]
+cluster: "website-conversie"
 ---
 
 ## Waarom je salonwebsite meer kan opleveren
