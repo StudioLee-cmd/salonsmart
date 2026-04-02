@@ -1,7 +1,7 @@
 ---
 title: "Treatwell alternatief: eigen boekingssysteem zonder commissie"
 excerpt: "Stop met commissie betalen per boeking. Ontdek alternatieven voor Treatwell die je salon meer opleveren."
-date: "2026-04-01"
+date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/treatwell-alternatief-salons-eigen-boekingssysteem.png"
 tags: ["Software", "Boekingen"]
