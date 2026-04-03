@@ -17,7 +17,7 @@ Het verschil tussen een goed draaiende salon en een halfvolle agenda zit vaak ni
 
 Beautybezoeken worden impulsief geboekt. De klant ziet een Instagram-post, wil een behandeling en boekt binnen vijf minuten — of scrolt door. Snelheid is cruciaal:
 
-- **Instagram DM:** Automatisch antwoord met boekingslink binnen 1 minuut
+- **Instagram DM:** [automatisch antwoord](/chatbot) met boekingslink binnen 1 minuut
 - **WhatsApp:** Directe reactie met beschikbare tijden
 - **Website:** Online boekingssysteem dat 24/7 beschikbaar is
 - **Telefoon gemist:** Automatische WhatsApp: "Sorry dat we je misten! Wil je een afspraak boeken? [link]"
