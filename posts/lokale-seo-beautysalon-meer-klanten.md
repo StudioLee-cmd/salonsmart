@@ -11,7 +11,7 @@ tags: ["Lokale SEO", "Vindbaarheid", "Beautysalon", "Google"]
 
 De gemiddelde klant reist maximaal 15 minuten voor een beautysalon. Dat maakt lokale vindbaarheid cruciaal: als jij niet verschijnt bij "nagelstudio [stad]" of "beautysalon bij mij in de buurt", mis je klanten die letterlijk om de hoek wonen.
 
-Treatwell en andere platforms helpen, maar ze nemen commissie en je bent afhankelijk van hun algoritme. Lokale SEO geeft je eigen zichtbaarheid — gratis en onder jouw controle.
+Treatwell en andere platforms helpen, maar ze nemen commissie en je bent afhankelijk van hun algoritme. [lokale SEO](/seo) geeft je eigen zichtbaarheid — gratis en onder jouw controle.
 
 ## Google Bedrijfsprofiel volledig invullen
 
