@@ -53,6 +53,16 @@ Je hoeft niet alles in één keer te veranderen. Begin met je website en social 
 3. Post resultaten op Instagram die je expertise tonen
 4. Vraag klanten om reviews die je specialisatie noemen
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als salon.
+
+Een [SEO en vindbaarheid](/seo) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [social media](/social-media) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 Specialiseren is geen beperking — het is bevrijding. Je trekt precies de klanten aan die je wilt, tegen prijzen die je verdient, en bouwt een reputatie op die de concurrentie niet kan kopiëren.
