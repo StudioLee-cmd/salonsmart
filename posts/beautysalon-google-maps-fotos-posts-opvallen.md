@@ -59,4 +59,4 @@ Je kunt dit stimuleren door na de behandeling te zeggen: "Wil je een foto maken 
 
 Een goed onderhouden Google Bedrijfsprofiel met regelmatig nieuwe foto's en posts kost je maximaal een halfuur per week. Het rendement is direct meetbaar in meer profielweergaven, meer websitebezoeken en meer [boekingen](/gratis-scan).
 
-Wil je weten hoe jouw Google-profiel er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan en ontvang concrete verbeterpunten.
+Combineer je Google-profiel met professionele [SEO](/seo) voor maximale lokale vindbaarheid. Wil je weten hoe jouw Google-profiel er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan en ontvang concrete verbeterpunten.
