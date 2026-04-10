@@ -61,4 +61,4 @@ De investering verdient zichzelf terug binnen de eerste maand. Al twee extra kla
 
 Een NFC- en QR-review kaart is een eenmalige investering die maand na maand oplevert. Klanten vinden het leuk om te scannen, het voelt niet als een verzoek, en je review-aantal groeit zonder dat jij er iets voor hoeft te doen.
 
-Wil je weten hoe je review kaarten combineert met automatische review-verzoeken? Vraag een [gratis scan](/gratis-scan) aan en we helpen je met een compleet review-plan.
+Meer reviews versterkt ook je [vindbaarheid op Google](/seo). Wil je weten hoe je review kaarten combineert met automatische [review-verzoeken](/reviews) met automatische review-verzoeken? Vraag een [gratis scan](/gratis-scan) aan en we helpen je met een compleet review-plan.
