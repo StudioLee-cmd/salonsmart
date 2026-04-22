@@ -2,11 +2,11 @@
 title: "Salon leads opvolgen: nieuwe klanten winnen"
 excerpt: "Een potentiële klant vraagt informatie op via je website of Instagram. Hoe snel je reageert bepaalt of ze boeken bij jou of bij de concurrent."
 date: "2026-04-19"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/salon-leads-opvolgen-nieuwe-klanten-winnen.jpg"
 tags: ["Lead-opvolging", "Groei", "Tips"]
 ---
-
 ## De klant die je niet terugbelt, boekt ergens anders
 
 Een vrouw stuurt een DM op Instagram: "Wat kost een gezichtsbehandeling?" Je ziet het pas drie uur later. Tegen die tijd heeft ze al geboekt bij de salon die wél binnen 15 minuten reageerde.

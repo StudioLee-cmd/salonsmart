@@ -2,11 +2,11 @@
 title: "Schoonheidssalon: van DM-vraag naar geboekte afspraak"
 excerpt: "Instagram-DM's zijn voor schoonheidssalons een belangrijk verkoopkanaal. Lees hoe je vragen omzet in boekingen zonder te pushen."
 date: "2026-04-08"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schoonheidssalon-leads-opvolgen-dm-naar-boeking.jpg"
 tags: ["Lead opvolging", "Schoonheidssalon", "Instagram"]
 ---
-
 ## Waarom DM's je belangrijkste verkoopkanaal zijn
 
 Een potentiele klant scrollt op Instagram. Ze ziet een mooi voor-na resultaat van een wenkbrauwbehandeling op jouw account. Ze tikt op je profiel, kijkt naar nog wat foto's, en stuurt een DM: "Hi! Hoeveel kost dit?". Dit is geen vrijblijvende vraag. Dit is een gekwalificeerde lead die binnen één uur antwoord verwacht.

@@ -2,11 +2,11 @@
 title: "Lokale SEO voor beautysalons: meer klanten"
 excerpt: "Klanten in je buurt zoeken online naar een beautysalon. Ontdek hoe je met lokale SEO bovenaan verschijnt en meer boekingen uit je wijk haalt."
 date: "2026-04-03"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-seo-beautysalon-meer-klanten.jpg"
 tags: ["Lokale SEO", "Vindbaarheid", "Beautysalon", "Google"]
 ---
-
 ## Waarom lokale vindbaarheid alles bepaalt voor salons
 
 De gemiddelde klant reist maximaal 15 minuten voor een beautysalon. Dat maakt lokale vindbaarheid cruciaal: als jij niet verschijnt bij "nagelstudio [stad]" of "beautysalon bij mij in de buurt", mis je klanten die letterlijk om de hoek wonen.

@@ -2,11 +2,11 @@
 title: "Schoonheidssalon vindbaar op Google: complete SEO-gids"
 excerpt: "Ontdek hoe je schoonheidssalon hoger scoort in Google. Van Google Bedrijfsprofiel tot content: de complete gids voor lokale vindbaarheid."
 date: "2026-04-07"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schoonheidssalon-vindbaar-google-tips.jpg"
 tags: ["SEO", "Vindbaarheid", "Schoonheidssalon"]
 ---
-
 ## Waarom online vindbaarheid voor schoonheidssalons alles verandert
 
 Zeven van de tien nieuwe klanten vinden hun schoonheidssalon via Google. Ze zoeken "beautysalon [stad]", "gezichtsbehandeling in de buurt", of "beste nagelsalon [wijk]" en kiezen uit de eerste resultaten die verschijnen.

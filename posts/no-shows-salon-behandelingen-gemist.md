@@ -2,11 +2,11 @@
 title: "No-shows in je salon: hoeveel omzet mis je echt?"
 excerpt: "Gemiste behandelingen kosten je salon duizenden euro's per jaar. Bereken je verlies en ontdek wat je eraan kunt doen."
 date: "2026-04-17"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-salon-behandelingen-gemist.jpg"
 tags: ["No-shows", "Salon", "Omzet"]
 ---
-
 ## De stille omzetkiller
 
 Een klant die niet komt opdagen voor haar gezichtsbehandeling. Een andere die zonder bericht zijn afspraak voor een massage overslaat. Als saloneigenaar ken je het probleem. Elke no-show is een leeg behandeluur dat je niet meer kunt vullen, en de kosten draaien gewoon door.

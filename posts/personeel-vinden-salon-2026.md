@@ -2,11 +2,11 @@
 title: "Personeel vinden als salon: wat werkt in 2026"
 excerpt: "Personeel voor je salon vinden is in 2026 de grootste groeirem. Welke werving-tactieken echt werken bij kappers, schoonheidsspecialistes en nagelstylistes."
 date: "2026-04-21"
+cluster: "personeel"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/personeel-vinden-salon-2026.jpg"
 tags: ["Salon", "Personeel", "Werving", "HR"]
 ---
-
 Je hebt genoeg klanten, de omzet kan omhoog, je zou de agenda zo vol kunnen boeken — maar je komt niet verder omdat je simpelweg geen extra kapper, schoonheidsspecialiste of nagelstyliste kunt vinden. Dat is voor veel saloneigenaren in 2026 de grootste groeirem. De arbeidsmarkt voor beautyprofessionals is structureel krap, vacatures staan gemiddeld 4-8 maanden open, en de traditionele kanalen (Indeed, Marktplaats, social media) leveren steeds minder op.
 
 Deze gids behandelt wat in 2026 wél werkt om personeel te vinden en te behouden. Welke kanalen nog resultaat geven, hoe je een vacature schrijft die mensen willen lezen, welke secundaire voorwaarden echt het verschil maken, en hoe je zorgt dat personeel eenmaal binnen ook blijft. Ook: drie dingen die bijna elke salon fout doet en die kandidaten afstoten nog voordat ze gereageerd hebben.

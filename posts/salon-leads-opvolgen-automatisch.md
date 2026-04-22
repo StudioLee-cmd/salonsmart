@@ -2,11 +2,11 @@
 title: "Salon leads automatisch opvolgen: van aanvraag naar afspraak"
 excerpt: "Salons missen dagelijks leads door trage opvolging. Leer hoe automatisering elke aanvraag omzet in een geboekte afspraak."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/salon-leads-opvolgen-automatisch.jpg"
 tags: ["Leads", "Salon", "Automatisering"]
 ---
-
 ## De DM die je te laat beantwoordde
 
 Een potentiële klant stuurt een bericht via Instagram: "Wat kost een balayage bij jullie?" Je ziet het twee uur later, na drie behandelingen. Tegen die tijd heeft de klant al geboekt bij een salon die binnen 10 minuten reageerde.

@@ -2,11 +2,11 @@
 title: "Portfolio beautysalon opbouwen: van foto's naar boekingen"
 excerpt: "Leer hoe je een professioneel portfolio voor je beautysalon opbouwt — van routine foto's maken tot slim archiveren en inzetten voor meer boekingen."
 date: "2026-04-16"
+cluster: "portfolio"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/portfolio-beautysalon-opbouwen-klanten.jpg"
 tags: ["Beautysalon", "Portfolio", "Marketing"]
 ---
-
 ## Waarom een portfolio jouw stilste verkoper is
 
 Een potentiële klant zoekt op Instagram naar een nailstudio in haar buurt. Ze tikt op je profiel, scrolt door je laatste 12 posts, en beslist binnen 7 seconden of ze je een DM stuurt of door scrollt naar de volgende salon. Dit gebeurt 24/7, ook als jij gesloten bent en je telefoon op stil staat. Je portfolio doet dat verkoopwerk in jouw plaats. Of niet, als hij rommelig, oud of incompleet is.

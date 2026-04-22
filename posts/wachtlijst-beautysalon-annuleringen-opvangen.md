@@ -2,11 +2,11 @@
 title: "Wachtlijst in je salon: annuleringen direct opvangen"
 excerpt: "Klant annuleert op het laatste moment? Met een wachtlijst vul je de lege plek binnen minuten. Zo werkt het voor beautysalons."
 date: "2026-04-12"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wachtlijst-beautysalon-annuleringen-opvangen.jpg"
 tags: ["No-shows", "Planning", "Groei"]
 ---
-
 ## De verborgen oplossing voor annuleringen
 
 Elke salonhouder kent het gevoel: een klant belt een uur van tevoren af en je zit met een leeg blok. De behandeltafel is klaar, de producten liggen er, maar er is niemand. Intussen staan er klanten te wachten op een plek die pas over twee weken beschikbaar is.

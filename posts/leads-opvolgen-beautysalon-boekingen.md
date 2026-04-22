@@ -2,11 +2,11 @@
 title: "Leads opvolgen als beautysalon: meer boekingen"
 excerpt: "Klanten die informeren maar niet boeken? Ontdek hoe je als beautysalon leads opvolgt en van geïnteresseerden betalende klanten maakt."
 date: "2026-04-03"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-beautysalon-boekingen.jpg"
 tags: ["Leads", "Lead opvolging", "Beautysalon", "Boekingen"]
 ---
-
 ## Het lek in je boekingsfunnel
 
 Een potentiële klant bekijkt je Instagram, bezoekt je website, vergelijkt prijzen — en boekt ergens anders. Niet omdat jij slechter bent, maar omdat je concurrent sneller reageerde, een betere aanbieding had of simpelweg makkelijker te boeken was.

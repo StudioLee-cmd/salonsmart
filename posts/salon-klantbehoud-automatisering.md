@@ -2,11 +2,11 @@
 title: "Klantbehoud in de salon: zo komt elke klant terug na het derde bezoek"
 excerpt: "De meeste salons verliezen klanten na het eerste bezoek. Ontdek hoe je met automatisering het derde bezoek haalt en vaste klanten bouwt."
 date: "2026-04-06"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/salon-klantbehoud-automatisering.jpg"
 tags: ["Klantbehoud", "Salon", "Automatisering"]
 ---
-
 ## Het verschil tussen een volle en een halfvolle agenda
 
 Elke salon kent het patroon: een nieuwe klant komt binnen, is tevreden, maar komt niet terug. Niet omdat de behandeling slecht was, maar omdat er niets gebeurde tussen het eerste en het potentiële tweede bezoek. Geen berichtje, geen herinnering, geen reden om specifiek jouw salon te kiezen boven de ene drie straten verderop.

@@ -2,11 +2,11 @@
 title: "Review kaart in je salon: NFC en QR voor moeiteloze Google reviews"
 excerpt: "Met een NFC- of QR-kaart in je salon vragen klanten zelf om een review te schrijven. Zo kies en gebruik je de juiste review kaart."
 date: "2026-04-09"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nfc-qr-review-kaart-salon-google-reviews.jpg"
 tags: ["Reviews", "Salon", "NFC"]
 ---
-
 ## Waarom een fysieke review kaart werkt
 
 Je klant staat tevreden bij de balie. Haar nagels zijn perfect, haar wenkbrauwen staan scherp. Dit is het moment om te vragen: "Zou je een review willen achterlaten?" Maar dat voelt ongemakkelijk. En zelfs als je het vraagt, zegt de klant "ja, doe ik thuis" en vergeet het.

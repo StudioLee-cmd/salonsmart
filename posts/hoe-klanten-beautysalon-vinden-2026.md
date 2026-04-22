@@ -2,11 +2,11 @@
 title: "Hoe klanten je beautysalon vinden in 2026"
 excerpt: "Van Google tot Instagram en mond-tot-mond: zo ontdekken klanten jouw beautysalon in 2026. Praktische tips per kanaal."
 date: "2026-04-15"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-klanten-beautysalon-vinden-2026.jpg"
 tags: ["Vindbaarheid", "Marketing", "Google"]
 ---
-
 Een nieuwe klant loopt je salon niet meer zomaar binnen. Ze zoekt eerst op Google, scrolt door Instagram, leest reviews, en vergelijkt drie salons voordat ze een boeking maakt. De manier waarop klanten een beautysalon vinden is in 2026 compleet anders dan vijf jaar geleden.
 
 De vraag is niet of je online zichtbaar moet zijn. De vraag is: ben je zichtbaar op de plekken waar je klanten daadwerkelijk zoeken? In dit artikel lopen we de belangrijkste kanalen af en laten we zien hoe je op elk kanaal gevonden wordt.

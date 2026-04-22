@@ -2,11 +2,11 @@
 title: "No-show beleid voor je salon: zo stel je het op"
 excerpt: "Wil je minder no-shows in je beautysalon? Leer hoe je een eerlijk annuleringsbeleid opstelt dat klanten respecteren en je omzet beschermt."
 date: "2026-04-11"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-show-beleid-salon-opstellen.jpg"
 tags: ["No-shows", "Salonbeheer", "Groei"]
 ---
-
 ## Waarom een no-show beleid onmisbaar is
 
 Een klant die niet komt opdagen zonder af te zeggen kost je meer dan alleen een leeg uur. Je hebt producten klaargelegd, een behandelstoel vrijgehouden en misschien zelfs een andere klant geweigerd. Bij een gemiddelde behandeling van 50 tot 80 euro loopt dat snel op. Twee no-shows per week betekent 400 tot 600 euro per maand aan gemiste omzet.

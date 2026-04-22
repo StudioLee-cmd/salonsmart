@@ -2,11 +2,11 @@
 title: "Google Maps foto's en posts voor je beautysalon: zo val je op in de zoekresultaten"
 excerpt: "Foto's en posts op je Google Bedrijfsprofiel maken het verschil voor je salon. Zo gebruik je ze voor meer klanten."
 date: "2026-04-10"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beautysalon-google-maps-fotos-posts-opvallen.jpg"
 tags: ["Vindbaarheid", "Salon", "Google Maps"]
 ---
-
 ## Eerste indruk: je Google-profiel is je etalage
 
 Wanneer iemand zoekt op "beautysalon in de buurt" ziet ze drie resultaten op Google Maps. Ze klikt op het profiel met de mooiste foto's, de meeste reviews en de meest actuele informatie. De salon met een wazig logo en twee foto's van de gevel wordt overgeslagen.

@@ -2,11 +2,11 @@
 title: "Beauty salon Instagram: 7 post-formats voor boekingen"
 excerpt: "Welke zeven Instagram post-formats daadwerkelijk boekingen opleveren voor schoonheidssalons in Nederland, met concrete caption-structuren en posting-cadans die de engagement écht benut."
 date: "2026-04-22"
+cluster: "social-media"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beauty-salon-instagram-content-post-formats-boekingen.jpg"
 tags: ["Salon", "Instagram", "Social Media", "Content"]
 ---
-
 De meeste schoonheidssalons gooien zonder nadenken content op Instagram: een foto van vandaag gemaakte nagels, een selfie met klant, een paar voor/na shots. Het gevolg is voorspelbaar: followers blijven stabiel, likes schommelen, directe boekingen uit social media blijven minimaal. Instagram voelt als verplichting die niks oplevert.
 
 Wat de salons die er wél resultaat uit halen doen is niet meer content posten, maar specifieke content-formats posten. Er zijn zeven post-formats die bij beauty salons structureel boekingen opleveren. In deze gids staan ze alle zeven, met caption-sjablonen, posting-cadans, en de reden waarom ze werken.

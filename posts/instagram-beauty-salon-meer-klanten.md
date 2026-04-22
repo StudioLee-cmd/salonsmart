@@ -2,11 +2,11 @@
 title: "Instagram als beauty salon: zo trek je meer klanten"
 excerpt: "Je salon doet fantastisch werk, maar je Instagram toont dat niet. Ontdek welke content werkt en hoe je structureel meer klanten trekt via Instagram."
 date: "2026-04-18"
+cluster: "social-media"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/instagram-beauty-salon-meer-klanten.jpg"
 tags: ["Social Media", "Instagram", "Klanten"]
 ---
-
 ## Waarom Instagram essentieel is voor beauty salons
 
 Beauty is visueel. Instagram is visueel. De match is perfect. Geen enkel ander platform laat je zo effectief zien wat je kunt als Instagram. Voor-en-na transformaties, close-ups van nagels of wenkbrauwen, de sfeer van je salon: het is content die deelbaar is en die vertrouwen opbouwt.

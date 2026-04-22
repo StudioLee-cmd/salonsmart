@@ -2,11 +2,11 @@
 title: "Upselling in je salon: meer omzet zonder opdringerig te zijn"
 excerpt: "Upselling hoeft niet ongemakkelijk te zijn. Ontdek hoe je als salonhouder natuurlijk meer verkoopt bij elke behandeling, zonder je klant het gevoel te geven dat je pusht."
 date: "2026-04-14"
+cluster: "upselling"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/upselling-salon-meer-omzet.jpg"
 tags: ["Upselling", "Salon Management", "Omzet"]
 ---
-
 ## Waarom de meeste salons omzet laten liggen
 
 Een klant komt voor een knipbeurt van €45 en vertrekt met precies dat: een knipbeurt van €45. Geen verzorgingsproduct, geen extra behandeling, geen vervolgafspraak. Niet omdat de klant het niet zou willen, maar omdat niemand het aanbood.

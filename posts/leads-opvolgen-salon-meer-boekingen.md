@@ -2,11 +2,11 @@
 title: "Leads opvolgen als salon: zo maak je van elke vraag een boeking"
 excerpt: "Potentiële klanten stellen vragen via je website of social media. Maar worden ze ook klant? Zo volg je leads als salon effectief op."
 date: "2026-04-17"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-salon-meer-boekingen.jpg"
 tags: ["Leads", "Boekingen", "Salon"]
 ---
-
 ## Elke vraag is een potentiele boeking
 
 Een DM op Instagram: "Wat kost een gezichtsbehandeling?" Een e-mail via je website: "Zijn er plekken vrij deze week?" Een telefoontje dat je mist omdat je met een klant bezig bent. Dit zijn allemaal leads, potentiele klanten die al interesse tonen in je salon.

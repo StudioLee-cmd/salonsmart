@@ -2,11 +2,11 @@
 title: "Upselling in de salon: zo verdien je meer per klant"
 excerpt: "Upselling hoeft niet opdringerig te zijn. Ontdek hoe je als salon natuurlijk extra diensten aanbiedt en je omzet per klant verhoogt."
 date: "2026-04-14"
+cluster: "upselling"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/upselling-salon-meer-verdienen-per-klant.jpg"
 tags: ["Upselling", "Salon Tips", "Omzet"]
 ---
-
 ## Elke klant kan meer waard zijn
 
 De gemiddelde salonklant boekt een basisdienst: een knipbeurt, een gezichtsbehandeling of een manicure. Maar de meeste klanten staan open voor meer, als je het op het juiste moment en op de juiste manier aanbiedt.
