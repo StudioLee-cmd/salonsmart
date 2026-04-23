@@ -3,7 +3,7 @@ export const siteDetails = {
     niche: 'Kappers',
     siteUrl: 'https://www.salonsmart.nl/',
     metadata: {
-        title: 'SalonSmart - De slimme assistent voor jouw salon',
+        title: 'SalonSmart - AI assistent voor jouw salon',
         description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. SalonSmart regelt je agenda, telefoon en administratie volledig automatisch.',
     },
     language: 'nl-NL',
