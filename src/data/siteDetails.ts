@@ -1,6 +1,6 @@
 export const siteDetails = {
     siteName: 'SalonSmart',
-    niche: 'Kappers',
+    niche: 'Salons',
     siteUrl: 'https://www.salonsmart.nl/',
     metadata: {
         title: 'SalonSmart - AI assistent voor jouw salon',
