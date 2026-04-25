@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { siteDetails } from "@/data/siteDetails";
 import ReviewsContent from "./ReviewsContent";
 
-const niche = siteDetails.siteName.replace(/AI$/i, "").toLowerCase();
+const niche = (siteDetails.niche?.toLowerCase() || "bedrijven").replace(/s$/, "");
 
 export const metadata: Metadata = {
   title: `Review Management voor ${niche}s | ${siteDetails.siteName}`,
