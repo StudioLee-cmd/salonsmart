@@ -1,6 +1,6 @@
 ---
 title: "Branding voor je salon: visuele consistentie"
-excerpt: "Een herkenbaar salon-merk verhoogt klantloyaliteit en boekingen significant. Welke visuele elementen consistent moeten zijn en hoe je dat vandaag implementeert."
+excerpt: "Een herkenbaar salon-merk verhoogt klantloyaliteit en boekingen. Welke visuele elementen consistent moeten zijn en hoe je dat vandaag implementeert."
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-salon-visuele-consistentie-klanten.jpg"
