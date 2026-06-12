@@ -60,7 +60,7 @@ Een boeking is pas een omzet als de klant daadwerkelijk komt. Tussen boeking en 
 - **24 uur vooraf:** herinnering met tijd en adres
 - **Dag zelf (4 uur vooraf):** korte confirmatie-check
 
-Deze WhatsApps verlagen [no-shows bij schoonheidssalons](/blog/no-shows-voorkomen-schoonheidssalon) meetbaar met 45 tot 65 procent.
+Deze WhatsApps verlagen no-shows bij schoonheidssalons meetbaar met 45 tot 65 procent.
 
 ## Wat de drie systemen samen opleveren
 

@@ -152,7 +152,7 @@ Wat helpt:
 
 ## Automatisering: herhaling + herinneringen
 
-Handmatig blijven bij upselling-opvolging is lastig. Een [slim klant-systeem](/automations) onthoudt per klant welke producten/pakketten zijn genoemd, welke zijn genomen, en welke follow-up past bij de volgende afspraak.
+Handmatig blijven bij upselling-opvolging is lastig. Een slim klant-systeem onthoudt per klant welke producten/pakketten zijn genoemd, welke zijn genomen, en welke follow-up past bij de volgende afspraak.
 
 Bijvoorbeeld: een klant kocht 6 weken geleden reparatieserum. 8 weken later stuurt het systeem automatisch: "Hi [naam], hoe bevalt je reparatieserum? Bijna op? We hebben 'm op voorraad voor je volgende afspraak."
 
