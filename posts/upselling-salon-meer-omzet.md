@@ -1,6 +1,6 @@
 ---
 title: "Upselling in je salon: meer omzet zonder opdringerig te zijn"
-excerpt: "Upselling hoeft niet ongemakkelijk te zijn. Ontdek hoe je als salonhouder natuurlijk meer verkoopt bij elke behandeling, zonder je klant het gevoel te geven dat je pusht."
+excerpt: "Upselling hoeft niet ongemakkelijk te zijn. Ontdek hoe je als salonhouder natuurlijk meer verkoopt bij elke behandeling."
 date: "2026-04-14"
 cluster: "upselling"
 authorSlug: "tim-van-der-lee"

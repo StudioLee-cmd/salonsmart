@@ -1,6 +1,7 @@
 ---
 title: "Concurrentieanalyse voor beautysalons: zo trek je meer klanten"
-excerpt: "Ontdek hoe je als beautysalon de concurrentie analyseert en je onderscheidt met een sterke positionering."
+seoTitle: "Concurrentieanalyse voor beautysalons"
+excerpt: "Ontdek hoe je als beautysalon de concurrentie analyseert en je onderscheidt met een sterke positionering. Met praktisch stappenplan."
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/concurrentieanalyse-beautysalon-onderscheiden.jpg"

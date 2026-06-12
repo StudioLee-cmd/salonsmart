@@ -1,5 +1,6 @@
 ---
 title: "Specialiseren als salon: hoe niche kiezen je meer klanten oplevert"
+seoTitle: "Specialiseren als salon"
 excerpt: "Een salon die alles doet, is voor niemand de beste keuze. Ontdek waarom specialiseren je meer klanten en hogere prijzen oplevert."
 date: "2026-04-05"
 cluster: "specialisatie"

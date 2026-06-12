@@ -1,5 +1,6 @@
 ---
 title: "Klantbehoud in je beautysalon: zo maak je van bezoekers vaste klanten"
+seoTitle: "Klantbehoud in je beautysalon"
 slug: "klantbehoud-beautysalon-vaste-klanten"
 date: "2026-03-23"
 excerpt: "Een vaste klant is vijf keer meer waard dan een nieuwe. Ontdek hoe je als beautysalon bezoekers omzet in loyale klanten die steeds terugkomen."

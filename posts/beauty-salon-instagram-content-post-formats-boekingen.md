@@ -1,6 +1,6 @@
 ---
 title: "Beauty salon Instagram: 7 post-formats voor boekingen"
-excerpt: "Welke zeven Instagram post-formats daadwerkelijk boekingen opleveren voor schoonheidssalons in Nederland, met concrete caption-structuren en posting-cadans die de engagement écht benut."
+excerpt: "Zeven Instagram post-formats die echt boekingen opleveren voor schoonheidssalons, met concrete caption-structuren en een slimme posting-cadans."
 date: "2026-04-22"
 cluster: "social-media"
 authorSlug: "tim-van-der-lee"

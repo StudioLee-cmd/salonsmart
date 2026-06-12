@@ -1,5 +1,6 @@
 ---
 title: "Leadgeneratie voor je beautysalon: nieuwe klanten via slimme kanalen"
+seoTitle: "Leadgeneratie voor je beautysalon"
 excerpt: "Wachten tot klanten vanzelf komen werkt niet meer. Ontdek welke leadkanalen beautysalons over het hoofd zien en hoe je een constante klantstroom opbouwt."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

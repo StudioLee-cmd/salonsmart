@@ -1,5 +1,6 @@
 ---
 title: "Klantretentie in je beautysalon: waarom 5% meer retentie 25% meer winst oplevert"
+seoTitle: "Klantretentie in je beautysalon"
 excerpt: "Het kost 5x meer om een nieuwe klant te werven dan een bestaande te behouden. Zo verhoog je de retentie in je salon — en je winst."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"

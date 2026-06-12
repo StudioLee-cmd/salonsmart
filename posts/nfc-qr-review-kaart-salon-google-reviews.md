@@ -1,5 +1,6 @@
 ---
 title: "Review kaart in je salon: NFC en QR voor moeiteloze Google reviews"
+seoTitle: "Review kaart in je salon"
 excerpt: "Met een NFC- of QR-kaart in je salon vragen klanten zelf om een review te schrijven. Zo kies en gebruik je de juiste review kaart."
 date: "2026-04-09"
 cluster: "review-automatisering"

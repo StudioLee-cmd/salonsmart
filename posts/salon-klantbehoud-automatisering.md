@@ -1,5 +1,6 @@
 ---
 title: "Klantbehoud in de salon: zo komt elke klant terug na het derde bezoek"
+seoTitle: "Klantbehoud in de salon"
 excerpt: "De meeste salons verliezen klanten na het eerste bezoek. Ontdek hoe je met automatisering het derde bezoek haalt en vaste klanten bouwt."
 date: "2026-04-06"
 cluster: "lead-opvolging"

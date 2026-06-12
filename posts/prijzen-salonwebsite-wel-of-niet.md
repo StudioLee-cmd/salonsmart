@@ -1,6 +1,6 @@
 ---
 title: "Prijzen op je salonwebsite: wel of niet doen?"
-excerpt: "Het grote prijzendebat voor beautysalons: ontdek wanneer je prijzen toont, wanneer niet en wat het beste werkt."
+excerpt: "Het grote prijzendebat voor beautysalons: ontdek wanneer je prijzen toont, wanneer niet en wat het beste werkt. Onderbouwd met praktijkcijfers."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-salonwebsite-wel-of-niet.png"

@@ -1,6 +1,7 @@
 ---
 title: "Personal branding als beautysalon: het bekendste adres in je regio"
-excerpt: "Ontdek hoe je als beautysalon een sterk merk opbouwt dat klanten aantrekt en vasthoudt."
+seoTitle: "Personal branding als beautysalon"
+excerpt: "Ontdek hoe je als beautysalon een sterk merk opbouwt dat klanten aantrekt en vasthoudt. Van huisstijl tot social media: praktische stappen."
 date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/personal-branding-beautysalon.png"

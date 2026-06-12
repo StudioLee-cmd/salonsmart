@@ -1,5 +1,6 @@
 ---
 title: "Social Media voor Salons die een Hekel hebben aan Social Media (De \"Luie Methode\")"
+seoTitle: "Social media voor salons: de luie methode"
 excerpt: "Geen dansjes op TikTok. Gewoon je vakmanschap tonen. Met onze AI bouw je een portfolio op Instagram in 5 seconden per week."
 date: "2026-01-15"
 authorSlug: "tim-van-der-lee"

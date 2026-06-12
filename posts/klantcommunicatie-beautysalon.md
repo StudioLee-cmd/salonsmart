@@ -1,5 +1,6 @@
 ---
 title: "Klantcommunicatie voor je beautysalon: van bevestiging tot follow-up"
+seoTitle: "Klantcommunicatie voor je beautysalon"
 excerpt: "Professionele klantcommunicatie verhoogt retentie en verlaagt no-shows. Ontdek hoe je als beautysalon elk contactmoment benut."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

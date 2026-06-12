@@ -1,5 +1,6 @@
 ---
 title: "Leads opvolgen als salon: zo maak je van elke vraag een boeking"
+seoTitle: "Leads opvolgen als salon"
 excerpt: "Potentiële klanten stellen vragen via je website of social media. Maar worden ze ook klant? Zo volg je leads als salon effectief op."
 date: "2026-04-17"
 cluster: "lead-opvolging"

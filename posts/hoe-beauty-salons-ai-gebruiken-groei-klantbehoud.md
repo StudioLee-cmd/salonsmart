@@ -1,6 +1,6 @@
 ---
 title: "Hoe beauty salons AI gebruiken voor groei en klantbehoud"
-excerpt: "AI helpt beauty salons bij afsprakenbeheer, klantcommunicatie en marketing — voor meer vaste klanten en hogere omzet."
+excerpt: "AI helpt beauty salons bij afsprakenbeheer, klantcommunicatie en marketing — voor meer vaste klanten en hogere omzet. Praktische voorbeelden."
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-beauty-salons-ai-gebruiken-groei-klantbehoud.png"

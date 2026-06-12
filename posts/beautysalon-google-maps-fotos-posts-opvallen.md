@@ -1,6 +1,7 @@
 ---
 title: "Google Maps foto's en posts voor je beautysalon: zo val je op in de zoekresultaten"
-excerpt: "Foto's en posts op je Google Bedrijfsprofiel maken het verschil voor je salon. Zo gebruik je ze voor meer klanten."
+seoTitle: "Google Maps foto's en posts voor je beautysalon"
+excerpt: "Foto's en posts op je Google Bedrijfsprofiel maken het verschil voor je salon. Zo gebruik je ze voor meer klanten. Met voorbeelden."
 date: "2026-04-10"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"

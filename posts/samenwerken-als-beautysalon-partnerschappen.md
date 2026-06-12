@@ -1,6 +1,7 @@
 ---
 title: "Samenwerken als beautysalon: partnerschappen die je salon laten groeien"
-excerpt: "Strategische samenwerkingen met fotografen, bruidswinkels en wellnesscentra helpen beautysalons aan meer klanten."
+seoTitle: "Samenwerken als beautysalon"
+excerpt: "Strategische samenwerkingen met fotografen, bruidswinkels en wellnesscentra helpen beautysalons aan meer klanten. Zo pak je het aan."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-beautysalon-partnerschappen.png"

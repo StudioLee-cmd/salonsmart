@@ -1,5 +1,6 @@
 ---
 title: "Social media voor beautysalons: meer klanten via Instagram en slim content plannen"
+seoTitle: "Social media voor beautysalons"
 excerpt: "Ontdek hoe beautysalons social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor beautysalons in 2026."
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"

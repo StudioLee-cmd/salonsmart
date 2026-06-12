@@ -1,5 +1,6 @@
 ---
 title: "Google Bedrijfsprofiel als beautysalon: meer klanten uit je buurt"
+seoTitle: "Google Bedrijfsprofiel als beautysalon"
 excerpt: "Meer klanten uit je buurt als beautysalon? Optimaliseer je Google Bedrijfsprofiel en word de eerste keuze in lokale zoekresultaten."
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"

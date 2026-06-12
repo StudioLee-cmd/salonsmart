@@ -1,5 +1,6 @@
 ---
 title: "Salon upsells die klanten graag accepteren: 6 slimme manieren voor meer besteding"
+seoTitle: "Salon upsells die klanten graag accepteren"
 excerpt: "Een goede salon-upsell voelt als advies, niet als verkoop. Deze 6 slimme upsell-momenten kunnen je gemiddelde besteding per klant met 25-40% verhogen."
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"

@@ -1,5 +1,6 @@
 ---
 title: "Seizoensmarketing voor je beautysalon: acties en trends het hele jaar door"
+seoTitle: "Seizoensmarketing voor je beautysalon"
 slug: "seizoensmarketing-beautysalon-acties"
 date: "2026-03-22"
 excerpt: "Elk seizoen brengt andere beautytrends en klantbehoeften. Ontdek hoe je als saloneigenaar inspeelt op seizoenen en je omzet stabiliseert."

@@ -1,6 +1,6 @@
 ---
 title: "E-mailmarketing voor beautysalons: klanten betrokken houden"
-excerpt: "Leer hoe je als beautysalon met slimme e-mails klanten behoudt, herhalingsboekingen verhoogt en je omzet laat groeien."
+excerpt: "Leer hoe je als beautysalon met slimme e-mails klanten behoudt, herhalingsboekingen verhoogt en je omzet laat groeien. Met voorbeelden."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/email-marketing-beautysalon-klantcontact.png"

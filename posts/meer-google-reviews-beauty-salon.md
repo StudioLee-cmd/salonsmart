@@ -1,5 +1,6 @@
 ---
 title: "Meer Google reviews voor je beauty salon: zo krijg je ze automatisch"
+seoTitle: "Meer Google reviews voor je beauty salon"
 excerpt: "Google reviews zijn goud waard voor beauty salons. Ontdek hoe je automatisch meer reviews verzamelt — zonder er zelf tijd aan te besteden."
 date: "2026-03-08"
 authorSlug: "tim-van-der-lee"

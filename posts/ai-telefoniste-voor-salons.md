@@ -1,6 +1,7 @@
 ---
 title: "Het Einde van de \"Telefoon Tijdens Behandelingen\": 24/7 Bereikbaar Zonder Personeel"
-excerpt: "Mis nooit meer een afspraak omdat je bezig bent. Onze Voice AI neemt op, plant afspraken en beantwoordt vragen."
+seoTitle: "Het Einde van de \"Telefoon Tijdens Behandelingen\""
+excerpt: "Mis nooit meer een afspraak omdat je bezig bent. Onze Voice AI neemt op, plant afspraken en beantwoordt vragen. Ook tijdens behandelingen."
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-salons.png"

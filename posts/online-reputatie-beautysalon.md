@@ -1,6 +1,7 @@
 ---
 title: "Online reputatie als beautysalon: reviews die nieuwe klanten trekken"
-excerpt: "Je online reputatie bepaalt of nieuwe klanten jouw salon kiezen. Leer hoe je reviews verzamelt en je imago versterkt."
+seoTitle: "Online reputatie als beautysalon"
+excerpt: "Je online reputatie bepaalt of nieuwe klanten jouw salon kiezen. Leer hoe je reviews verzamelt en je imago versterkt. Stap voor stap."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-beautysalon.png"

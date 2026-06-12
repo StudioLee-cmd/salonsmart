@@ -1,6 +1,7 @@
 ---
 title: "Schoonheidssalon avondbezoekers vasthouden: wat werkt en wat niet"
-excerpt: "70 procent van de boekings-intentie bij schoonheidssalons ontstaat 's avonds. Maar juist dan is je salon dicht en loopt je conversie vast. Drie systemen die dit echt oplossen."
+seoTitle: "Schoonheidssalon avondbezoekers vasthouden"
+excerpt: "70 procent van de boekings-intentie bij schoonheidssalons ontstaat 's avonds. Maar juist dan is je salon dicht en loopt je conversie vast."
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schoonheidssalon-avondbezoekers-vasthouden.jpg"

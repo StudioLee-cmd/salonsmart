@@ -1,5 +1,6 @@
 ---
 title: "Mond-tot-mondreclame voor je beautysalon: klanten als ambassadeurs"
+seoTitle: "Mond-tot-mondreclame voor je beautysalon"
 excerpt: "Mond-tot-mondreclame is de krachtigste groeimotor voor beautysalons. Leer hoe je klanten activeert als ambassadeurs van je salon."
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"

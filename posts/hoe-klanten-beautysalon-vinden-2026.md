@@ -1,6 +1,6 @@
 ---
 title: "Hoe klanten je beautysalon vinden in 2026"
-excerpt: "Van Google tot Instagram en mond-tot-mond: zo ontdekken klanten jouw beautysalon in 2026. Praktische tips per kanaal."
+excerpt: "Van Google tot Instagram en mond-tot-mond: zo ontdekken klanten jouw beautysalon in 2026. Praktische tips per kanaal. Direct toepasbaar."
 date: "2026-04-15"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"

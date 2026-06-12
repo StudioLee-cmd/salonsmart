@@ -1,5 +1,6 @@
 ---
 title: "Online boeken voor beautysalons: waarom klanten het verwachten in 2026"
+seoTitle: "Online boeken voor beautysalons"
 excerpt: "In 2026 verwachten klanten dat ze 24/7 online kunnen boeken. Beautysalons zonder online boekingssysteem verliezen klanten aan de concurrentie."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"

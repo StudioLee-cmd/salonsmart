@@ -1,5 +1,6 @@
 ---
 title: "Upselling in je beautysalon: zo verhoog je de omzet per klant zonder pushy te zijn"
+seoTitle: "Upselling in je beautysalon"
 excerpt: "De gemiddelde bon verhogen zonder opdringerig te zijn? Met de juiste timing en aanpak verhoog je de omzet per klant structureel."
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
