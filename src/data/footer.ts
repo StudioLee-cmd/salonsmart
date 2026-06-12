@@ -13,7 +13,7 @@ export const footerDetails: {
     address: string;
     legalName: string;
 } = {
-    subheading: "Focus op knippen, wij op de rest. Wij regelen je telefoontjes, planning en marketing, zodat jij kunt doen waar je goed in bent.",
+    subheading: "Focus op je behandelingen, wij op de rest. Wij regelen je telefoontjes, planning en marketing, zodat jij kunt doen waar je goed in bent.",
     services: [
         { text: "Chatbot voor Salons", url: "/chatbot" },
         { text: "Voice AI voor Salons", url: "/voice-ai" },
@@ -22,6 +22,7 @@ export const footerDetails: {
         { text: "Reviews voor Salons", url: "/reviews" },
         { text: "Review Pakket", url: "/review-pakket" },
         { text: "CRM voor Salons", url: "/crm" },
+        { text: "Automatisering voor Salons", url: "/automatisering" },
     ],
     general: [
         { text: "Tarieven", url: "/tarieven" },
@@ -37,6 +38,7 @@ export const footerDetails: {
         { text: "Reviews voor Salons", url: "/reviews" },
         { text: "Review Pakket", url: "/review-pakket" },
         { text: "CRM voor Salons", url: "/crm" },
+        { text: "Automatisering voor Salons", url: "/automatisering" },
         { text: "Tarieven", url: "/tarieven" },
         { text: "Gratis Scan", url: "/gratis-scan" },
         { text: "Gratis Website", url: "/gratis-website" },

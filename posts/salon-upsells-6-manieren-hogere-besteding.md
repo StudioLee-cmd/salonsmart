@@ -157,7 +157,7 @@ Handmatig blijven bij upselling-opvolging is lastig. Een slim klant-systeem onth
 
 Bijvoorbeeld: een klant kocht 6 weken geleden reparatieserum. 8 weken later stuurt het systeem automatisch: "Hi [naam], hoe bevalt je reparatieserum? Bijna op? We hebben 'm op voorraad voor je volgende afspraak."
 
-Dit is geen "verkoop", dit is goede klantenservice die upsells automatiseert.
+Dit is geen "verkoop", dit is goede klantenservice die [upsells automatiseert](/automatisering).
 
 ## Wat dit oplevert
 
