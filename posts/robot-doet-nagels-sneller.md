@@ -5,7 +5,7 @@ date: "2026-04-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/robot-doet-nagels-sneller.jpg"
 tags: ["1 April", "No-Shows", "Planning"]
-cluster: "no-shows"
+cluster: automatisering
 ---
 
 ## De robot-nagelstyliste die nooit te laat komt

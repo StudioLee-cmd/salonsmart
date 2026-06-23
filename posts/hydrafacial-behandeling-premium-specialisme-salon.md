@@ -6,7 +6,7 @@ excerpt: "Hydrafacial als premium-specialisme: investering in apparatuur, treatm
 image: "/images/blog/hydrafacial-behandeling-premium-specialisme-salon.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Hydrafacial", "Specialisatie", "Premium", "Beauty"]
-cluster: "specialisatie"
+cluster: branding
 ---
 
 **In het kort:**

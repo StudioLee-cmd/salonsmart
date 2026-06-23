@@ -6,7 +6,7 @@ date: "2026-03-08"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-google-reviews-beauty-salon.png"
 tags: ["Reviews", "Google", "Automatisering"]
-cluster: "review-automatisering"
+cluster: reviews
 ---
 
 ## Waarom Google reviews cruciaal zijn voor beauty salons

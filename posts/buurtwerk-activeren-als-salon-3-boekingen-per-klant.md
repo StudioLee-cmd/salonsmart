@@ -6,7 +6,7 @@ excerpt: "Een tevreden salonklant brengt gemiddeld 0 vriendinnen mee, een geacti
 image: "/images/blog/buurtwerk-activeren-als-salon-3-boekingen-per-klant.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Buurtmarketing", "Lead-opvolging", "Instagram"]
-cluster: "lead-opvolging"
+cluster: automatisering
 ---
 
 Een nagelstudio in Haarlem draaide eind 2025 een agenda die voor 70 procent vol zat. Niet slecht, maar de eigenaresse wilde naar de 95 procent en de wachtlijst die ze bij haar concurrent in het centrum zag staan. Ze probeerde een maand Instagram-ads voor 380 euro, kreeg 4 boekingen en concludeerde dat het niet rendeerde. In maand 2 schakelde ze om naar een 4-schakel-vriendinnen-systeem voor haar bestaande klanten. Resultaat na 6 weken: 47 nieuwe boekingen, waarvan 31 vriendinnen of zussen van bestaande klanten waren, 9 uit dezelfde 3 Amsterdam-Oost-buurten waar haar eerste klant woont.

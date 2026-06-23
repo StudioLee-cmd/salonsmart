@@ -2,7 +2,7 @@
 title: "Salon leads opvolgen: nieuwe klanten winnen"
 excerpt: "Een potentiële klant vraagt informatie op via je website of Instagram. Hoe snel je reageert bepaalt of ze boeken bij jou of bij de concurrent."
 date: "2026-04-19"
-cluster: "lead-opvolging"
+cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/salon-leads-opvolgen-nieuwe-klanten-winnen.jpg"
 tags: ["Lead-opvolging", "Groei", "Tips"]

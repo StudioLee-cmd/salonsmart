@@ -6,7 +6,7 @@ date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-salons-helpt.png"
 tags: ["AI", "Efficiëntie", "Automatisering"]
-cluster: ""
+cluster: automatisering
 ---
 
 Het runnen van een salon anno 2026 is topsport. Je bent niet alleen vakspecialist die de mooiste behandelingen moet uitvoeren, maar je bent ook boekhouder, planner, telefoniste, marketingmanager en klantenservice in één. Veel ondernemers die wij spreken, staan de hele dag op hun benen, maar als ze eerlijk kijken, zijn ze daarnaast nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, appjes, afspraken verzetten en facturen doen.

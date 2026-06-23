@@ -7,7 +7,7 @@ excerpt: "Wanneer is een nagelstudio binnen je beautysalon rendabel? Cijfers per
 image: "/images/blog/nagelstudio-segment-toevoegen-beautysalon-rendement.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "Prijzen", "Klantbeheer"]
-cluster: specialisatie
+cluster: branding
 ---
 
 # Manicure en gel-nagels toevoegen aan je beauty salon: rendement, hygiëne en prijsstrategie

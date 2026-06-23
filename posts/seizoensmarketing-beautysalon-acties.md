@@ -8,7 +8,7 @@ image: "/images/blog/seizoensmarketing-beautysalon-acties.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["seizoenswerk", "beautysalon", "marketing"]
-cluster: "seizoenswerk"
+cluster: social-media
 ---
 
 ## Waarom seizoensmarketing werkt voor beautysalons

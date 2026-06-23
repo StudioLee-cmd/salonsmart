@@ -2,7 +2,7 @@
 title: "Upselling in je salon: meer omzet zonder opdringerig te zijn"
 excerpt: "Upselling hoeft niet ongemakkelijk te zijn. Ontdek hoe je als salonhouder natuurlijk meer verkoopt bij elke behandeling."
 date: "2026-04-14"
-cluster: "upselling"
+cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/upselling-salon-meer-omzet.jpg"
 tags: ["Upselling", "Salon Management", "Omzet"]

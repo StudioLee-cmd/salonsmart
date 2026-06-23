@@ -5,7 +5,7 @@ date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/personeel-behouden-salon-verloop-voorkomen.jpg"
 tags: ["Personeel", "Retentie", "Salon Management"]
-cluster: "personeel"
+cluster: branding
 ---
 
 ## In het kort

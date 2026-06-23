@@ -6,7 +6,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-beautysalon.png"
 tags: ["Leadgeneratie", "Beautysalon", "Groei"]
-cluster: "lead-opvolging"
+cluster: automatisering
 ---
 
 De beautysalonmarkt in Nederland groeit, maar de concurrentie groeit mee. In elke wijk opent een nieuwe salon, en klanten worden steeds kieskeuriger. Ze vergelijken online, lezen reviews, en kiezen bewust. Als jij niet actief nieuwe klanten aantrekt, doet je concurrent het wel.

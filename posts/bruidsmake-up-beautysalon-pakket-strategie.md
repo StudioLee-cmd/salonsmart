@@ -6,7 +6,7 @@ excerpt: "Bruidspakketten zijn een van de hoogste-marge segmenten voor een beaut
 image: "/images/blog/bruidsmake-up-beautysalon-pakket-strategie.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "Omzet", "Bruidsmarkt"]
-cluster: "specialisatie"
+cluster: branding
 ---
 
 Een gemiddelde behandeling in jouw beautysalon levert 45 tot 90 euro op. Een compleet bruidspakket levert 350 tot 1.200 euro op, met de bruid plus 2 tot 4 bruidsmeisjes erbij. Dat is geen toeval, dat is een ander prijssegment binnen dezelfde stoel. En het mooie: bruiden zoeken hun salon doorgaans 6 tot 12 maanden vooruit, dus je kunt je agenda strak vooraf plannen in plaats van reactief invullen.

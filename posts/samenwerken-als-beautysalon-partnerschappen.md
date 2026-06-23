@@ -6,7 +6,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-beautysalon-partnerschappen.png"
 tags: ["samenwerkingen", "beautysalon", "groei"]
-cluster: "samenwerkingen"
+cluster: branding
 ---
 
 Als beautysalon heb je te maken met seizoenspieken (bruiloften, feestdagen) en rustigere periodes. Samenwerkingen met complementaire bedrijven helpen je om het hele jaar door een volle agenda te houden — en nieuwe klantsegmenten aan te boren.

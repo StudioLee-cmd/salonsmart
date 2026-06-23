@@ -2,7 +2,7 @@
 title: "Portfolio beautysalon opbouwen: van foto's naar boekingen"
 excerpt: "Leer hoe je een professioneel portfolio voor je beautysalon opbouwt — van routine foto's maken tot slim archiveren en inzetten voor meer boekingen."
 date: "2026-04-16"
-cluster: "portfolio"
+cluster: website
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/portfolio-beautysalon-opbouwen-klanten.jpg"
 tags: ["Beautysalon", "Portfolio", "Marketing"]

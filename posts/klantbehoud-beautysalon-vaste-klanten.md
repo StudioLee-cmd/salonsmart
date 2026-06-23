@@ -8,7 +8,7 @@ image: "/images/blog/klantbehoud-beautysalon-vaste-klanten.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["klantbehoud", "beautysalon", "loyaliteit"]
-cluster: "crm-klantbeheer"
+cluster: automatisering
 ---
 
 ## Waarom klantbehoud winstgevender is dan nieuwe klanten

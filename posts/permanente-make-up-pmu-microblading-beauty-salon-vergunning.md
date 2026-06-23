@@ -6,7 +6,7 @@ excerpt: "Hoe je permanente make-up (PMU) toevoegt als beauty salon: SBI-vergunn
 image: "/images/blog/permanente-make-up-pmu-microblading-beauty-salon-vergunning.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "PMU", "Microblading"]
-cluster: "specialisatie"
+cluster: branding
 ---
 
 Een 35-jarige professional die niet meer dagelijks haar wenkbrauwen wil tekenen, betaalt graag €395-€595 voor een microblading-behandeling die 12-18 maanden meegaat. Een 50-jarige met dunne lippen betaalt €495-€695 voor lip-PMU. Voor beauty salons die de vergunningskant goed regelen is permanente make-up een hoog-marge premium-segment met klanten die elke 12-18 maanden terugkomen voor touch-ups.

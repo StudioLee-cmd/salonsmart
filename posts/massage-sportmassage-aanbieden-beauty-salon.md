@@ -6,7 +6,7 @@ excerpt: "Massage of sportmassage toevoegen aan je beauty salon: instapkosten, m
 image: "/images/blog/massage-sportmassage-aanbieden-beauty-salon.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "Massage", "Sportmassage", "Salon-uitbreiding", "Verdienmodel"]
-cluster: "specialisatie"
+cluster: branding
 ---
 
 Een gemiddelde Nederlandse beauty salon verdient op een gezichtsbehandeling van 60 minuten ongeveer €55-€85, op een wimperextensie-set €105-€160. Een 60-minuten klassieke massage levert €65-€95 op, een sportmassage €70-€110, en een hot-stone-behandeling €85-€135. Op het oog vergelijkbare tarieven — maar de marges van massage liggen 15-25 procent hoger dan van skin/wimper-behandelingen omdat de productkosten lager zijn (alleen olie + handdoeken vs. veel verbruiksartikelen). Bij gemiddelde Nederlandse salon-economie kan een actief massage-aanbod €18.000-€32.000 extra jaaromzet brengen — mits de instap niet onderschat wordt. Dit artikel legt uit wanneer dat wel en niet zo is.

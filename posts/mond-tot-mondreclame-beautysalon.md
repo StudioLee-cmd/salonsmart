@@ -6,7 +6,7 @@ date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-beautysalon.png"
 tags: ["mond-tot-mond", "beautysalon", "marketing"]
-cluster: "mond-tot-mondreclame"
+cluster: reviews
 ---
 
 "Waar heb jij dat laten doen?" Dat is de beste marketingvraag die er bestaat. Wanneer een vriendin je wenkbrauwen, huidbehandeling of manicure complimenteert en je je salon noemt — dat is mond-tot-mondreclame in actie. Geen advertentie, geen social media post, gewoon oprechte aanbeveling.

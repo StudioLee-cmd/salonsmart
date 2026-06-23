@@ -6,7 +6,7 @@ excerpt: "Een live chat moet je zelf bemannen, een AI chatbot vangt salonaanvrag
 image: "/images/blog/live-chat-of-ai-chatbot-beauty-salon.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["AI Chatbot", "Website", "Bereikbaarheid", "Salon Operations"]
-cluster: "website-conversie"
+cluster: chatbot
 ---
 
 Het is kwart over negen 's avonds. Je hebt net de laatste klant uitgezwaaid, je voeten doen pijn en je laptop staat nog open op je boekingspagina. Op datzelfde moment zit er iemand op je website. Ze wil een wimperbehandeling voor vrijdag, ze twijfelt tussen twee opties, en ze klikt op het chatvenster rechtsonder. Daar staat: "We zijn nu offline, laat een bericht achter." Ze typt niks. Ze sluit het tabblad en boekt twintig minuten later bij een salon drie straten verderop die wél antwoord gaf.

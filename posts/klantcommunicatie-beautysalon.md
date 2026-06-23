@@ -6,7 +6,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantcommunicatie-beautysalon.png"
 tags: ["klantcommunicatie", "beautysalon", "klanttevredenheid"]
-cluster: "klantcommunicatie"
+cluster: automatisering
 ---
 
 Elk bezoek aan je beautysalon begint en eindigt met communicatie. De bevestiging, de herinnering, het gesprek tijdens de behandeling, de nazorg — elke interactie bepaalt of je klant terugkomt. Toch laten veel salons deze contactmomenten onbenut.

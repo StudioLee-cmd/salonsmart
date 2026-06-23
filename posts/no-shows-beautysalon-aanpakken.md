@@ -5,7 +5,7 @@ date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-beautysalon-aanpakken.jpg"
 tags: ["No-shows", "Klantenmanagement", "Groei"]
-cluster: "no-shows"
+cluster: automatisering
 ---
 
 ## De echte kosten van no-shows voor je salon

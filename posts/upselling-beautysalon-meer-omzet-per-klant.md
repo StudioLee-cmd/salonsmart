@@ -6,7 +6,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/upselling-beautysalon-meer-omzet-per-klant.png"
 tags: ["Beautysalon", "Upselling", "Omzet"]
-cluster: "upselling"
+cluster: automatisering
 ---
 
 ## Meer omzet zonder meer klanten

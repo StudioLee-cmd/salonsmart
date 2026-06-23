@@ -2,7 +2,7 @@
 title: "Automatische afspraakherinneringen voor je salon instellen"
 excerpt: "No-shows kosten je salon honderden euro's per maand. Automatische herinneringen via WhatsApp verminderen dit met 50-70%."
 date: "2026-04-05"
-cluster: "afspraak-herinneringen"
+cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/automatische-herinneringen-salon.jpg"
 tags: ["Herinneringen", "Salon", "No-shows"]

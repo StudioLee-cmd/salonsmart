@@ -2,7 +2,7 @@
 title: "Wachtlijst in je salon: annuleringen direct opvangen"
 excerpt: "Klant annuleert op het laatste moment? Met een wachtlijst vul je de lege plek binnen minuten. Zo werkt het voor beautysalons."
 date: "2026-04-12"
-cluster: "no-shows"
+cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wachtlijst-beautysalon-annuleringen-opvangen.jpg"
 tags: ["No-shows", "Planning", "Groei"]

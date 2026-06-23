@@ -6,7 +6,7 @@ excerpt: "AI-automatisering voor een salon kost 305 tot 495 euro per maand. We m
 image: "/images/blog/wat-kost-ai-automatisering-salon-roi.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["AI-kosten", "ROI", "Tarieven"]
-cluster: "tools-uitleg"
+cluster: automatisering
 ---
 
 Een wimperstudio in Utrecht twijfelde begin 2026 een half jaar over AI-automatisering. De eigenaresse dacht dat het een tool van duizenden euro's per maand was, iets voor ketens met tien vestigingen. Toen ze eindelijk de werkelijke prijs zag, 305 euro per maand voor een solist-pakket, viel haar mond open. En wel om een andere reden: ze rekende uit dat ze in diezelfde maand al meer dan 600 euro aan gemiste avondaanvragen liet liggen. Het was geen kostenpost, het was een lek dat ze dichtte.

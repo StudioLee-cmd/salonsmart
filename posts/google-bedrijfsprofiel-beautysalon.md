@@ -6,7 +6,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-beautysalon.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
-cluster: "google-bedrijfsprofiel"
+cluster: vindbaarheid
 ---
 
 Als iemand zoekt naar "beautysalon in de buurt" of "nagelsalon [stad]", verschijnt als eerste het Google Maps-blok met drie bedrijven. Dat is je Google Bedrijfsprofiel — en het is de plek waar de meeste klanten hun keuze maken. Niet op Instagram, niet op Treatwell, maar in dat compacte kaartje met je naam, reviews, foto's en bel-knop.

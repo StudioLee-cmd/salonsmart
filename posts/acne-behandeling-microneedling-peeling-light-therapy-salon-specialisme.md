@@ -6,7 +6,7 @@ excerpt: "Hoe je acne-behandeling toevoegt als beauty-salon-tussensegment: micro
 image: "/images/blog/acne-behandeling-microneedling-peeling-light-therapy-salon-specialisme.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "Acne", "Tussensegment"]
-cluster: "specialisatie"
+cluster: branding
 ---
 
 Een 19-jarige met persistent acne is bereid €295-€595 te betalen per behandeling als ze ziet dat het werkt. Een 14-jarige's ouder is bereid €1.250-€2.500 te investeren in een 6-sessie traject als de huid er na 4 maanden duidelijk beter uitziet. Voor beauty salons die acne-behandeling als gestructureerd tussensegment opbouwen tussen "skincare" en "esthetische zorg" ligt er een loyale klantgroep met hoge LTV.

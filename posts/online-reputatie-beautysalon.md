@@ -6,7 +6,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-beautysalon.png"
 tags: ["online reputatie", "beautysalon", "reviews"]
-cluster: "online-reputatie"
+cluster: reviews
 ---
 
 "Ken je een goede beautysalon?" Die vraag wordt steeds vaker beantwoord via Google in plaats van via vriendinnen. Klanten googelen, vergelijken sterren en lezen reviews. Jouw online reputatie is het eerste filter.

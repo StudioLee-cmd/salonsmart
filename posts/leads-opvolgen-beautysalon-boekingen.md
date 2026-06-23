@@ -2,7 +2,7 @@
 title: "Leads opvolgen als beautysalon: meer boekingen"
 excerpt: "Klanten die informeren maar niet boeken? Ontdek hoe je als beautysalon leads opvolgt en van geïnteresseerden betalende klanten maakt."
 date: "2026-04-03"
-cluster: "lead-opvolging"
+cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-beautysalon-boekingen.jpg"
 tags: ["Leads", "Lead opvolging", "Beautysalon", "Boekingen"]

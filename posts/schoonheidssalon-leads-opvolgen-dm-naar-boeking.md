@@ -2,7 +2,7 @@
 title: "Schoonheidssalon: van DM-vraag naar geboekte afspraak"
 excerpt: "Instagram-DM's zijn voor schoonheidssalons een belangrijk verkoopkanaal. Lees hoe je vragen omzet in boekingen zonder te pushen."
 date: "2026-04-08"
-cluster: "lead-opvolging"
+cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schoonheidssalon-leads-opvolgen-dm-naar-boeking.jpg"
 tags: ["Lead opvolging", "Schoonheidssalon", "Instagram"]

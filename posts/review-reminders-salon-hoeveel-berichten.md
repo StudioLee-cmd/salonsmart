@@ -2,7 +2,7 @@
 title: "Review reminders: hoeveel berichten stuur je als salon?"
 excerpt: "Eén bericht is te weinig, vijf is te veel. Ontdek het ideale aantal review-verzoeken voor je beautysalon en wanneer je ze stuurt."
 date: "2026-04-12"
-cluster: "review-automatisering"
+cluster: reviews
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-reminders-salon-hoeveel-berichten.jpg"
 tags: ["Reviews", "Automatisering", "Groei"]

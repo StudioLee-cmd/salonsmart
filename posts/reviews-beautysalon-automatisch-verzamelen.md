@@ -2,7 +2,7 @@
 title: "Reviews automatisch verzamelen als beautysalon"
 excerpt: "Meer Google Reviews zonder er elke dag aan te denken? Ontdek hoe beautysalons reviews automatiseren en hun online reputatie versterken."
 date: "2026-04-04"
-cluster: "review-automatisering"
+cluster: reviews
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-beautysalon-automatisch-verzamelen.jpg"
 tags: ["Reviews", "Automatisering", "Reputatie"]

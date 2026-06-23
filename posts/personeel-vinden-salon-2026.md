@@ -2,7 +2,7 @@
 title: "Personeel vinden als salon: wat werkt in 2026"
 excerpt: "Personeel voor je salon vinden is in 2026 de grootste groeirem. Welke werving-tactieken echt werken bij kappers, schoonheidsspecialistes en nagelstylistes."
 date: "2026-04-21"
-cluster: "personeel"
+cluster: branding
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/personeel-vinden-salon-2026.jpg"
 tags: ["Salon", "Personeel", "Werving", "HR"]

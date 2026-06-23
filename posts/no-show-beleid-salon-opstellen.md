@@ -2,7 +2,7 @@
 title: "No-show beleid voor je salon: zo stel je het op"
 excerpt: "Wil je minder no-shows in je beautysalon? Leer hoe je een eerlijk annuleringsbeleid opstelt dat klanten respecteren en je omzet beschermt."
 date: "2026-04-11"
-cluster: "no-shows"
+cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-show-beleid-salon-opstellen.jpg"
 tags: ["No-shows", "Salonbeheer", "Groei"]

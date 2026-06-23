@@ -5,7 +5,7 @@ date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-automatiseren-beautysalon.jpg"
 tags: ["Reviews", "Automatisering", "Groei"]
-cluster: "review-automatisering"
+cluster: reviews
 ---
 
 ## Waarom reviews je salon maken of breken

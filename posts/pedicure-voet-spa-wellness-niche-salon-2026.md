@@ -6,7 +6,7 @@ excerpt: "Pedicure en voet-spa als wellness-niche voor schoonheidssalons: senior
 image: "/images/blog/pedicure-voet-spa-wellness-niche-salon-2026.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "Wellness", "Pedicure"]
-cluster: "specialisatie"
+cluster: branding
 ---
 
 Pedicure en voet-spa is in Nederlandse schoonheidssalons een van de meest onderschatte wellness-niches. Geen trendy specialisme, geen Instagram-bare service — maar wel een segment met loyale klantenkringen, terugkerende afspraken en gemiddelde besteding boven die van standaard manicure of facial. Voor salons die een tweede sterke pijler willen opbouwen naast hun primaire schoonheidsbehandelingen, is dit een van de stabielere keuzes.

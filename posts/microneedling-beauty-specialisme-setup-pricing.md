@@ -6,7 +6,7 @@ excerpt: "Microneedling als beauty-specialisme: apparatuur, behandel-protocol, p
 image: "/images/blog/microneedling-beauty-specialisme-setup-pricing.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Microneedling", "Specialisatie", "Anti-aging", "Beauty"]
-cluster: "specialisatie"
+cluster: branding
 ---
 
 **In het kort:**

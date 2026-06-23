@@ -6,7 +6,7 @@ excerpt: "Wanneer vraag je als salon om een review? Ontdek het beste moment na d
 image: "/images/blog/review-timing-salon-beste-moment.jpg"
 authorSlug: tim-van-der-lee
 tags: ["Reviews", "Google reviews", "Salonmarketing"]
-cluster: "review-automatisering"
+cluster: reviews
 ---
 
 Je klant stapt stralend de deur uit. Verse wimpers, perfecte nagels, een blik in de spiegel die zegt: dit is precies wat ik wilde. Op dat moment zou ze je met liefde vijf sterren geven. Maar je hebt het te druk met de volgende afspraak, dus je vraagt niks. Drie dagen later stuur je alsnog een berichtje, en dan is de glow weg, het enthousiasme gezakt en de review komt nooit.

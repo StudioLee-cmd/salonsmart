@@ -6,7 +6,7 @@ date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/treatwell-alternatief-salons-eigen-boekingssysteem.jpg"
 tags: ["Software", "Boekingen"]
-cluster: ""
+cluster: website
 ---
 
 Treatwell is handig — dat ontkennen we niet. Je krijgt er klanten mee die je anders misschien niet had bereikt. Maar er zit een keerzijde aan: je betaalt commissie op elke boeking, je hebt beperkte controle over je presentatie en je bouwt aan het merk van Treatwell in plaats van je eigen salon.

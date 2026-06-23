@@ -3,7 +3,7 @@ title: "5 fouten in je online-boekingsformulier die je salon vandaag kan oplosse
 seoTitle: "5 fouten in je online-boekingsformulier als salon"
 excerpt: "Een gemiddelde salon verliest 60-75% van bezoekers tijdens het boekingsformulier. Vijf concrete fouten verklaren bijna al die uitval."
 date: "2026-04-25"
-cluster: "online-boeken"
+cluster: website
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-boekingsformulier-fouten-salon-conversie.jpg"
 tags: ["Salon", "Online boeken", "Conversie", "Klantbeleving"]

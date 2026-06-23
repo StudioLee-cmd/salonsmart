@@ -2,7 +2,7 @@
 title: "No-shows in je salon: hoeveel omzet mis je echt?"
 excerpt: "Gemiste behandelingen kosten je salon duizenden euro's per jaar. Bereken je verlies en ontdek wat je eraan kunt doen. Plus oplossingen."
 date: "2026-04-17"
-cluster: "no-shows"
+cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-salon-behandelingen-gemist.jpg"
 tags: ["No-shows", "Salon", "Omzet"]

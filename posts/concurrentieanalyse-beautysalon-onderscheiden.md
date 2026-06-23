@@ -6,7 +6,7 @@ date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/concurrentieanalyse-beautysalon-onderscheiden.jpg"
 tags: ["Concurrentie", "Strategie", "Groei"]
-cluster: "concurrentieanalyse"
+cluster: branding
 ---
 
 ## Waarom concurrentieanalyse voor je salon

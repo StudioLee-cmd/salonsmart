@@ -6,7 +6,7 @@ excerpt: "Losse tools laten klanten weglekken tussen aanvraag en afspraak. Zo co
 image: "/images/blog/whatsapp-herinneringen-chatbot-salon-klantreis.jpg"
 authorSlug: tim-van-der-lee
 tags: ["Chatbot", "WhatsApp", "Klantreis", "Automatisering"]
-cluster: "lead-opvolging"
+cluster: chatbot
 ---
 
 Het is kwart over negen 's avonds. Een potentiële klant zit op je website en vraagt via de chat of je volgende week nog plek hebt voor een setje wimperextensions. De chatbot antwoordt netjes, geeft de prijs door en stuurt haar naar je agenda. Ze boekt. Mooi. Maar dan houdt het op. De bevestiging komt uit een ander systeem, de herinnering een dag van tevoren weer uit een ander, en jij houdt in je hoofd bij of ze eigenlijk wel bevestigd heeft. Ergens in die overdracht tussen drie losse tools verlies je het overzicht, en soms verlies je ook de klant.
