@@ -32,7 +32,7 @@ const FreeTrialPage = () => {
     const [formData, setFormData] = useState({
         email: '',
         businessName: '',
-        niche: '',
+        niche: 'salon',
         termsAccepted: false,
     });
     const [isLoading, setIsLoading] = useState(false);
