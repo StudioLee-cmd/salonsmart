@@ -97,4 +97,4 @@ Voeg Q&A toe aan je profiel:
 
 Je Google Bedrijfsprofiel is het eerste wat potentiële klanten zien. Een volledig profiel met prachtige foto's, sterke reviews en regelmatige updates maakt van je salon de eerste keuze in je buurt. Begin vandaag: upload foto's van je beste werk, vraag je volgende klant om een review, en schrijf je eerste Google Post.
 
-Wil je hulp bij het versterken van je online zichtbaarheid? Bekijk wat [SalonSmart](/) voor je kan betekenen of [plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Wil je hulp bij het versterken van je online zichtbaarheid? Bekijk wat [SalonSmart](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).
