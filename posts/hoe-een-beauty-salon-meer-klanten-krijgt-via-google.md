@@ -7,7 +7,6 @@ image: "/images/blog/hoe-een-beauty-salon-meer-klanten-krijgt-via-google.png"
 tags: ["Vindbaarheid", "Google", "Beauty", "Salon"]
 cluster: "vindbaarheid"
 ---
-
 ## Je salon begint online — ook al werk je met je handen
 
 Iemand zoekt een nagelsalon, wimperstyliste of schoonheidsspecialiste in de buurt. Ze openen Google of Instagram, bekijken een paar profielen, lezen reviews en boeken. Dat hele beslisproces duurt soms maar een paar minuten.
@@ -79,7 +78,7 @@ Elke behandeling is een eigen zoekopdracht — en een eigen kans om gevonden te 
 
 ## Stap 6: Social media versterkt je Google-aanwezigheid
 
-Beauty is visueel. Foto's en video's van je werk doen het goed op Instagram en Facebook — en versterken ook je Google-aanwezigheid indirect.
+Beauty is visueel. Foto's en video's van je werk doen het goed op [Instagram](/social-media) en Facebook — en versterken ook je Google-aanwezigheid indirect.
 
 - Post regelmatig voor/na foto's
 - Gebruik lokale hashtags en locatietags
@@ -102,6 +101,8 @@ Volle agenda, minder no-shows, meer reviews. Alles op autopilot.
 **Benieuwd wat SalonSmart voor jouw salon kan doen?** Plan een gratis kennismaking via [salonsmart.nl](https://www.salonsmart.nl).
 
 ---
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/beautysalon-google-maps-fotos-posts-opvallen" class="text-dark fw-semibold">Google Maps foto's en posts voor je beautysalon: zo val je op in de zoekresultaten</a> →</p></div></div></div>
 
 ## Actieplan
 
