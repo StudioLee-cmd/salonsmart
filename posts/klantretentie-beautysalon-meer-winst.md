@@ -8,7 +8,6 @@ image: "/images/blog/klantretentie-beautysalon-meer-winst.png"
 tags: ["Beautysalon", "Klantretentie", "Winst"]
 cluster: automatisering
 ---
-
 ## De kracht van retentie
 
 De meeste salons focussen op nieuwe klanten werven. Begrijpelijk — groei voelt goed. Maar de cijfers vertellen een ander verhaal: een verhoging van 5% in klantretentie leidt tot 25-95% meer winst.
@@ -114,9 +113,9 @@ Klanten die feedback geven en zien dat er iets mee gedaan wordt, zijn loyaler.
 
 ## Conclusie
 
-Klantretentie is de meest onderschatte groeistrategie voor beautysalons. Het kost minder dan acquisitie, levert meer op en bouwt aan een stabiele klantenbasis. Focus op directe vervolgafspraken, automatische herinneringen en persoonlijke aandacht.
+Klantretentie is de meest onderschatte groeistrategie voor beautysalons. Het kost minder dan acquisitie, levert meer op en bouwt aan een stabiele klantenbasis. Focus op directe vervolgafspraken, [automatische herinneringen](/automatisering) en persoonlijke aandacht.
 
-Met [SalonSmart](/) automatiseren we je herinneringen, verjaardagsacties en reviewverzoeken. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [SalonSmart](/) automatiseren we je herinneringen, verjaardagsacties en reviewverzoeken. Onze [managed service](/blog/managed-ai-vs-agency) kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer klanten behoudt.
 
