@@ -131,13 +131,13 @@ export const posts: IPost[] = [
         excerpt: 'Waarom zou je €1500 per maand betalen aan een bureau als AI het beter kan voor een fractie van de prijs?',
         content: `
             <p>Als je als salon wilt groeien, heb je marketing nodig. Vaak huren kapsalons dan een bureau in. Dure contracten, mooie praatjes.</p>
-            <p>Maar laten we eerlijk zijn: wat doen ze echt? Ze posten af en toe iets en sturen een factuur. Met KapperAI kan dit anders.</p>
+            <p>Maar laten we eerlijk zijn: wat doen ze echt? Ze posten af en toe iets en sturen een factuur. Met SalonSmart kan dit anders.</p>
             
             <h2>De Vergelijking</h2>
             <ul>
                 <li><strong>Snelheid:</strong> Een bureau is traag. AI is direct. Heb je nu een uitvaller? De AI kan direct een "last minute plekje" posten op je socials.</li>
                 <li><strong>Bereikbaarheid:</strong> Het bureau werkt van 9 tot 5. Onze Voice AI werkt 24/7. Dus ook als klanten op zondagavond bellen voor een afspraak.</li>
-                <li><strong>Kosten:</strong> Voor een bureau betaal je hun pand en auto's. Bij KapperAI betaal je voor resultaat. Onze <strong>Elite Managed Service</strong> is goedkoper dan een parttime kracht.</li>
+                <li><strong>Kosten:</strong> Voor een bureau betaal je hun pand en auto's. Bij SalonSmart betaal je voor resultaat. Onze <strong>Elite Managed Service</strong> is goedkoper dan een parttime kracht.</li>
             </ul>
             
             <p>Met Managed Service combineren we het beste van twee werelden: de snelheid van AI, maar beheerd door onze experts. Wij stellen alles in, jij knipt.</p>

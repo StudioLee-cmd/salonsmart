@@ -39,7 +39,7 @@ export const testimonials: ITestimonial[] = [
     },
     {
         name: 'Thijs de Groot',
-        role: 'De Groot Sanitair, Arnhem',
+        role: 'De Groot Beautysalon, Arnhem',
         message: 'De automatische facturatie is goud. Vroeger deed ik zondagavond de administratie, nu lig ik op de bank. Mijn boekhouder is er ook blij mee.',
         avatar: '/images/testimonials/testimonial-6.png',
         stars: 5
@@ -53,7 +53,7 @@ export const testimonials: ITestimonial[] = [
     },
     {
         name: 'Arjan Meijer',
-        role: 'Meijer Installaties, Zwolle',
+        role: 'Meijer Nagelstudio, Zwolle',
         message: 'Het stukje "Gemiste Oproep SMS" levert me direct geld op. Klant belt, ik neem niet op, zij krijgen appje, en boeken zelf een afspraak. Briljant.',
         avatar: '/images/testimonials/testimonial-8.jpg',
         stars: 5
