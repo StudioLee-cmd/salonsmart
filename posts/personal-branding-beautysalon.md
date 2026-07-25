@@ -8,7 +8,6 @@ image: "/images/blog/personal-branding-beautysalon.png"
 tags: ["Branding", "Marketing", "Groei"]
 cluster: "branding"
 ---
-
 In elke stad zijn tientallen beautysalons. Ze bieden vergelijkbare behandelingen voor vergelijkbare prijzen. Toch zijn er altijd salons die voller zitten dan andere. Het verschil? Branding. De salons die eruit springen hebben een herkenbare identiteit die klanten aanspreekt en bindt.
 
 Personal branding als beautysalon gaat niet over een duur logo. Het gaat over een consistent verhaal dat klanten voelen bij elk contactmoment — van je Instagram-feed tot de geur in je salon.
@@ -50,6 +49,8 @@ Lokale zichtbaarheid versterkt je merk. Werk samen met andere lokale ondernemers
 Word lid van lokale ondernemersverenigingen en neem deel aan buurtfeesten of markten. Fysieke aanwezigheid in combinatie met een sterke online presence maakt je onmisbaar in je wijk.
 
 Overweeg ook lokale PR: een interview in de wijkkrant, een samenwerking met een lokale influencer of een sponsoring van een buurtproject. Elk contactmoment buiten je salon versterkt je naamsbekendheid.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/branding-salon-visuele-consistentie-klanten" class="text-dark fw-semibold">Branding voor je salon: visuele consistentie</a> →</p></div></div></div>
 
 ## Conclusie
 
