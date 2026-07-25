@@ -15,7 +15,7 @@ Het probleem: de meeste saloneigenaren zijn te druk met behandelingen om na elke
 
 ## Het review-gat dichten met automatisering
 
-Automatisch reviews verzamelen betekent niet dat je een robot reviews laat schrijven. Het betekent dat het proces van vragen, herinneren en opvolgen zonder jouw tussenkomst verloopt. Zo werkt het:
+Automatisch [reviews verzamelen](/reviews) betekent niet dat je een robot reviews laat schrijven. Het betekent dat het proces van vragen, herinneren en opvolgen zonder jouw tussenkomst verloopt. Zo werkt het:
 
 - **Direct na de behandeling:** Een automatisch WhatsApp-bericht bedankt de klant en vraagt om een review met een directe link naar je Google-pagina
 - **Na 24 uur:** Wie nog niet gereageerd heeft krijgt een vriendelijke herinnering
@@ -68,6 +68,8 @@ Ja. Google staat toe dat je klanten vraagt om een review. Wat niet mag is review
 ### Hoe snel merk ik resultaat?
 
 De meeste salons zien binnen twee weken een toename in reviews. Het effect op je Google-positie volgt na zes tot acht weken, wanneer Google de trend herkent.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/online-reputatie-beautysalon" class="text-dark fw-semibold">Online reputatie als beautysalon: reviews die nieuwe klanten trekken</a> →</p></div></div></div>
 
 ## Conclusie
 
