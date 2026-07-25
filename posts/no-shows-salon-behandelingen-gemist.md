@@ -55,6 +55,8 @@ Houd een lijst bij van klanten die op korte termijn een afspraak willen. Wanneer
 
 Dit draait het verlies van een annulering deels terug. Je verliest de oorspronkelijke klant, maar je wint een wachtlijstklant die blij is dat het sneller kon.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/robot-doet-nagels-sneller" class="text-dark fw-semibold">Deze Robot Doet Je Nagels Sneller dan Elke Nagelstyliste</a> →</p></div></div></div>
+
 ## Reken het uit en neem actie
 
 Tel je no-shows van de afgelopen maand, vermenigvuldig met je gemiddelde behandelprijs. Dat bedrag kun je grotendeels terugwinnen met de juiste combinatie van herinneringen, aanbetalingen en een laagdrempelig annuleringssysteem. De investering is minimaal vergeleken met het verlies.
