@@ -8,7 +8,6 @@ image: "/images/blog/concurrentieanalyse-beautysalon-onderscheiden.jpg"
 tags: ["Concurrentie", "Strategie", "Groei"]
 cluster: branding
 ---
-
 ## Waarom concurrentieanalyse voor je salon
 
 De beautybranche groeit, maar daarmee groeit ook de concurrentie. In elke stad zijn meerdere salons die vergelijkbare behandelingen aanbieden. Hoe zorg je ervoor dat klanten voor jouw salon kiezen?
@@ -24,7 +23,7 @@ Maak een lijst van de beautysalons in een straal van 5-10 kilometer rondom jouw 
 Verzamel voor elke concurrent:
 - Welke behandelingen bieden ze aan?
 - Wat is hun prijsniveau?
-- Hoe ziet hun website en social media eruit?
+- Hoe ziet hun website en [social media](/social-media) eruit?
 - Hoeveel Google Reviews hebben ze en wat is de score?
 - Wat is hun unique selling point?
 
@@ -62,6 +61,8 @@ Kijk wat concurrenten vragen voor vergelijkbare behandelingen. Positioneer je be
 Premium salons vragen meer maar bieden een complete ervaring. Middenklasse salons concurreren op kwaliteit-prijsverhouding. Budgetsalons draaien op volume.
 
 Ongeacht je prijsniveau: wees transparant. Klanten waarderen het als ze vooraf weten wat iets kost. Overweeg om pakketten samen te stellen — een combinatie van behandelingen tegen een aantrekkelijk totaalprijs. Dit verhoogt de gemiddelde besteding per bezoek.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/personeel-behouden-salon-verloop-voorkomen" class="text-dark fw-semibold">Personeel behouden in je salon: 5 manieren tegen verloop</a> →</p></div></div></div>
 
 ## Actieplan: je salon onderscheiden
 
