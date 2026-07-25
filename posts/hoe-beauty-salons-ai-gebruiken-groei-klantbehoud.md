@@ -7,8 +7,7 @@ image: "/images/blog/hoe-beauty-salons-ai-gebruiken-groei-klantbehoud.png"
 tags: ["AI", "Automatisering", "Beauty Salons"]
 cluster: automatisering
 ---
-
-Een beauty salon draait op vaste klanten, volle agenda's en een sterke persoonlijke reputatie. Tegelijkertijd vraagt de operationele kant steeds meer aandacht: afspraken beheren, herinneringen sturen, reviews verzamelen, social media bijhouden. AI neemt die taken over — zodat jij de focus houdt op wat je het beste doet.
+Een beauty salon draait op vaste klanten, volle agenda's en een sterke persoonlijke reputatie. Tegelijkertijd vraagt de operationele kant steeds meer aandacht: afspraken beheren, herinneringen sturen, [reviews verzamelen](/reviews), social media bijhouden. AI neemt die taken over — zodat jij de focus houdt op wat je het beste doet.
 
 ## Wat AI doet voor beauty salons
 
@@ -36,6 +35,8 @@ Na elke behandeling ontvangt de klant een vriendelijk reviewverzoek via WhatsApp
 **Stap 1**: Activeer online afsprakenbeheer met herinneringen.
 **Stap 2**: Stel behandelherinneringen in per behandeltype.
 **Stap 3**: Activeer review-automatisering en social media planning.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/wachtlijst-beautysalon-annuleringen-opvangen" class="text-dark fw-semibold">Wachtlijst in je salon: annuleringen direct opvangen</a> →</p></div></div></div>
 
 ## Conclusie
 
