@@ -80,6 +80,8 @@ Een nieuwe klant werven kost 5 tot 7 keer meer dan een bestaande klant behouden.
 
 Een investering van 50 euro per maand in automatiseringssoftware die je retentie met 15 procent verhoogt, kan duizenden euro's per jaar opleveren.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/salon-upsells-6-manieren-hogere-besteding" class="text-dark fw-semibold">Salon upsells die klanten graag accepteren: 6 slimme manieren voor meer besteding</a> →</p></div></div></div>
+
 ## Begin vandaag
 
 1. **Automatisch bedankbericht** na het eerste bezoek
