@@ -34,7 +34,7 @@ Posting-frequentie: 2x per week. Engagement ligt typisch 2-3x hoger dan gewone f
 
 ## Format 2: de "dit kost het"-transparantie-post
 
-Prijstransparantie is zeldzaam op beauty salon social media. Daar ligt precies de kans. Een post die eerlijk laat zien wat iets kost, bouwt vertrouwen enorm.
+Prijstransparantie is zeldzaam op beauty salon [social media](/blog/hashtag-strategie-salon-lokale-klanten-instagram). Daar ligt precies de kans. Een post die eerlijk laat zien wat iets kost, bouwt vertrouwen enorm.
 
 **Wat werkt:**
 Afbeelding: close-up van de behandeling (handen, materialen, actiefase)
