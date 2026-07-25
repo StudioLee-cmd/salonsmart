@@ -8,12 +8,11 @@ image: "/images/blog/online-reputatie-beautysalon.png"
 tags: ["online reputatie", "beautysalon", "reviews"]
 cluster: reviews
 ---
-
 "Ken je een goede beautysalon?" Die vraag wordt steeds vaker beantwoord via Google in plaats van via vriendinnen. Klanten googelen, vergelijken sterren en lezen reviews. Jouw online reputatie is het eerste filter.
 
 ## Waarom reviews alles bepalen voor beautysalons
 
-Beauty is persoonlijk en visueel. Klanten laten iemand aan hun gezicht, huid of nagels werken. Het vertrouwen moet maximaal zijn. Reviews geven dat vertrouwen: "Fantastisch resultaat, super fijne sfeer" overtuigt meer dan elk promovideo.
+Beauty is persoonlijk en visueel. Klanten laten iemand aan hun gezicht, huid of nagels werken. Het [vertrouwen](/reviews) moet maximaal zijn. Reviews geven dat vertrouwen: "Fantastisch resultaat, super fijne sfeer" overtuigt meer dan elk promovideo.
 
 Een salon met 50+ reviews en 4,9 sterren wint het altijd van een salon met 3 reviews — ongeacht de kwaliteit van de behandelingen.
 
