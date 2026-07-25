@@ -8,7 +8,6 @@ image: "/images/blog/schoonheidssalon-avondbezoekers-vasthouden.jpg"
 tags: ["Boekingen", "Conversie", "Salon"]
 cluster: website
 ---
-
 Als je de website-analytics van een gemiddelde Nederlandse schoonheidssalon of nagelstudio over een maand bekijkt, zie je een opvallende piek rond 20:00 tot 22:30. In dat tijdvenster komen 60 tot 75 procent van alle boekings-geïnteresseerde bezoekers binnen. Dat is logisch: ze zijn thuis, de kinderen slapen, ze hebben tijd om rustig naar behandelingen en tarieven te kijken en te vergelijken tussen salons. Maar dat is ook precies het tijdvenster waarin jouw salon dicht is en niemand van jouw team antwoord kan geven op vragen die ze tegenkomen. Resultaat: een enorme afhaakpercentage juist in het kritieke beslissingsmoment.
 
 Dit artikel legt uit welke drie systemen wél werken om die avondbezoekers vast te houden en tot boeking te converteren, welke veelgebruikte oplossingen nauwelijks effect hebben, en wat het concreet oplevert in geboekte omzet per maand.
@@ -81,6 +80,8 @@ In euro's: een salon met 400 websitebezoekers per maand en gemiddelde behandelin
 **Geen contra-indicatie-filter.** Bepaalde behandelingen hebben contra-indicaties (zwangerschap, eerdere reacties, specifieke medicatie). De chatbot moet altijd vragen of iets van toepassing is en bij ja direct door naar consult-gesprek, geen automatische boeking.
 
 **Generieke WhatsApp-templates.** "{voornaam}, je afspraak is bevestigd" klopt technisch, maar voelt koud. Maak de tekst persoonlijk, specifiek voor het behandelingstype, en in jouw eigen stem.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elite-salon-app" class="text-dark fw-semibold"></a> →</p></div></div></div>
 
 ## Waar begin je deze week
 
