@@ -8,7 +8,6 @@ image: "/images/blog/online-boeken-beautysalon-verwachting-2026.png"
 tags: ["Beautysalon", "Online Boeken", "Klantbeleving"]
 cluster: website
 ---
-
 ## Waarom bellen niet meer genoeg is
 
 Het is dinsdagavond 21:00. Een vrouw scrolt door Instagram, ziet je prachtige nagelkunst, en wil direct een afspraak maken. Ze klikt op je profiel — geen boekingslink. Ze gaat naar je website — alleen een telefoonnummer. Bellen om 21:00? Dat doet ze niet. Morgen vergeet ze het, en boekt bij een salon die wél online boeken aanbiedt.
@@ -74,6 +73,8 @@ De werkelijkheid:
 4. **Week 4**: Evalueer — hoeveel boekingen kwamen online binnen?
 
 De meeste salons zien binnen een maand dat 30-50% van alle boekingen online binnenkomt.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/portfolio-beautysalon-opbouwen-klanten" class="text-dark fw-semibold">Portfolio beautysalon opbouwen: van foto's naar boekingen</a> →</p></div></div></div>
 
 ## Conclusie
 
