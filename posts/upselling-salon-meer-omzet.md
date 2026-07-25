@@ -59,6 +59,8 @@ Bovendien komen klanten die producten kopen vaker terug. Ze hebben een reden om 
 
 Tevreden klanten die goede adviezen krijgen, laten vaker uitgebreide [reviews](/reviews) achter. "Geweldig advies en het product werkt echt" is het soort review dat nieuwe klanten aantrekt.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-salon-behandelingen-gemist" class="text-dark fw-semibold">No-shows in je salon: hoeveel omzet mis je echt?</a> →</p></div></div></div>
+
 ## Begin morgen
 
 Kies drie producten die je het vaakst gebruikt bij behandelingen. Zorg dat ze zichtbaar zijn bij de kassa. En spreek met je team af: bij elke behandeling een advies geven. Niet pushen, adviseren. Het verschil merk je binnen een maand.
