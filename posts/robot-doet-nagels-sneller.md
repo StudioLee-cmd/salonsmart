@@ -7,7 +7,6 @@ image: "/images/blog/robot-doet-nagels-sneller.jpg"
 tags: ["1 April", "No-Shows", "Planning"]
 cluster: automatisering
 ---
-
 ## De robot-nagelstyliste die nooit te laat komt
 
 Breaking news: een Koreaans beautytech-bedrijf heeft de NailBot Pro gelanceerd — een robotarm met zes precisievingers die een volledige set gelnagels aanbrengt in 58 seconden. Geen droogtijd, geen gesprekken over het weer en een 100 procent symmetrisch resultaat. De eerste pilotlocatie in Seoul heeft al 3.000 klanten geholpen, allemaal zonder wachttijd.
@@ -48,7 +47,7 @@ Een effectieve herinneringsflow ziet er zo uit:
 
 Dit hele systeem draait automatisch. Na de eerste installatie hoef je er geen seconde meer aan te besteden. De herinneringen gaan vanzelf de deur uit terwijl jij je focust op je klanten.
 
-Salons die met automatische herinneringen werken, zien hun no-show-percentage met 40 tot 60 procent dalen. Dat is direct geld terug in je kassa.
+Salons die met [automatische herinneringen](/automatisering) werken, zien hun no-show-percentage met 40 tot 60 procent dalen. Dat is direct geld terug in je kassa.
 
 ## Slim annuleringsbeleid voor salons
 
