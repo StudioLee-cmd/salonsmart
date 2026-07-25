@@ -63,6 +63,8 @@ Twee keer na eerste interesse, daarna alleen bij seizoensacties of als ze explic
 
 Een kennismakingskorting van 10-15% op de eerste behandeling werkt goed als conversietool. Maak het tijdgebonden: "Geldig deze maand."
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/salon-leads-opvolgen-automatisch" class="text-dark fw-semibold">Salon leads automatisch opvolgen: van aanvraag naar afspraak</a> →</p></div></div></div>
+
 ## Conclusie
 
 Leads opvolgen als beautysalon is het verschil tussen een volle en een halfvolle agenda. Automatiseer de eerste reactie, personaliseer de follow-up en bouw een retentiesysteem. De klant die vandaag twijfelt, is morgen je vaste bezoeker.
