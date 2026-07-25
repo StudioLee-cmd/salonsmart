@@ -7,12 +7,11 @@ image: "/images/blog/reviews-automatiseren-beautysalon.jpg"
 tags: ["Reviews", "Automatisering", "Groei"]
 cluster: reviews
 ---
-
 ## Waarom reviews je salon maken of breken
 
 Een beautysalon kiest niemand blind. Potentiële klanten lezen reviews, bekijken foto's en vergelijken. In een markt waar elke straat een salon heeft, zijn reviews het verschil tussen een volle en een lege agenda.
 
-De cijfers liegen niet: salons met meer dan 50 Google Reviews krijgen gemiddeld 35 procent meer websitebezoeken dan salons met minder dan 10 reviews. En die bezoekers converteren beter — ze hebben het vertrouwen al opgebouwd voordat ze binnenstappen.
+De cijfers liegen niet: salons met meer dan 50 [Google Reviews](/reviews) krijgen gemiddeld 35 procent meer websitebezoeken dan salons met minder dan 10 reviews. En die bezoekers converteren beter — ze hebben het vertrouwen al opgebouwd voordat ze binnenstappen.
 
 Toch verzamelen de meeste salons reviews passief. Ze hopen dat tevreden klanten uit zichzelf een review achterlaten. Dat doen er maar weinig — tenzij je het ze makkelijk maakt.
 
@@ -46,7 +45,7 @@ De berichten voelen persoonlijk aan omdat ze de klantnaam en behandeling bevatte
 
 ## Google Reviews vs Instagram-reacties
 
-Instagram-complimentjes zijn leuk voor je ego, maar Google Reviews zijn beter voor je portemonnee.
+Instagram-complimentjes zijn leuk voor je ego, maar [Google Reviews](/blog/reviews-beantwoorden-salon-ai-templates) zijn beter voor je portemonnee.
 
 Het verschil:
 
