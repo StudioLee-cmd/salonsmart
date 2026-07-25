@@ -7,7 +7,6 @@ image: "/images/blog/branding-salon-visuele-consistentie-klanten.jpg"
 cluster: "branding"
 tags: ["Branding", "Salon Marketing", "Visuele Identiteit"]
 ---
-
 Twee salons in dezelfde wijk hebben vergelijkbare prijzen, vergelijkbare reviews en vergelijkbare diensten. Salon A heeft een logo dat overal anders uitziet (Instagram-bio in zwart, website in rose, visitekaartje in goud), kleuren die per platform verschillen, en foto's die door verschillende mensen op verschillende manieren zijn bewerkt. Salon B heeft een herkenbaar visueel verhaal: zelfde logo overal, drie consistente kleuren, foto's met dezelfde toon en hetzelfde licht. Klanten die beide salons online tegenkomen voelen Salon B als professioneler, betrouwbaarder, en kiezen vaker voor Salon B. Niet bewust, maar visueel-emotioneel.
 
 Branding voor een salon is geen luxe meer in 2026. Het is operationele basis. Een herkenbaar visueel verhaal verhoogt boekingen met 15-30 procent, verlaagt prijs-bezwaren en verhoogt klantloyaliteit. En het kost geen tienduizenden euro's om in te richten, mits je weet welke elementen consistent moeten zijn. Dit artikel laat zien hoe je in één week de visuele basis voor je salon op orde krijgt zonder een dure design-bureau in te schakelen.
@@ -161,6 +160,8 @@ Eens per 3-5 jaar voor grote refresh. Tussendoor alleen kleine verfijning waar n
 ### Wat als ik 2 salon-locaties heb?
 
 Eén brandbook voor beide. Eventueel een sub-element per locatie (een specifieke accentkleur), maar logo, hoofdkleur en fonts blijven gelijk.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/nagelstudio-segment-toevoegen-beautysalon-rendement" class="text-dark fw-semibold">Manicure en gel-nagels toevoegen aan je beauty salon: rendement, hygiëne en prijsstrategie</a> →</p></div></div></div>
 
 ## Klaar om je salon-merk te versterken?
 
