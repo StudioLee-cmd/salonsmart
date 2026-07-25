@@ -8,7 +8,6 @@ image: "/images/blog/salon-upsells-6-manieren-hogere-besteding.jpg"
 tags: ["Upsell", "Revenue", "Salon"]
 cluster: automatisering
 ---
-
 Twee salons met dezelfde soort klanten, zelfde basis-tarieven. Salon A heeft een gemiddelde besteding van €58 per klant, salon B van €95. Het grote verschil zit niet in tarieven maar in upselling: salon B heeft een structurele aanpak om klanten tijdens hun bezoek relevante extras te laten proberen.
 
 Goede upsells voelen als advies, niet als verkoop. En als je ze structureert, voelt je team zich niet opdringerig — ze voelen zich behulpzaam. Dit artikel geeft 6 specifieke upsell-methoden die in beauty- en wellness-salons bewezen werken, plus de communicatie-regels die ervoor zorgen dat klanten ja zeggen zonder ongemak.
@@ -168,6 +167,8 @@ Salons die 6 maanden consistent deze aanpak gebruiken:
 - **Hogere medewerker-trots** (ze geven goed advies, geen sales).
 - **Lager ziekteverzuim** van medewerkers (minder stress door commissie-druk).
 - **Voorspelbare omzetgroei** van 20-30%.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-ai-salons-helpt" class="text-dark fw-semibold">Hoe AI Salons Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)</a> →</p></div></div></div>
 
 ## Hoe je deze week begint
 
