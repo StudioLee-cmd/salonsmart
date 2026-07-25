@@ -44,6 +44,8 @@ Als je regelmatig DMs ontvangt maar ze niet snel genoeg kunt beantwoorden, overw
 
 ![Saloninrichting met boekingsagenda op de balie](/images/blog/leads-opvolgen-salon-meer-boekingen-2.jpg)
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leads-opvolgen-beautysalon-boekingen" class="text-dark fw-semibold">Leads opvolgen als beautysalon: meer boekingen</a> →</p></div></div></div>
+
 ## Maak er een systeem van, niet een taak
 
 Het verschil tussen salons die groeien en salons die stagneren zit niet in de kwaliteit van de behandelingen. Het zit in het systeem erachter. Behandel elke lead op dezelfde manier: ontvang, bevestig, reageer persoonlijk, volg op.
