@@ -18,6 +18,8 @@ import SetupSupport from "@/components/SetupSupport";
 
 import type { Metadata } from 'next';
 
+import SiteSchema from "@/components/SiteSchema";
+
 export const metadata: Metadata = {
   alternates: { canonical: '/' },
 };
@@ -26,6 +28,7 @@ export const metadata: Metadata = {
 const HomePage: React.FC = () => {
   return (
     <>
+      <SiteSchema />
       <Hero />
       <Logos />
       <USPPillars />
