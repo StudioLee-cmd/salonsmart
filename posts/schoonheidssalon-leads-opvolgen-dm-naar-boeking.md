@@ -124,6 +124,8 @@ Met snellere opvolging stijgt je conversie naar 50 procent. Maandomzet wordt dan
 
 Voor een drukbezette salon met 100+ DM-vragen per maand is dit nog veel meer.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klantcommunicatie-beautysalon" class="text-dark fw-semibold">Klantcommunicatie voor je beautysalon: van bevestiging tot follow-up</a> →</p></div></div></div>
+
 ## Begin deze week
 
 Drie acties voor de komende zeven dagen:
