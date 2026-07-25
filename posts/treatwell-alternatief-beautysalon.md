@@ -7,7 +7,6 @@ image: "/images/blog/treatwell-alternatief-beautysalon.jpg"
 tags: ["Vergelijking", "Software", "Groei"]
 cluster: automatisering
 ---
-
 ## Waarom beautysalons Treatwell verlaten
 
 Treatwell levert klanten, dat klopt. Maar tegen welke prijs? Beautysalons betalen tot 35 procent commissie op nieuwe boekingen. Bij een gezichtsbehandeling van €85 gaat er €30 naar Treatwell. Per maand lopen die kosten op tot honderden euro's aan commissie.
@@ -43,7 +42,7 @@ Naast de commissie zijn er kosten die je niet direct ziet:
 
 ## 25 tools in één systeem
 
-SalonSmart is niet zomaar een boekingssysteem. Het vervangt Treatwell, je marketingbureau, je social media manager en je virtuele receptioniste in één systeem. Van AI telefoniste tot facturatie, van SEO blog tot review management — alles werkt samen.
+SalonSmart is niet zomaar een boekingssysteem. Het vervangt Treatwell, je marketingbureau, je social media manager en je virtuele receptioniste in één systeem. Van AI telefoniste tot facturatie, van SEO blog tot [review management](/reviews) — alles werkt samen.
 
 ## Managed service: jij doet je vak, wij de rest
 
