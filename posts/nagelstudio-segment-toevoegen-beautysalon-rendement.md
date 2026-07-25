@@ -9,7 +9,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "Prijzen", "Klantbeheer"]
 cluster: branding
 ---
-
 # Manicure en gel-nagels toevoegen aan je beauty salon: rendement, hygiëne en prijsstrategie
 
 Je beauty salon draait op huidbehandelingen, harsen en wimper-extensions — vaste klanten, hoge marge per uur, maar lage frequency (4-8 keer per jaar per klant). Een vaste klant vraagt voor de zoveelste keer of jij ook nagels doet. Je hebt het altijd weggewuifd, maar nu rekent ze even uit: ze gaat al 18 maanden elke 3 weken naar een nagelstudio. Dat zijn 26 bezoeken per jaar — bijna 4x de frequency van haar bezoek aan jou.
@@ -163,6 +162,8 @@ Mag, maar je beperkt je markt tot ~25% van wat het kan zijn. Veel nagelklanten z
 ### Moet ik mijn salon-branding aanpassen voor nagels?
 
 Geen volledige rebrand, maar wel een visuele aanpassing op Instagram, GBP en website. Klanten moeten in 1 oogopslag zien dat jouw salon zowel huid- als nagel-behandelingen aanbiedt — anders denken ze dat je puur huid-georiënteerd bent.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/microneedling-beauty-specialisme-setup-pricing" class="text-dark fw-semibold">Microneedling als beauty-specialisme: setup en pricing</a> →</p></div></div></div>
 
 ## Aan de slag
 
