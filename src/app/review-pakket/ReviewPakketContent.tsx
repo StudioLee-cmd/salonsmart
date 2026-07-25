@@ -1,5 +1,6 @@
 "use client";
 import React from 'react';
+import Link from 'next/link';
 import Header from "@/components/Header";
 import ReviewPricing from "@/components/Review/ReviewPricing";
 import { motion } from "framer-motion";
@@ -70,6 +71,38 @@ export default function ReviewPage() {
                                 <p className="text-sm text-gray-500 dark:text-gray-400 max-w-[150px]">{step.desc}</p>
                             </div>
                         ))}
+                    </div>
+                </div>
+            </section>
+
+            {/* Cross-links naar de product-pillars */}
+            <section className="py-16 px-4 bg-gray-50 dark:bg-gray-900/50">
+                <div className="max-w-6xl mx-auto">
+                    <div className="max-w-3xl mx-auto text-center mb-12">
+                        <h2 className="text-2xl md:text-3xl font-bold mb-4 dark:text-white">Waarom 5-sterren reviews je instroom aanjagen</h2>
+                        <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
+                            In de lokale Google-resultaten kijkt een klant eerst naar je sterren en pas daarna naar je aanbod.
+                            Onze NFC-tools en software maken het voor je klanten dood-simpel om een 5-sterren review achter te
+                            laten: direct na de behandeling, vanaf hun eigen telefoon.
+                        </p>
+                    </div>
+                    <h3 className="text-xl md:text-2xl font-bold text-center mb-6 dark:text-white">Combineer met andere AI-tools</h3>
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                        <Link href="/reviews" className="group border border-gray-200 dark:border-gray-700 rounded-2xl p-6 bg-white dark:bg-gray-800 hover:border-blue-400 transition-all">
+                            <h3 className="text-lg font-bold mb-2 group-hover:text-blue-600 dark:text-white transition-colors">Reviews Software</h3>
+                            <p className="text-gray-600 dark:text-gray-400 text-sm mb-3">Combineer de fysieke kaartjes met automatische digitale review-verzoeken na elke behandeling.</p>
+                            <span className="inline-flex items-center gap-1 text-blue-600 dark:text-[var(--secondary)] text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+                        </Link>
+                        <Link href="/seo" className="group border border-gray-200 dark:border-gray-700 rounded-2xl p-6 bg-white dark:bg-gray-800 hover:border-blue-400 transition-all">
+                            <h3 className="text-lg font-bold mb-2 group-hover:text-blue-600 dark:text-white transition-colors">SEO voor Salons</h3>
+                            <p className="text-gray-600 dark:text-gray-400 text-sm mb-3">Je reviews voeden je Google-ranking, dus combineer ze met SEO die vanzelf doorloopt.</p>
+                            <span className="inline-flex items-center gap-1 text-blue-600 dark:text-[var(--secondary)] text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+                        </Link>
+                        <Link href="/automatisering" className="group border border-gray-200 dark:border-gray-700 rounded-2xl p-6 bg-white dark:bg-gray-800 hover:border-blue-400 transition-all">
+                            <h3 className="text-lg font-bold mb-2 group-hover:text-blue-600 dark:text-white transition-colors">Workflow Automatisering</h3>
+                            <p className="text-gray-600 dark:text-gray-400 text-sm mb-3">Het review-verzoek gaat automatisch uit op het moment dat je klant het meest tevreden is.</p>
+                            <span className="inline-flex items-center gap-1 text-blue-600 dark:text-[var(--secondary)] text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+                        </Link>
                     </div>
                 </div>
             </section>
