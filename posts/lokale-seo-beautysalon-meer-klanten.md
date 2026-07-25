@@ -63,6 +63,8 @@ Treatwell kan een aanvulling zijn, maar maak je niet afhankelijk. Bouw je eigen 
 
 Focus op kwaliteit en recentheid. Tien recente 5-sterren reviews wegen zwaarder dan honderd oude reviews. Consistentie wint van volume.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/stadspaginas-beautysalon-ranken-per-stad" class="text-dark fw-semibold">Stadspagina's voor beauty salons: ranken per stad</a> →</p></div></div></div>
+
 ## Conclusie
 
 Lokale SEO maakt je beautysalon zichtbaar voor klanten in je directe omgeving — zonder commissie aan platforms. Begin met je Google Bedrijfsprofiel, verzamel systematisch reviews en schrijf lokale content.
