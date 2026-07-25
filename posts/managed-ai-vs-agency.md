@@ -8,7 +8,6 @@ image: "/images/blog/managed-ai-vs-agency.png"
 tags: ["Managed Service", "Kostenbesparing", "Strategie"]
 cluster: automatisering
 ---
-
 Als je als salon wilt groeien, heb je marketing nodig. Vaak huren salons dan een bureau in. Dure contracten, mooie praatjes.
 
 Maar laten we eerlijk zijn: wat doen ze echt? Ze posten af en toe iets en sturen een factuur. Met SalonSmart kan dit anders.
@@ -17,7 +16,7 @@ Maar laten we eerlijk zijn: wat doen ze echt? Ze posten af en toe iets en sturen
 
 Waarom zou je teveel betalen voor een bureau?
 - **Snelheid:** Een bureau is traag. AI is direct. Heb je nu een uitvaller? De AI kan direct een "last minute plekje" posten op je socials.
-- **Bereikbaarheid:** Het bureau werkt van 9 tot 5. Onze Voice AI werkt 24/7. Dus ook als klanten op zondagavond bellen voor een afspraak.
+- **Bereikbaarheid:** Het bureau werkt van 9 tot 5. Onze [Voice AI](/voice-ai) werkt 24/7. Dus ook als klanten op zondagavond bellen voor een afspraak.
 - **Kosten:** Voor een bureau betaal je hun pand en auto's. Bij SalonSmart betaal je voor resultaat. Onze **Elite Managed Service** is goedkoper dan een parttime kracht.
 
 Met Managed Service combineren we het beste van twee werelden: de snelheid van AI, maar beheerd door onze experts. Wij stellen alles in, jij behandelt.
