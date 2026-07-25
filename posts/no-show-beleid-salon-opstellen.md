@@ -83,6 +83,8 @@ Het gebeurt zelden, maar het kan voorkomen dat een klant het niet eens is met de
 
 Klanten die structureel boos reageren op redelijke regels zijn geen klanten die je wilt behouden. Je [online reviews](/reviews) zullen er niet onder lijden, want 99% van je klanten vindt een no-show beleid volkomen normaal. Het geeft hen juist vertrouwen dat je professioneel werkt.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-beautysalon-aanpakken" class="text-dark fw-semibold">No-shows in je beautysalon aanpakken</a> →</p></div></div></div>
+
 ## Begin vandaag met drie acties
 
 Je hoeft niet alles in één keer te regelen. Begin met deze drie stappen:
