@@ -7,7 +7,6 @@ image: "/images/blog/no-shows-beautysalon-aanpakken.jpg"
 tags: ["No-shows", "Klantenmanagement", "Groei"]
 cluster: automatisering
 ---
-
 ## De echte kosten van no-shows voor je salon
 
 Een beautysalon die vijf no-shows per week heeft bij een gemiddelde behandelprijs van €75, verliest ruim €19.000 per jaar. Dat is geen klein bedrag — het is het verschil tussen winst en verlies voor veel salonhouders.
@@ -44,7 +43,7 @@ Met AI-automatisering worden deze herinneringen volledig automatisch verstuurd �
 
 ## No-show beleid zonder klanten af te schrikken
 
-Een goed no-show beleid is niet streng — het is duidelijk. Klanten waarderen transparantie.
+Een goed [no-show beleid](/blog/no-show-beleid-salon-opstellen) is niet streng — het is duidelijk. Klanten waarderen transparantie.
 
 Tips voor een effectief beleid:
 
@@ -76,6 +75,6 @@ Hoe dit in de praktijk werkt: klanten die bij het boeken geen geschikte plek vin
 
 Een slimme wachtlijst onderscheidt ook op type behandeling. Een klant die wacht op een plek voor een gezichtsbehandeling krijgt alleen een bericht als er een plek voor een gezichtsbehandeling vrijkomt, niet voor een manicure. Dat maakt het relevant en verhoogt de conversie.
 
-De combinatie van automatische herinneringen, een duidelijk beleid, slimme aanbetalingen en een wachtlijst kan het aantal no-shows in je salon met 80 tot 90 procent terugbrengen. Dat is duizenden euro's per jaar die je behoudt in plaats van verliest.
+De combinatie van [automatische herinneringen](/automatisering), een duidelijk beleid, slimme aanbetalingen en een wachtlijst kan het aantal no-shows in je salon met 80 tot 90 procent terugbrengen. Dat is duizenden euro's per jaar die je behoudt in plaats van verliest.
 
 Wil je weten hoe AI jouw salon kan helpen met herinneringen en wachtlijsten? Vraag een [gratis AI-scan](/gratis-scan) aan.
