@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "Wenkbrauwen", "Wimperextensions"]
 cluster: branding
 ---
-
 Een vrouw die haar wenkbrauwen voor het eerst laat lifte (brow lamination), boekt vrijwel altijd al binnen 4 weken haar tweede afspraak. Daarna vraagt ze naar wimper-extensions. Daarna komt ze elke 4-6 weken terug voor onderhoud van beide. Voor beauty salons die het wenkbrauw + wimper-segment serieus opbouwen is dit een hoog-frequency niche met een loyale klantengroep en uitstekende marge per behandeling.
 
 Dit artikel laat zien hoe je het brow + lash + microblading-segment toevoegt aan je beauty salon: welke 5 behandelingen het werk vormen, prijs-strategie per type, en hoe je de 4-6 weken repeat-cyclus structureel inricht.
@@ -114,7 +113,7 @@ Permanente make-up vraagt formele SBI-keurmerk + hygiëne-certificaat. Zonder di
 
 ## Conclusie: brow + lash bouwt een terugkerende klantenbasis
 
-Het wenkbrauw + wimper-segment is voor beauty salons een van de meest rendabele toevoegingen wanneer je de 4-6 weken repeat-cyclus structureel inricht. Begin met brow lamination + lash-extensions (lagere investering), schaal naar microblading wanneer je SBI-vergunning hebt.
+Het wenkbrauw + wimper-segment is [voor beauty salons](/blog/permanente-make-up-pmu-microblading-beauty-salon-vergunning) een van de meest rendabele toevoegingen wanneer je de 4-6 weken repeat-cyclus structureel inricht. Begin met brow lamination + lash-extensions (lagere investering), schaal naar microblading wanneer je SBI-vergunning hebt.
 
 Bij SalonSmart helpen we beauty salons die dit segment willen opbouwen met de software-laag (4-6 weken-herinnering-flow, abonnement-management, foto-portfolio-vraag na full-set). We werken met een **Groei-of-Geld-Terug Garantie**, als je binnen 6 maanden geen toename in repeat-bezoeken ziet door onze flow, krijg je je investering terug. Plan een [gratis ai scan voor salons](/gratis-scan) of bekijk de [tarieven](/tarieven) voor het brow + lash-segment-pakket.
 
