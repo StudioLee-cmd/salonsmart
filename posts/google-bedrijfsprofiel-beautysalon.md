@@ -8,7 +8,6 @@ image: "/images/blog/google-bedrijfsprofiel-beautysalon.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
 cluster: vindbaarheid
 ---
-
 Als iemand zoekt naar "beautysalon in de buurt" of "nagelsalon [stad]", verschijnt als eerste het Google Maps-blok met drie bedrijven. Dat is je Google Bedrijfsprofiel — en het is de plek waar de meeste klanten hun keuze maken. Niet op Instagram, niet op Treatwell, maar in dat compacte kaartje met je naam, reviews, foto's en bel-knop.
 
 In dit artikel lees je hoe je als beautysalon je Google Bedrijfsprofiel optimaliseert zodat je meer klanten uit je buurt aantrekt.
@@ -53,7 +52,7 @@ Maak er een gewoonte van: na elke bijzondere behandeling een foto maken (met toe
 
 ## Reviews: de levensader van je salon
 
-Voor beautysalons zijn reviews absoluut cruciaal. Een klant die kiest tussen drie salons kijkt naar twee dingen: de foto's en de reviews. Een salon met 150 reviews en 4.8 sterren wint het altijd van een salon met 10 reviews en 5.0 sterren.
+Voor beautysalons zijn [reviews](/reviews) absoluut cruciaal. Een klant die kiest tussen drie salons kijkt naar twee dingen: de foto's en de reviews. Een salon met 150 reviews en 4.8 sterren wint het altijd van een salon met 10 reviews en 5.0 sterren.
 
 **Wanneer vragen:** Direct na de behandeling, wanneer de klant in de spiegel kijkt en tevreden is. "Vind je het mooi geworden? Zou je dat ook op Google willen schrijven? Dat helpt me enorm." Stuur meteen de link via WhatsApp.
 
@@ -92,6 +91,8 @@ Voeg Q&A toe aan je profiel:
 **Reviews niet beantwoorden.** Zelfs de positieve. Het toont betrokkenheid en stimuleert anderen om ook te reviewen.
 
 **Verkeerde categorie.** "Schoonheidssalon" en "Nagelsalon" zijn verschillende categorieën in Google. Kies de categorie die het best past bij je kernactiviteit.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-klanten-beautysalon-vinden-2026" class="text-dark fw-semibold">Hoe klanten je beautysalon vinden in 2026</a> →</p></div></div></div>
 
 ## Conclusie
 
