@@ -47,6 +47,8 @@ Snel reageren is stap één. Persoonlijk reageren is stap twee. Een automatisch 
 
 Die combinatie van snelheid en warmte is wat de beste salons onderscheidt van de rest.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/upselling-salon-meer-verdienen-per-klant" class="text-dark fw-semibold">Upselling in de salon: zo verdien je meer per klant</a> →</p></div></div></div>
+
 ## Wat het je oplevert
 
 Salons die hun reactietijd verlagen van 4+ uur naar onder 30 minuten zien gemiddeld 35-50% meer boekingen uit online aanvragen. Dat is geen theorie, dat is wat structurele opvolging oplevert.
