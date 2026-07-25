@@ -1,6 +1,8 @@
 "use client";
 
 import React from "react";
+import Image from "next/image";
+import Link from "next/link";
 import { motion } from "framer-motion";
 import {
   BsCheck2Circle,
@@ -157,6 +159,24 @@ export default function ChatbotContent() {
             </a>
           </motion.div>
         </div>
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.4, duration: 0.6 }}
+          className="max-w-5xl mx-auto mt-12 px-4"
+        >
+          <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
+            <Image
+              src="/images/services/chatbot-hero.jpg"
+              alt="AI chatbot vangt 's avonds vragen op in een gesloten beautysalon"
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 1024px) 100vw, 1024px"
+            />
+          </div>
+        </motion.div>
+
       </section>
 
       {/* Wat is een AI Chatbot? */}
@@ -243,6 +263,27 @@ export default function ChatbotContent() {
             ))}
           </div>
         </div>
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.6 }}
+          className="mt-14 max-w-5xl mx-auto px-4"
+        >
+          <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl">
+            <Image
+              src="/images/services/chatbot-workflow.jpg"
+              alt="Klant stelt vanuit de wachtruimte van de salon een vraag via de chatbot"
+              fill
+              className="object-cover"
+              sizes="(max-width: 1024px) 100vw, 1024px"
+            />
+          </div>
+          <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
+            Een klant stelt 's avonds een vraag via de chatbot. Jij krijgt direct een melding via WhatsApp.
+          </p>
+        </motion.div>
+
       </section>
 
       {/* Wat krijg je? */}
@@ -275,8 +316,24 @@ export default function ChatbotContent() {
 
       {/* Waarom kiezen voor een chatbot? */}
       <section className="py-16 px-4">
-        <div className="max-w-3xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-center mb-6">
+        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
+          <motion.div
+            initial={{ opacity: 0, x: -30 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="relative w-full aspect-[16/10] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl order-2 md:order-1"
+          >
+            <Image
+              src="/images/services/chatbot-section.jpg"
+              alt="Website-chatbot van een salon op een telefoon aan de balie"
+              fill
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 50vw"
+            />
+          </motion.div>
+          <motion.div className="order-1 md:order-2">
+          <h2 className="text-2xl md:text-3xl font-bold mb-6">
             Waarom {niche} kiezen voor een chatbot?
           </h2>
           <div className="text-foreground-accent space-y-4 text-base leading-relaxed">
@@ -297,6 +354,7 @@ export default function ChatbotContent() {
               groeit je bedrijf zonder extra personeel in te hoeven huren.
             </p>
           </div>
+          </motion.div>
         </div>
       </section>
 
@@ -366,6 +424,32 @@ export default function ChatbotContent() {
                 ))}
               </ul>
             </div>
+          </div>
+        </div>
+      </section>
+
+
+      {/* Combinatie met andere services */}
+      <section className="py-16 px-4 bg-[var(--card-background)]">
+        <div className="max-w-5xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-center mb-3">Combineer met andere AI-tools</h2>
+          <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">De chatbot werkt het beste als onderdeel van het complete platform.</p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <Link href="/voice-ai" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Voice AI Telefonist</h3>
+                <p className="text-foreground-accent text-sm mb-3">Vangt oproepen op als de klant liever belt dan chat — zelfde info, zelfde flow.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
+              <Link href="/automatisering" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Workflow Automatisering</h3>
+                <p className="text-foreground-accent text-sm mb-3">Herinneringen, opvolging en review-verzoeken automatisch versturen na elk chatgesprek.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
+              <Link href="/crm" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">CRM voor Salons</h3>
+                <p className="text-foreground-accent text-sm mb-3">Elk chatbot-gesprek landt automatisch in je CRM, met klantprofiel en geschiedenis.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
           </div>
         </div>
       </section>

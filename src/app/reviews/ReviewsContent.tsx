@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import {
@@ -190,6 +191,24 @@ export default function ReviewsContent() {
             </a>
           </motion.div>
         </div>
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.4, duration: 0.6 }}
+          className="max-w-5xl mx-auto mt-12 px-4"
+        >
+          <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
+            <Image
+              src="/images/services/reviews-hero.jpg"
+              alt="Klant laat vanuit de salonstoel een 5-sterren review achter op haar telefoon"
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 1024px) 100vw, 1024px"
+            />
+          </div>
+        </motion.div>
+
       </section>
 
       {/* Waarom zijn reviews belangrijk? */}
@@ -298,6 +317,27 @@ export default function ReviewsContent() {
             ))}
           </div>
         </div>
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.6 }}
+          className="mt-14 max-w-5xl mx-auto px-4"
+        >
+          <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl">
+            <Image
+              src="/images/services/reviews-workflow.jpg"
+              alt="Saloneigenaar krijgt direct een melding van een nieuwe 5-sterren review"
+              fill
+              className="object-cover"
+              sizes="(max-width: 1024px) 100vw, 1024px"
+            />
+          </div>
+          <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
+            Na elke behandeling vraagt het systeem automatisch om een review — meer 5-sterren, meer nieuwe klanten.
+          </p>
+        </motion.div>
+
       </section>
 
       {/* Wat krijg je? */}
@@ -444,6 +484,57 @@ export default function ReviewsContent() {
                 </p>
               </div>
             </motion.div>
+          </div>
+        </div>
+      </section>
+
+
+      {/* Section-beeld + cross-links */}
+      <section className="py-16 px-4">
+        <div className="max-w-6xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center mb-12">
+            <motion.div
+              initial={{ opacity: 0, x: -30 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6 }}
+              className="relative w-full aspect-[16/10] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl"
+            >
+              <Image
+                src="/images/services/reviews-section.jpg"
+                alt="Overzicht van binnengekomen 5-sterren reviews op een tablet in de salon"
+                fill
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 50vw"
+              />
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0, x: 30 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6 }}
+            >
+              <h2 className="text-2xl md:text-3xl font-bold mb-4">Meer reviews = meer nieuwe klanten</h2>
+              <p className="text-foreground-accent leading-relaxed">Klanten kiezen de salon met de meeste en beste reviews. Ons systeem verstuurt automatisch een review-uitnodiging na elke behandeling, met een directe link naar Google.</p>
+            </motion.div>
+          </div>
+          <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <Link href="/review-pakket" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Review Pakket (NFC)</h3>
+                <p className="text-foreground-accent text-sm mb-3">Combineer met fysieke NFC review-kaartjes voor een 5-sterren review direct na de behandeling.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
+              <Link href="/seo" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">SEO voor Salons</h3>
+                <p className="text-foreground-accent text-sm mb-3">Reviews voeden je Google-ranking — combineer met SEO-automatisering.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
+              <Link href="/automatisering" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Workflow Automatisering</h3>
+                <p className="text-foreground-accent text-sm mb-3">Review-verzoeken automatisch versturen na elke afspraak, op het juiste moment.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
           </div>
         </div>
       </section>

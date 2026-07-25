@@ -1,5 +1,7 @@
 "use client";
 import React from "react";
+import Image from "next/image";
+import Link from "next/link";
 import { motion } from "framer-motion";
 import { BsCheck2Circle, BsArrowRight, BsWhatsapp, BsCalendar3, BsBarChart, BsCamera, BsMegaphone, BsPalette, BsGraphUp, BsPeople } from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
@@ -75,6 +77,24 @@ export default function SocialMediaContent() {
             </a>
           </motion.div>
         </div>
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.4, duration: 0.6 }}
+          className="max-w-5xl mx-auto mt-12 px-4"
+        >
+          <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
+            <Image
+              src="/images/services/social-media-hero.jpg"
+              alt="Instagram-feed van een beautysalon op een smartphone"
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 1024px) 100vw, 1024px"
+            />
+          </div>
+        </motion.div>
+
       </section>
 
       {/* What is this - SEO content */}
@@ -151,6 +171,27 @@ export default function SocialMediaContent() {
             ))}
           </div>
         </div>
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.6 }}
+          className="mt-14 max-w-5xl mx-auto px-4"
+        >
+          <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl">
+            <Image
+              src="/images/services/social-media-workflow.jpg"
+              alt="Contentplanning voor de salon op een laptop aan de balie"
+              fill
+              className="object-cover"
+              sizes="(max-width: 1024px) 100vw, 1024px"
+            />
+          </div>
+          <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
+            Wij plannen, ontwerpen en publiceren — jij focust op je salon.
+          </p>
+        </motion.div>
+
       </section>
 
       {/* Features */}
@@ -259,6 +300,57 @@ export default function SocialMediaContent() {
               </div>
             </div>
           </motion.div>
+        </div>
+      </section>
+
+
+      {/* Section-beeld + cross-links */}
+      <section className="py-16 px-4">
+        <div className="max-w-6xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center mb-12">
+            <motion.div
+              initial={{ opacity: 0, x: -30 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6 }}
+              className="relative w-full aspect-[16/10] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl"
+            >
+              <Image
+                src="/images/services/social-media-section.jpg"
+                alt="Contentkalender voor een salon op een laptop"
+                fill
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 50vw"
+              />
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0, x: 30 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6 }}
+            >
+              <h2 className="text-2xl md:text-3xl font-bold mb-4">Social media die instroom levert — geen vanity metrics</h2>
+              <p className="text-foreground-accent leading-relaxed">Voor een salon gaat social media om instroom: nieuwe klanten ontdekken je via Instagram of TikTok, zien je werk, en boeken een behandeling. Onze social media planner zorgt dat je consistent zichtbaar bent met content die klanten daadwerkelijk overtuigt — zonder dat jij er uren per week aan kwijt bent.</p>
+            </motion.div>
+          </div>
+          <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <Link href="/chatbot" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">AI Chatbot</h3>
+                <p className="text-foreground-accent text-sm mb-3">Vangt nieuwe leads op die via Instagram of TikTok op je website komen.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
+              <Link href="/seo" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">SEO voor Salons</h3>
+                <p className="text-foreground-accent text-sm mb-3">Social media + SEO = volledige online dekking voor jouw salon.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
+              <Link href="/reviews" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Reviews</h3>
+                <p className="text-foreground-accent text-sm mb-3">Posts met klant-reviews converteren beter dan generieke content.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
+          </div>
         </div>
       </section>
 
