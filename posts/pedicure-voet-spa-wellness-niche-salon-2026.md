@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "Wellness", "Pedicure"]
 cluster: branding
 ---
-
 Pedicure en voet-spa is in Nederlandse schoonheidssalons een van de meest onderschatte wellness-niches. Geen trendy specialisme, geen Instagram-bare service — maar wel een segment met loyale klantenkringen, terugkerende afspraken en gemiddelde besteding boven die van standaard manicure of facial. Voor salons die een tweede sterke pijler willen opbouwen naast hun primaire schoonheidsbehandelingen, is dit een van de stabielere keuzes.
 
 Dit artikel is voor jou als saloneigenaar of behandelmanager die overweegt pedicure of een complete voet-spa als specialisme toe te voegen. Geen consumenten-uitleg over de behandeling, maar een businessgids: marktomvang, marges, certificering, en hoe je in zes maanden een vol pedicure-rooster opbouwt met de juiste doelgroep-mix.
@@ -131,6 +130,8 @@ Niet voor iedereen. Sla over als:
 - Je niet bereid bent om 6-9 maanden geduld te hebben voor breakeven
 
 Voor salons die hier wél in passen: dit is een van de stabielere wellness-niches in een verzadigde schoonheidsmarkt. Loyale klantenkring, voorspelbare omzet, en een groeiende doelgroep die de komende 10 jaar blijft groeien (vergrijzing).
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/bruidsmake-up-beautysalon-pakket-strategie" class="text-dark fw-semibold">Bruidsmake-up als beautysalon: pakket-strategie</a> →</p></div></div></div>
 
 ## Conclusie
 
