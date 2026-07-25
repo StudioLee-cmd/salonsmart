@@ -8,10 +8,9 @@ image: "/images/blog/social-media-beautysalons-instagram.png"
 tags: ["Social Media", "Marketing", "Groei"]
 cluster: "social-media"
 ---
-
 ## Waarom social media onmisbaar is voor beautysalons
 
-Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke beautysalon die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder online zichtbaarheid loop je klanten mis.
+Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke beautysalon die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder [online zichtbaarheid](/social-media) loop je klanten mis.
 
 De cijfers liegen niet: meer dan 13 miljoen Nederlanders zijn dagelijks actief op social media. Je potentiële klanten scrollen door Instagram, Facebook en LinkedIn terwijl jij dit leest. De vraag is niet of je op social media moet zijn, maar hoe je het slim aanpakt.
 
@@ -35,7 +34,7 @@ Niet elk platform is geschikt voor elke branche. Instagram Stories en Reels zijn
 
 ## Visuele content is king voor beautysalons
 
-Als beautysalon werk je in een visueel vak. Dat is een enorm voordeel op social media. Platforms zoals Instagram en TikTok belonen visueel aantrekkelijke content met meer bereik. Denk aan: behandelresultaten (nagels, huid, wimpers), klanttransformaties, productreviews, behind-the-scenes van behandelingen.
+Als beautysalon werk je in een visueel vak. Dat is een enorm voordeel op [social media](/blog/tiktok-voor-beauty-salons-video-volle-agenda). Platforms zoals Instagram en TikTok belonen visueel aantrekkelijke content met meer bereik. Denk aan: behandelresultaten (nagels, huid, wimpers), klanttransformaties, productreviews, behind-the-scenes van behandelingen.
 
 Het belangrijkste? Consistentie. Post minimaal 3 keer per week en gebruik een herkenbare stijl. Kies vaste filters, kleuren en lettertypes zodat je feed er professioneel uitziet.
 
