@@ -8,7 +8,6 @@ image: "/images/blog/treatwell-alternatief-salons-eigen-boekingssysteem.jpg"
 tags: ["Software", "Boekingen"]
 cluster: website
 ---
-
 Treatwell is handig — dat ontkennen we niet. Je krijgt er klanten mee die je anders misschien niet had bereikt. Maar er zit een keerzijde aan: je betaalt commissie op elke boeking, je hebt beperkte controle over je presentatie en je bouwt aan het merk van Treatwell in plaats van je eigen salon.
 
 Steeds meer saloneigenaren zoeken naar alternatieven. Niet om Treatwell helemaal los te laten, maar om minder afhankelijk te worden en meer te verdienen aan elke boeking.
@@ -77,11 +76,11 @@ Nee. Moderne systemen zijn gebruiksvriendelijk en synchroniseren automatisch met
 
 ### Kan ik Treatwell en een eigen systeem tegelijk gebruiken?
 
-Ja, veel salons doen dat. Zorg wel dat je agenda's gesynchroniseerd zijn om dubbele boekingen te voorkomen.
+Ja, veel salons doen dat. Zorg wel dat je agenda's gesynchroniseerd zijn om [dubbele boekingen](/blog/dubbele-boekingen-voorkomen-salon-agenda) te voorkomen.
 
 ### Hoe trek ik nieuwe klanten zonder Treatwell?
 
-Via Google (SEO + Bedrijfsprofiel), social media, mond-tot-mondreclame en reviews. Deze kanalen zijn duurzamer en goedkoper op de lange termijn.
+Via [Google](/seo) (SEO + Bedrijfsprofiel), social media, mond-tot-mondreclame en reviews. Deze kanalen zijn duurzamer en goedkoper op de lange termijn.
 
 ## Conclusie
 
