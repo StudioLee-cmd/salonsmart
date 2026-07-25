@@ -48,6 +48,8 @@ Klanten die een betere ervaring hebben, komen vaker terug en bevelen je aan. Bek
 
 Upselling werkt alleen als het relevant is. Een haarmasker aanbieden aan iemand met perfect gezond haar voelt geforceerd. Een hoofdhuidbehandeling aanbieden aan iemand die klaagt over droog haar voelt als meedenken. Luister naar wat de klant zegt en observeer wat je ziet.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/upselling-salon-meer-omzet" class="text-dark fw-semibold">Upselling in je salon: meer omzet zonder opdringerig te zijn</a> →</p></div></div></div>
+
 ## Maak upselling onderdeel van je saloncultuur
 
 Begin niet met targets of scripts. Begin met bewustwording. Bespreek welke combinaties werken en deel successen. Upselling wordt krachtig als het team het als service ziet.
