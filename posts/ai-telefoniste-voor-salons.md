@@ -8,19 +8,20 @@ image: "/images/blog/ai-telefoniste-voor-salons.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
 cluster: voice-ai
 ---
-
 Het meest frustrerende moment voor een salonhouder? Je bent net bezig met een intensieve behandeling, en de telefoon gaat. Je kunt niet opnemen. Je laat hem gaan.
 
 Wat doet die klant? Belt hij later terug? Vaak niet. In 2026 is geduld op. Ze bellen de volgende salon in de lijst. Weg klant. Weg omzet.
 
 ## Voice AI: Je nieuwe receptioniste die nooit pauze heeft
 
-Onze Voice AI is geen bandje met een keuzemenu. Dit is een geavanceerde AI (laten we haar Sarah noemen) die praat als een mens. Ze is vriendelijk, professioneel en ze weet alles van je salon.
+Onze [Voice AI](/voice-ai) is geen bandje met een keuzemenu. Dit is een geavanceerde AI (laten we haar Sarah noemen) die praat als een mens. Ze is vriendelijk, professioneel en ze weet alles van je salon.
 
 ### Wat ze voor je doet:
 - **24/7 Opnemen:** Ook als jij vrij bent, op vakantie bent of bezig bent.
 - **Agendabeheer:** Sarah heeft toegang tot je agenda (bijvoorbeeld Salonized of BarberBooking). Belt een klant voor een behandeling? Sarah kijkt wanneer er plek is en zet de afspraak erin.
 - **Vragen beantwoorden:** "Hoe duur is een behandeling?" Sarah geeft netjes antwoord op basis van jouw prijslijst.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/meertalige-ai-telefonist-salon-engels-pools" class="text-dark fw-semibold">Meertalige AI telefonist: Engels en Pools in jouw salon</a> →</p></div></div></div>
 
 ## Het bespaart je niet alleen stress, het levert geld op
 
