@@ -8,8 +8,7 @@ image: "/images/blog/social-media-voor-salons.png"
 tags: ["Social Media", "Branding", "Automatisering"]
 cluster: social-media
 ---
-
-Ik hoor het je denken: "Social Media? Daar heb ik toch geen tijd voor? Ik ben specialist, geen influencer!" En je hebt gelijk.
+Ik hoor het je denken: "[Social Media](/social-media)? Daar heb ik toch geen tijd voor? Ik ben specialist, geen influencer!" En je hebt gelijk.
 
 Maar: Social Media is jouw visitekaartje. Mensen willen zien wat je kunt. Een Instagram-feed vol met prachtige resultaten straalt **Vakmanschap** uit.
 
