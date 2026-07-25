@@ -7,7 +7,6 @@ image: "/images/blog/personeel-behouden-salon-verloop-voorkomen.jpg"
 tags: ["Personeel", "Retentie", "Salon Management"]
 cluster: branding
 ---
-
 ## In het kort
 
 - **Beautysalons verliezen gemiddeld 40% van hun behandelaars elke twee jaar**. Een van de hoogste verlooppercentages in de Nederlandse dienstverlening.
@@ -161,6 +160,8 @@ Sommige mensen willen geen groei, alleen stabiliteit. Dat is OK. Maar geef ze da
 ### Hoeveel kost de telefoon-automatisering?
 
 Voor een salon met 100-200 oproepen per maand: €70-€150 per maand voor een complete chatbot + voice ai setup. Vergeleken met de tijdsbesparing voor de behandelaars en de werving-kosten van één voorkomen vertrek per jaar, terugverdiend in maand 2.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/samenwerken-als-beautysalon-partnerschappen" class="text-dark fw-semibold">Samenwerken als beautysalon: partnerschappen die je salon laten groeien</a> →</p></div></div></div>
 
 ## Klaar om je verloop te halveren?
 
