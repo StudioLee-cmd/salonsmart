@@ -64,6 +64,8 @@ Een [SEO en vindbaarheid](/seo) vangt automatisch vragen op en plant afspraken i
 
 Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/concurrentieanalyse-beautysalon-onderscheiden" class="text-dark fw-semibold">Concurrentieanalyse voor beautysalons: zo trek je meer klanten</a> →</p></div></div></div>
+
 ## Conclusie
 
 Specialiseren is geen beperking — het is bevrijding. Je trekt precies de klanten aan die je wilt, tegen prijzen die je verdient, en bouwt een reputatie op die de concurrentie niet kan kopiëren.
