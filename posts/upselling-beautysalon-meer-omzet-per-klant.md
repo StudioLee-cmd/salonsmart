@@ -8,7 +8,6 @@ image: "/images/blog/upselling-beautysalon-meer-omzet-per-klant.png"
 tags: ["Beautysalon", "Upselling", "Omzet"]
 cluster: automatisering
 ---
-
 ## Meer omzet zonder meer klanten
 
 Elke salonhouder wil meer omzet. De voor de hand liggende oplossing: meer klanten. Maar er is een slimmere route: meer omzet per klant. Als elke klant gemiddeld €15 meer besteedt, en je hebt 20 klanten per dag, is dat €300 extra per dag — €6.000 per maand.
@@ -85,6 +84,8 @@ Tips:
 - Laat klanten het product ervaren tijdens de behandeling
 - Bied een "probeerformaat" aan voor producten boven €30
 - Stuur seizoensgebonden productaanbevelingen via email of SMS
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klantsegmentatie-salon-vip-klanten" class="text-dark fw-semibold">Klantsegmentatie in je salon: VIP-klanten slim behandelen</a> →</p></div></div></div>
 
 ## Conclusie
 
