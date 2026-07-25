@@ -71,6 +71,8 @@ Dat dubbel-effect is belangrijk: als je tijdens je werving blijft verdrinken in 
 
 Wij helpen salons in onze managed service met zowel de werving-content (Instagram, TikTok, vacature-optimalisatie) als de automatisering van de operationele taken die ruimte scheppen voor HR-werk. Meer over [tarieven](/tarieven) en pakketten voor salons die serieus willen groeien. Of vraag een [gratis scan](/gratis-scan) aan van je huidige werving en operatie — we benoemen concreet waar je snelste winst zit.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/pedicure-voet-spa-wellness-niche-salon-2026" class="text-dark fw-semibold">Pedicure en voet-spa: wellness-niche voor salons in 2026</a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Als na zes maanden je werving-pijplijn niet merkbaar is verbeterd en je werkdruk niet is teruggelopen, krijg je je investering terug. Jij knipt, kleurt en verzorgt, wij zorgen dat de juiste mensen bij je komen werken en blijven.
