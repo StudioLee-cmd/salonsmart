@@ -109,6 +109,6 @@ Dat hoort te kunnen. Zonder terugluisteren of een leesbaar transcript kun je je 
 
 Als je wilt weten hoe je salon er nu voor staat op bereikbaarheid en vindbaarheid, begin dan met een [gratis scan](/gratis-scan). Daar komt uit wat er nu misgaat, zonder dat je iets hoeft te beslissen.
 
-Kies je daarna voor een managed traject bij SalonSmart, dan richten wij de telefonist in, bouwen we jouw woordenlijst mee op en testen we hem met echte gesprekken voordat hij live gaat. Dat valt onder onze Groei-of-Geld-Terug Garantie: levert het niet op wat we afspreken, dan krijg je je geld terug.
+Kies je daarna voor een managed traject bij SalonSmart, dan richten wij de telefonist in, bouwen we jouw woordenlijst mee op en testen we hem met echte gesprekken voordat hij live gaat. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Jij verwent je klanten, wij regelen de rest.

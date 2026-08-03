@@ -126,6 +126,6 @@ Een kassasysteem is geen kassalade met een scherm erop. Het is de plek waar je a
 
 Loop de zeven eisen langs met wat je nu gebruikt. Vallen er drie of meer af, dan kost je huidige opzet je elke week dat halfuur bij de kassalade, plus de omzet die je niet ziet omdat niemand hem uitrekent.
 
-Bij SalonSmart koppelen we je agenda, je afrekening en je klantgegevens aan elkaar. Dat doen we met een **Groei-of-Geld-Terug Garantie**: levert het je geen rustigere dagafsluiting en beter zicht op je omzet op, dan krijg je je geld terug. Benieuwd wat er in jouw salon nu naast elkaar loopt? Vraag een [gratis ai scan voor salons](/gratis-scan) aan, dan zetten we het voor je op een rij.
+Bij SalonSmart koppelen we je agenda, je afrekening en je klantgegevens aan elkaar. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Benieuwd wat er in jouw salon nu naast elkaar loopt? Vraag een [gratis ai scan voor salons](/gratis-scan) aan, dan zetten we het voor je op een rij.
 
 Jij verwent je klanten, wij regelen de rest.

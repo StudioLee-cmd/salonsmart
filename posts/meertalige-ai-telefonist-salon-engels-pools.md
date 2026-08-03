@@ -111,4 +111,4 @@ Reken het om naar omzet in plaats van naar aantallen. Twee behandelingen per maa
 
 Het handigste startpunt is niet een demo maar een meting. Vraag een [gratis ai scan voor salons](/gratis-scan) aan, dan kijken we mee naar je bereikbaarheid, je boekingsroute en waar in die route klanten nu weglekken. Daar rolt uit welke talen bij jou daadwerkelijk aan de lijn komen en of een [virtuele telefonist](/voice-ai) in jouw situatie iets oplevert.
 
-Besluit je door te gaan, dan werken we met de Groei-of-Geld-Terug Garantie: levert het je binnen de afgesproken periode geen aantoonbare groei op, dan krijg je je geld terug. Jij verwent je klanten, wij regelen de rest. Ook als die klant in het Pools begint.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij verwent je klanten, wij regelen de rest. Ook als die klant in het Pools begint.

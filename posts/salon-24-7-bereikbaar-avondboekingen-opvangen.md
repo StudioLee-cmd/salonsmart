@@ -70,7 +70,7 @@ Er zit ook een minder zichtbaar voordeel in: rust. Je hoeft niet meer met een ha
 
 De eerlijke vergelijking is niet AI telefonist tegenover niets, maar AI telefonist tegenover wat je nu al verliest. Een enkele gemiste boeking per week kost je op jaarbasis al meer dan een goede oplossing. Wat een AI telefonist precies kost hangt af van je belvolume en je pakket, en dat reken je het snelst uit via [wat een AI telefonist voor salons kost](/tarieven).
 
-Beginnen hoeft niet groot te zijn. De eerste stap is meestal simpelweg in kaart brengen hoeveel oproepen je nu buiten je bereik binnenkomen en hoe die afgehandeld worden. Dat is precies wat een [gratis ai scan voor salons](/gratis-scan) doet: het laat zien waar je bereikbaarheid lekt en wat een AI telefonist daaraan zou veranderen. En omdat we geloven dat het moet werken, valt onze managed service onder de Groei-of-Geld-Terug Garantie: levert het niets op, dan krijg je je geld terug.
+Beginnen hoeft niet groot te zijn. De eerste stap is meestal simpelweg in kaart brengen hoeveel oproepen je nu buiten je bereik binnenkomen en hoe die afgehandeld worden. Dat is precies wat een [gratis ai scan voor salons](/gratis-scan) doet: het laat zien waar je bereikbaarheid lekt en wat een AI telefonist daaraan zou veranderen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Bereikbaarheid is geen kwestie van harder werken of langer openblijven. Het is een kwestie van zorgen dat er iemand opneemt op het moment dat je klant belt, ook als die klant belt terwijl jij allang thuis bent.
 

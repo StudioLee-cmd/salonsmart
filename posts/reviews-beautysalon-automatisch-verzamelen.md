@@ -53,7 +53,7 @@ Automatisering zorgt voor een constante stroom van recente reviews. Dat is preci
 
 Zelf een automatiseringssysteem opzetten kost tijd en technische kennis. Een managed service als [StudioLee](/tarieven) regelt het complete proces: van de WhatsApp-koppeling tot het monitoren van reviews en het reageren op feedback.
 
-Jij houdt je bezig met behandelingen. De reviews komen vanzelf. Met de Groei-of-Geld-Terug Garantie op het review-pakket loop je bovendien geen risico: geen stijging in reviews? Geld terug. Jij besteedt er maar 15 minuten per maand aan — de rest wordt volledig geregeld.
+Jij houdt je bezig met behandelingen. De reviews komen vanzelf. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij besteedt er maar 15 minuten per maand aan — de rest wordt volledig geregeld.
 
 ## Veelgestelde vragen
 

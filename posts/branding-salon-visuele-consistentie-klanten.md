@@ -167,4 +167,4 @@ Eén brandbook voor beide. Eventueel een sub-element per locatie (een specifieke
 
 Een sterk salon-merk is een van de meest onderschatte hefbomen voor groei. Twee dagen werk om de basis te leggen, dan jaren consistente uitstraling die klanten herinnert en aantrekt. Wij regelen dit standaard voor onze salon-klanten, inclusief brandbook, website-update en social media-templates.
 
-Vraag een [gratis scan](/gratis-scan) aan en we kijken samen hoe consistent jouw merk nu is over alle kanalen. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
+Vraag een [gratis scan](/gratis-scan) aan en we kijken samen hoe consistent jouw merk nu is over alle kanalen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

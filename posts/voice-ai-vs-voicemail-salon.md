@@ -81,7 +81,7 @@ De overstap is kleiner dan hij klinkt. Je houdt je eigen telefoonnummer en je st
 
 Vanaf dat moment ben je bereikbaar zonder ooit je behandeling te onderbreken. En [geen oproepen meer missen als salon](/voice-ai) betekent in de praktijk: elke beller krijgt antwoord, ook de beller van 21:30 die morgen haar wimpers wil laten doen.
 
-Laat je het liever volledig regelen, dan zet SalonSmart het systeem voor je op, inclusief agenda-koppeling en WhatsApp-samenvattingen. Daar staat onze Groei-of-Geld-Terug Garantie op: levert het aantoonbaar niets op, dan betaal je niet.
+Laat je het liever volledig regelen, dan zet SalonSmart het systeem voor je op, inclusief agenda-koppeling en WhatsApp-samenvattingen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Conclusie: de piep is de duurste seconde van je werkdag
 

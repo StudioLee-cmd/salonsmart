@@ -88,6 +88,6 @@ Nee. Klanten mogen blijven appen. Het punt is alleen dat die aanvraag in je cent
 
 Dubbele boekingen zijn geen teken dat je slordig bent, ze zijn een teken dat je te veel losse kanalen bijhoudt. Breng die samen in één agenda die zichzelf bijwerkt, en het probleem verdwijnt op de achtergrond, zonder dat jij er nog over hoeft na te denken.
 
-Bij SalonSmart zetten we die centrale agenda voor je op, gekoppeld aan je website, je socials en je klantgegevens, met een **Groei-of-Geld-Terug Garantie**: levert het je geen rustiger agenda en meer boekingen op, dan krijg je je geld terug. Benieuwd hoe dat er voor jouw salon uitziet? Vraag een [gratis website voor salons](/gratis-website) aan met online boeken er direct op ingebouwd.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Benieuwd hoe dat er voor jouw salon uitziet? Vraag een [gratis website voor salons](/gratis-website) aan met online boeken er direct op ingebouwd.
 
 Jij verwent je klanten, wij regelen de rest.

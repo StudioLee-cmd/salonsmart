@@ -52,7 +52,14 @@ Jouw bijdrage: 15 minuten per maand. De rest doen wij. Dat is geen software — 
 
 ## Groei-of-Geld-Terug Garantie
 
-Geen groei na drie maanden? Geld terug. Geen kleine lettertjes. Dat biedt Treatwell je niet.
+Onze garantie geldt vanaf Managed Groei Pro. Word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Je zit nergens aan vast: maandelijks opzegbaar.
+
+- **Nulmeting vóór de eerste werkdag.** We leggen vast waar je staat, zichtbaar in je dashboard. Daar meten we achteraf tegen, zodat je startpunt niet ter discussie staat.
+- **SEO:** geen groei in je zichtbaarheid in Ahrefs? Geld terug.
+- **Video en advertenties:** geen groei in views? Geld terug.
+- **Wat er buiten valt:** klikken, aanvragen en omzet. Die hangen aan je eigen aanbod en je prijzen.
+
+Word je wel beter zichtbaar maar belt er niemand, dan kijken we samen naar je aanbod.
 
 En bedenk: de meeste salonhouders betalen nu al voor 5 of 6 losse tools — een boekingssysteem, een social media tool, een e-mailsysteem, misschien een SEO-specialist. Bij SalonSmart zit alles in één pakket, vaak voor minder dan wat je nu kwijt bent aan al die losse abonnementen.
 

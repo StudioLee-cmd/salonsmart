@@ -67,7 +67,7 @@ Er zijn geen hoge opstartkosten. Je betaalt een vaste maandprijs vanaf ongeveer 
 
 ### Zit ik vast aan een lang contract?
 
-Nee. Je kunt per onderdeel op- en afschalen, en met de Groei-of-Geld-Terug Garantie weet je vooraf wat je investering oplevert. Levert het niet op wat is afgesproken, dan krijg je je geld terug.
+Nee. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ### Is een goedkoper los tool niet handiger?
 

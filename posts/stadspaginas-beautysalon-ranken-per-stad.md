@@ -91,4 +91,4 @@ De korte checklist nog een keer:
 - [ ] Maak elke pagina voor minstens 70 procent uniek met lokale reviews, bereikbaarheid en lokale vraag
 - [ ] Check na publicatie maandelijks je posities per plaats en breid pas uit als de eerste pagina's staan
 
-Geen tijd om zelf pagina's te bouwen en teksten te schrijven? Dan regelen wij het. SalonSmart bouwt en optimaliseert salonwebsites inclusief stadspagina's, met onze Groei-of-Geld-Terug Garantie: levert het systeem geen groei op, dan krijg je je geld terug. Vraag een [gratis ai scan voor salons](/gratis-scan) aan en we laten je per plaats zien waar jouw kansen liggen. Jij verwent je klanten, wij regelen de rest.
+Geen tijd om zelf pagina's te bouwen en teksten te schrijven? Dan regelen wij het. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Vraag een [gratis ai scan voor salons](/gratis-scan) aan en we laten je per plaats zien waar jouw kansen liggen. Jij verwent je klanten, wij regelen de rest.

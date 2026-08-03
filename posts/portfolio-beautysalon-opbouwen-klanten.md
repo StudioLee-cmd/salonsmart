@@ -102,4 +102,4 @@ Een portfolio bouwen is geen project van een week, het is een routine. De salons
 
 Drie ritmes, drie minuten tot een half uur per keer. Dat is je portfolio-systeem.
 
-Wil je dat dit allemaal voor jou wordt ingericht, met automatische postings, archief-systeem en koppeling naar je booking-tool? Plan een [gratis salonscan](/gratis-scan) en we tonen waar je nu omzet laat liggen door een onbenut portfolio en wat een complete setup kost. Werkt het niet? Geld terug binnen 90 dagen via de Groei-of-Geld-Terug Garantie. Jij verwent je klanten, wij regelen de rest.
+Wil je dat dit allemaal voor jou wordt ingericht, met automatische postings, archief-systeem en koppeling naar je booking-tool? Plan een [gratis salonscan](/gratis-scan) en we tonen waar je nu omzet laat liggen door een onbenut portfolio en wat een complete setup kost. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij verwent je klanten, wij regelen de rest.

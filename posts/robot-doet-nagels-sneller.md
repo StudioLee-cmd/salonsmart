@@ -47,7 +47,7 @@ Een effectieve herinneringsflow ziet er zo uit:
 
 Dit hele systeem draait automatisch. Na de eerste installatie hoef je er geen seconde meer aan te besteden. De herinneringen gaan vanzelf de deur uit terwijl jij je focust op je klanten.
 
-Salons die met [automatische herinneringen](/automatisering) werken, zien hun no-show-percentage met 40 tot 60 procent dalen. Dat is direct geld terug in je kassa.
+Salons die met [automatische herinneringen](/automatisering) werken, zien hun no-show-percentage met 40 tot 60 procent dalen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Slim annuleringsbeleid voor salons
 
