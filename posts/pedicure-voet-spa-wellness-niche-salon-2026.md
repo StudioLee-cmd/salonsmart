@@ -1,7 +1,7 @@
 ---
 title: "Pedicure en voet-spa: wellness-niche voor salons in 2026"
 slug: pedicure-voet-spa-wellness-niche-salon-2026
-date: 2026-04-30
+date: "2026-04-30"
 excerpt: "Pedicure en voet-spa als wellness-niche voor schoonheidssalons: senioren en sportieve doelgroepen, marges en stappenplan voor 2026."
 image: "/images/blog/pedicure-voet-spa-wellness-niche-salon-2026.jpg"
 authorSlug: "tim-van-der-lee"
