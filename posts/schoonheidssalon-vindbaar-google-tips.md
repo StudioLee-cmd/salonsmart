@@ -113,7 +113,7 @@ Met een [review-pakket](/review-pakket) automatiseer je het hele proces: na elke
 - Positief: bedank de klant en verwijs naar de behandeling ("Fijn dat je blij bent met je gezichtsbehandeling!")
 - Negatief: reageer professioneel en bied een oplossing
 
-Salons met meer dan 50 reviews en een gemiddelde boven 4,5 verschijnen significant vaker in het Google kaartresultaat. Lees meer over [reviews automatiseren voor beautysalons](/blog/reviews-automatiseren-beautysalon).
+Salons met meer dan 50 reviews en een gemiddelde boven 4,5 verschijnen significant vaker in het Google kaartresultaat. Lees meer over [reviews automatiseren voor beautysalons](/blog/reviews-beautysalon-automatisch-verzamelen).
 
 ## 5. Mobielvriendelijke website met online boeken
 

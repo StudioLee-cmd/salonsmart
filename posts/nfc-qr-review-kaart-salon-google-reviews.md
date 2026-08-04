@@ -56,7 +56,7 @@ Een set van 5 NFC/QR-combo kaarten kost tussen de 25 en 50 euro. De NFC-chip kun
 
 Kies kaarten van stevig materiaal (PVC of metaal) die tegen een stootje kunnen en er professioneel uitzien. Een goedkoop papieren kaartje past niet bij een salon die kwaliteit uitstraalt.
 
-De investering verdient zichzelf terug binnen de eerste maand. Al twee extra klanten die je salon vinden via [Google reviews](/blog/meer-reviews-met-ai) leveren meer op dan de kosten van de kaarten.
+De investering verdient zichzelf terug binnen de eerste maand. Al twee extra klanten die je salon vinden via [Google reviews](/blog/meer-google-reviews-beauty-salon) leveren meer op dan de kosten van de kaarten.
 
 ## Conclusie: de makkelijkste manier om reviews te verzamelen
 
