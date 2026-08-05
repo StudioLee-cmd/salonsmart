@@ -1,75 +1,56 @@
 import { ITestimonial } from "@/types";
 
+// ─────────────────────────────────────────────────────────────────────────────────────
+// BOUWSTEEN 8 — HET BEWIJS-BLOK. Toon-regel 3 van het boodschap-frame: bewijs is echt,
+// of het staat er niet (alpha1/ventures/studiolee/projects/niche-sites-upgrade-programma.md
+// §HET BOODSCHAP-FRAME).
+//
+// Tim, keur 173 (01-08): de tien verzonnen klant-quotes gaan eraf en er komt GEEN
+// vervangende constructie voor in de plaats. Het blok bestaat alleen zolang er ECHTE
+// klant-quotes zijn; is die lijst leeg, dan staat de sectie niet op de pagina.
+//
+// ⭐ ÉÉN ECHTE QUOTE TOEVOEGEN IS GENOEG. Zet 'm in `testimonials` hieronder en de sectie
+//    verschijnt vanzelf, kop en al. Er is geen tweede plek om te bewerken:
+//    `Testimonials.tsx` en `page.tsx` lezen allebei uit `proofBlock`.
+// ─────────────────────────────────────────────────────────────────────────────────────
 
-export const testimonials: ITestimonial[] = [
-    {
-        name: 'Marieke Jansen',
-        role: 'Haarsalon Marieke, Utrecht',
-        message: 'Mijn klanten vinden het heerlijk dat ze direct een afspraak kunnen plannen als ik aan het knippen ben. Mijn agenda vult zichzelf, ik hoef alleen maar de schaar te pakken. Top spul.',
-        avatar: '/images/testimonials/testimonial-1.jpg',
-        stars: 5
-    },
-    {
-        name: 'Sarah de Vries',
-        role: 'Studio De Vries, Rotterdam',
-        message: 'Ik was sceptisch over "AI", dacht dat het robotachtig zou klinken. Maar klanten hebben géén idee. Ze zijn gewoon blij dat er opgenomen wordt voor hun kleuring.',
-        avatar: '/images/testimonials/testimonial-2.png',
-        stars: 5
-    },
-    {
-        name: 'Peter Bakker',
-        role: 'Bakker Herenkappers, Amsterdam',
-        message: 'Eerst nam ik de telefoon op tijdens het scheren. Niet handig voor de klant. Nu doet de AI het, en hij klinkt nog vriendelijker dan ik als ik gestrest ben ook.',
-        avatar: '/images/testimonials/testimonial-3.png',
-        stars: 5
-    },
-    {
-        name: 'Johan Visser',
-        role: 'Visser Haarmode, Den Haag',
-        message: 'Minder gaten in mijn agenda dan vroeger! Serieus, geen dubbele afspraken meer. Het systeem betaalt zichzelf terug in een week door de extra boekingen.',
-        avatar: '/images/testimonials/testimonial-4.jpg',
-        stars: 5
-    },
-    {
-        name: 'Karel van den Berg',
-        role: 'Karel Knipt, Eindhoven',
-        message: 'Als ZZP’er is de telefoon je grootste vijand als je handen vol haar zitten. Nu is het mijn beste vriend. Ik krijg gewoon een appje: "Nieuwe klant in agenda". Heerlijk.',
-        avatar: '/images/testimonials/testimonial-5.png',
-        stars: 5
-    },
-    {
-        name: 'Thijs de Groot',
-        role: 'De Groot Beautysalon, Arnhem',
-        message: 'De automatische facturatie is goud. Vroeger deed ik zondagavond de administratie, nu lig ik op de bank. Mijn boekhouder is er ook blij mee.',
-        avatar: '/images/testimonials/testimonial-6.png',
-        stars: 5
-    },
-    {
-        name: 'Tom van Dijk',
-        role: 'Van Dijk & Zonen, Groningen',
-        message: 'Wij groeiden hard, maar de telefoniste was ziek. Paniek. Deze software opgezet en het liep gewoon door. Klanten worden netjes te woord gestaan.',
-        avatar: '/images/testimonials/testimonial-7.png',
-        stars: 4
-    },
-    {
-        name: 'Arjan Meijer',
-        role: 'Meijer Nagelstudio, Zwolle',
-        message: 'Het stukje "Gemiste Oproep SMS" levert me direct geld op. Klant belt, ik neem niet op, zij krijgen appje, en boeken zelf een afspraak. Briljant.',
-        avatar: '/images/testimonials/testimonial-8.jpg',
-        stars: 5
-    },
-    {
-        name: 'Daan de Jong',
-        role: 'Daan Doet Het, Tilburg',
-        message: 'Ik ben handig met buizen, niet met computers. Maar dit dashboard snap ik zelfs. Simpel, duidelijk en het doet wat het moet doen.',
-        avatar: '/images/testimonials/testimonial-9.jpg',
-        stars: 5
-    },
-    {
-        name: 'Robert Veenstra',
-        role: 'Veenstra Haarspecialist, Maastricht',
-        message: 'De investering waard? Dubbel en dwars. Eén grote kleurnuance die je anders had gemist en je hebt het er al uit. Niet twijfelen, gewoon doen.',
-        avatar: '/images/testimonials/testimonial-10.png',
-        stars: 5
-    },
-];
+/**
+ * ECHTE klant-quotes van dit merk. Leeg = er is er vandaag nog geen.
+ * Vullen = het blok toont ze meteen, zonder dat er iets anders aangepast hoeft te worden.
+ * Illustratieve, gegenereerde of "voorbeeld"-quotes horen hier NIET in — dat is precies
+ * wat keur 173 eraf haalde.
+ */
+export const testimonials: ITestimonial[] = [];
+
+/** Kop + subkop van de sectie; `null` laat de hele sectie van de pagina verdwijnen. */
+export interface IProofSection {
+    title: string;
+    description: string;
+}
+
+export interface IProofBlock {
+    /** `null` = de sectie wordt niet gerenderd (page.tsx laat 'm dan weg). */
+    section: IProofSection | null;
+    /** De quotes die getoond worden. Leeg/afwezig = geen marquee. */
+    quotes?: ITestimonial[];
+}
+
+/**
+ * DE KOP BOVEN HET BLOK. Eén constante, want tot 31-07 stond deze zin twee keer letterlijk
+ * in deze file — mét de merknaam erin. Dat is de dubbele hardcode die RULE 3 verbiedt: bij
+ * de rollout naar de andere merken volgt een agent de gedocumenteerde "één regel" en laat
+ * de tweede staan. Eén constante = één string per repo om te vervangen.
+ */
+const echteQuotesSection: IProofSection = {
+    title: 'Wat Onze Klanten Zeggen',
+    description: 'Ervaringen van bedrijven die al werken met SalonSmart.',
+};
+
+/**
+ * DE ENIGE BRON DIE DE PAGINA LEEST. Geen echte quotes = geen sectie; zodra er één echte
+ * quote in `testimonials` staat is de kop waar en verschijnt het blok.
+ */
+export const proofBlock: IProofBlock =
+    testimonials.length > 0
+        ? { section: echteQuotesSection, quotes: testimonials }
+        : { section: null };
