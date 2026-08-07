@@ -75,12 +75,14 @@ Eén post per week is ideaal. Voeg altijd een aantrekkelijke foto toe — visuel
 
 ## Veelgestelde vragen
 
-Voeg Q&A toe aan je profiel:
+De vragensectie waarin klanten iets op je profiel konden vragen bestaat niet meer. Google stopte op 3 november 2025 de koppeling ernaartoe en faseerde de publieke sectie vanaf 3 december 2025 uit. De vragen blijven, alleen stelt Google het antwoord nu zelf samen uit je profiel, je website en je reviews. Zorg dus dat deze vier antwoorden echt ergens staan:
 
-- "Moet ik een afspraak maken?" — "We werken bij voorkeur op afspraak, maar walk-ins zijn welkom als er ruimte is."
-- "Wat kost een gelmanicure?" — "Onze gelmanicure begint bij €[X]. Bekijk ons volledige menu op onze website."
-- "Is er parkeergelegenheid?" — "Ja, er is gratis parkeren [locatiebeschrijving]."
-- "Werken jullie met bepaalde merken?" — "Wij werken uitsluitend met professionele merken: [merknamen]."
+- "Moet ik een afspraak maken?" — in je bedrijfsomschrijving en bovenaan je boekingspagina: "We werken bij voorkeur op afspraak, maar walk-ins zijn welkom als er ruimte is."
+- "Wat kost een gelmanicure?" — op je prijzenpagina, met bedragen die er echt staan. Google kan geen prijs samenstellen die nergens genoemd wordt.
+- "Is er parkeergelegenheid?" — bij de kenmerken van je profiel, met één zin op je contactpagina waar de plek precies staat.
+- "Werken jullie met bepaalde merken?" — op je behandelpagina, met de merknamen voluit. Een merknaam die nergens staat kan Google niet noemen.
+
+Wat er precies veranderd is staat in [Google Q&A salon: de sectie is weg, wat nu telt](/blog/google-qa-sectie-salon-vragen-antwoorden).
 
 ## Veelgemaakte fouten
 
