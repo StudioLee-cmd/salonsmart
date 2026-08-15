@@ -41,7 +41,7 @@ Met 25+ tools krijg je alles wat Fresha biedt en veel meer:
 | Wat | Fresha | SalonSmart |
 |---|---|---|
 | Online boekingen | Ja (gratis) | Ja |
-| Kassasysteem | Ja | Ja (facturatie AI) |
+| Kassasysteem | Ja | Ja (Factuur AI) |
 | Nederlandse support | Beperkt | Volledig |
 | Marketplace | Ja (concurrent naast je) | Nee (alleen jouw klanten) |
 | AI Telefoniste | Nee | Ja |
