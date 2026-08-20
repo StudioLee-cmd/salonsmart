@@ -9,9 +9,9 @@ import { authors } from '@/data/authors'
 // nieuwere inhoud-commit draagt dan de datum hieronder; de oude regel 'bump manually' hield
 // van 2026-04-01 tot 2026-08-05 niet, en dat kostte 210 URL's hun vers-signaal bij Google.
 const STATIC_LASTMOD_BY_ROUTE: Record<string, string> = {
-    '/gratis-scan': '2026-08-01',
+    '/gratis-scan': '2026-08-07',
     '/review-pakket': '2026-07-25',
-    '/tarieven': '2026-07-25',
+    '/tarieven': '2026-08-14',
     '/gratis-website': '2026-08-04',
     '/chatbot': '2026-07-25',
     '/voice-ai': '2026-07-25',
@@ -19,13 +19,13 @@ const STATIC_LASTMOD_BY_ROUTE: Record<string, string> = {
     '/reviews': '2026-07-25',
     '/social-media': '2026-07-25',
     '/crm': '2026-07-25',
-    '/free-trial': '2026-07-29',
+    '/free-trial': '2026-08-12',
     '/automatisering': '2026-07-25',
     '/privacy': '2026-07-25',
     '/legal': '2026-07-25',
     '/algemene-voorwaarden': '2026-07-27',
 }
-const STATIC_LASTMOD_FALLBACK = '2026-08-04'
+const STATIC_LASTMOD_FALLBACK = '2026-08-14'
 const STATIC_LASTMOD = new Date(`${STATIC_LASTMOD_FALLBACK}T00:00:00Z`)
 const staticLastmod = (route: string): Date =>
     new Date(`${STATIC_LASTMOD_BY_ROUTE[route] ?? STATIC_LASTMOD_FALLBACK}T00:00:00Z`)
