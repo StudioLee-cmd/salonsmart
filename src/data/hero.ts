@@ -1,5 +1,5 @@
 export const heroDetails = {
     heading: 'De grootste kans voor salons sinds de uitvinding van nagellak.',
-    subheading: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. SalonSmart regelt je agenda, telefoon en administratie volledig automatisch. Zo kan jij ongestoord doen waar je goed in bent: behandelingen geven.',
+    subheading: "Wij maken de website voor jouw salon. Chatbot, telefoon en marketing sluit je erop aan via je pakket, zodat jij kunt doen waar je goed in bent.",
     centerImageSrc: '/images/hero-mockup.webp',
 }
