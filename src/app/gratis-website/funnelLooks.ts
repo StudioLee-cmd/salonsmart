@@ -38,21 +38,30 @@ export async function fetchLooks(siteKey: string): Promise<FunnelLook[]> {
   }
 }
 
-/** De prospect-data die over de gekozen template heen gelegd wordt (personalize.js leest 'm). */
+/** De prospect-data die over de gekozen template heen gelegd wordt (personalize.js leest 'm als window.BIZ).
+ *  Ze gaat NOOIT in een link: /api/voorbeeld versleutelt haar tot een ondoorzichtig token (privacy-check 11-11). */
 export type Prospect = {
   naam: string;
   plaats: string;
   telefoon?: string;
   domein?: string;
   email?: string;
-  b?: string; // de site die 'm stuurde — de balk in het voorbeeld linkt terug
 };
 
-export function previewUrl(look: FunnelLook, p: Prospect): string {
-  const json = JSON.stringify(p);
-  const b64 =
-    typeof window === "undefined"
-      ? Buffer.from(json, "utf-8").toString("base64")
-      : btoa(unescape(encodeURIComponent(json)));
-  return `${look.url}?d=${encodeURIComponent(b64)}`;
+/** Zet het voorbeeld klaar via een POST; terug komt een link zonder persoonsgegevens. */
+export async function preparePreview(look: FunnelLook, p: Prospect): Promise<{ url: string; absolute: string }> {
+  try {
+    const res = await fetch("/api/voorbeeld", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ look: look.slug, ...p }),
+    });
+    if (res.ok) {
+      const d = await res.json();
+      if (d?.url) return { url: d.url, absolute: d.absolute || d.url };
+    }
+  } catch {
+    /* val terug op het kale ontwerp hieronder */
+  }
+  return { url: look.url, absolute: look.url };
 }
