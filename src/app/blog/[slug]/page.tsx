@@ -150,6 +150,14 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
 
                     <BlogContent content={contentHtml} />
 
+                    <div className="mt-12 p-6 md:p-8 bg-[var(--card-background)] rounded-2xl border border-[var(--card-border)]">
+                        <p className="text-xl md:text-2xl font-bold text-[var(--foreground)] mb-2">Wat laat jouw salon nu liggen?</p>
+                        <p className="text-[var(--foreground-accent)] mb-6">Doe de gratis scan: je krijgt een cijfer op SEO, conversie, AI-vindbaarheid en lokale signalen, plus de belangrijkste verbeterpunten in je inbox.</p>
+                        <Link href={`/gratis-scan?bron=blog-${post.slug}`} className="inline-flex items-center justify-center bg-[var(--secondary)] text-white font-bold py-3 px-6 rounded-xl hover:opacity-90 transition-opacity">
+                            Start de gratis scan
+                        </Link>
+                    </div>
+
                     {author && (
                         <div className="mt-12 p-6 bg-[var(--card-background)] rounded-2xl border border-[var(--card-border)]">
                             <div className="flex gap-4 items-start">
