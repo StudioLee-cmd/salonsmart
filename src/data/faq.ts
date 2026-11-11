@@ -15,7 +15,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Kan ik de AI koppelen aan mijn eigen software?",
-        answer: "Ja, wij integreren naadloos met systemen zoals Google Calendar, Outlook, Syntess, Exact en vele anderen. Via ons open platform kunnen we vrijwel elke koppeling realiseren om jouw workflow te automatiseren.",
+        answer: "Je boekingssysteem blijft gewoon werken. Afspraken kunnen in je Google- of Outlook-agenda; Fresha, Salonized en Treatwell zetten we over met een export die wij voor je inladen, Pabau en SimplyBook.me koppelen we direct. Je boekhouding (Moneybird, e-Boekhouden, Exact) sluit automatisch aan.",
     },
     {
         question: "Wat als de AI het antwoord niet weet?",
