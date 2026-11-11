@@ -9,7 +9,7 @@ import {
   BsChatDots, BsTelephone, BsGraphUpArrow, BsWindowDesktop,
 } from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
-import { type FunnelLook, type Prospect, previewUrl } from "./funnelLooks";
+import { type FunnelLook, type Prospect, preparePreview } from "./funnelLooks";
 
 const niche = siteDetails.niche || "Bedrijven";
 const nicheLower = niche.toLowerCase();
@@ -71,15 +71,15 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
     }
     setBusy(true);
 
-    // Het voorbeeld-adres draagt alleen bedrijfsnaam, plaats en domein: nooit e-mail of telefoon.
-    // Die gaan alleen in de POST hieronder, niet in een URL (browsergeschiedenis, logs, referrers).
     const prospect: Prospect = {
       naam: form.bedrijf,
       plaats: form.plaats,
+      telefoon: form.telefoon || undefined,
       domein: form.domein || undefined,
-      b: siteDetails.siteUrl.replace(/\/$/, ""),
+      email: form.email,
     };
-    const url = previewUrl(look, prospect);
+    // Geen naam, telefoon of e-mail in de link: de server geeft een ondoorzichtige voorbeeld-link terug.
+    const { url, absolute } = await preparePreview(look, prospect);
 
     try {
       await fetch(WEBHOOK_URL, {
@@ -95,7 +95,7 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
           niche,
           look: look.slug,
           lookLabel: look.label,
-          previewUrl: url,
+          previewUrl: absolute,
           bron: `${siteDetails.siteName} /gratis-website`,
         }),
       });
