@@ -9,7 +9,7 @@ import {
   BsChatDots, BsTelephone, BsGraphUpArrow, BsWindowDesktop,
 } from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
-import { type FunnelLook, type Prospect, previewUrl } from "./funnelLooks";
+import { type FunnelLook, type Prospect, preparePreview } from "./funnelLooks";
 
 const niche = siteDetails.niche || "Bedrijven";
 const nicheLower = niche.toLowerCase();
@@ -77,9 +77,9 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
       telefoon: form.telefoon || undefined,
       domein: form.domein || undefined,
       email: form.email,
-      b: siteDetails.siteUrl.replace(/\/$/, ""),
     };
-    const url = previewUrl(look, prospect);
+    // Geen naam, telefoon of e-mail in de link: de server geeft een ondoorzichtige voorbeeld-link terug.
+    const { url, absolute } = await preparePreview(look, prospect);
 
     try {
       await fetch(WEBHOOK_URL, {
@@ -95,7 +95,7 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
           niche,
           look: look.slug,
           lookLabel: look.label,
-          previewUrl: url,
+          previewUrl: absolute,
           bron: `${siteDetails.siteName} /gratis-website`,
         }),
       });
