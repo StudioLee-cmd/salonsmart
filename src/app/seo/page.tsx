@@ -13,6 +13,14 @@ export const metadata: Metadata = {
     description: `Wil je als ${niche} beter gevonden worden in Google? ${siteDetails.siteName} regelt je SEO volledig: keyword research, content en technische optimalisatie.`,
     url: `${siteDetails.siteUrl}seo`,
     type: "website",
+    locale: "nl_NL",
+    images: [{ url: `${siteDetails.siteUrl}images/services/seo-hero.jpg`, width: 1376, height: 774, alt: `SEO voor ${nichePlural} | ${siteDetails.siteName}` }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `SEO voor ${nichePlural} | ${siteDetails.siteName}`,
+    description: `Wil je als ${niche} beter gevonden worden in Google? ${siteDetails.siteName} regelt je SEO volledig: keyword research, content en technische optimalisatie.`,
+    images: [`${siteDetails.siteUrl}images/services/seo-hero.jpg`],
   },
   alternates: {
     canonical: `${siteDetails.siteUrl}seo`,

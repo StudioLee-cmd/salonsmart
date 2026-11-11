@@ -17,6 +17,13 @@ export const metadata: Metadata = {
     url: `${siteDetails.siteUrl}gratis-website`,
     type: "website",
     locale: "nl_NL",
+    images: [{ url: `${siteDetails.siteUrl}images/og-image.jpg`, width: 1200, height: 630, alt: `Gratis website-ontwerp voor ${niche} | ${siteDetails.siteName}` }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `Gratis website-ontwerp voor ${niche} | ${siteDetails.siteName}`,
+    description: `Kies uit onze echte websites, vul je naam in en bekijk 'm meteen als de jouwe. Het ontwerpbestand krijg je gratis.`,
+    images: [`${siteDetails.siteUrl}images/og-image.jpg`],
   },
   alternates: { canonical: `${siteDetails.siteUrl}gratis-website` },
 };

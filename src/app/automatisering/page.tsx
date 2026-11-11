@@ -14,11 +14,17 @@ export const metadata: Metadata = {
     images: [
       {
         url: `${siteDetails.siteUrl}images/services/automatisering-hero.jpg`,
-        width: 1672,
-        height: 941,
+        width: 1376,
+        height: 768,
         alt: `Workflow automatisering voor ${siteDetails.niche?.toLowerCase()}`,
       },
     ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `Workflow automatisering voor ${siteDetails.niche} — ${siteDetails.siteName}`,
+    description: `Automatische herinneringen, lead-opvolging en klantcommunicatie voor ${siteDetails.niche?.toLowerCase()} — laat het systeem het werk doen.`,
+    images: [`${siteDetails.siteUrl}images/services/automatisering-hero.jpg`],
   },
   alternates: { canonical: `${siteDetails.siteUrl}automatisering` },
 };

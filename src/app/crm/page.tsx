@@ -11,6 +11,13 @@ export const metadata: Metadata = {
     url: `${siteDetails.siteUrl}crm`,
     type: "website",
     locale: "nl_NL",
+    images: [{ url: `${siteDetails.siteUrl}images/services/crm-hero.jpg`, width: 1376, height: 774, alt: `CRM voor ${siteDetails.niche} — ${siteDetails.siteName}` }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `CRM voor ${siteDetails.niche} — ${siteDetails.siteName}`,
+    description: `Een CRM voor ${siteDetails.niche?.toLowerCase()} die klantgegevens, afspraken en follow-ups op één plek bundelt.`,
+    images: [`${siteDetails.siteUrl}images/services/crm-hero.jpg`],
   },
   alternates: { canonical: `${siteDetails.siteUrl}crm` },
 };
