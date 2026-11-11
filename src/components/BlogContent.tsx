@@ -96,6 +96,24 @@ export default function BlogContent({ content }: BlogContentProps) {
                     margin-bottom: 0;
                 }
 
+                .blog-content table {
+                    display: block;
+                    max-width: 100%;
+                    overflow-x: auto;
+                    border-collapse: collapse;
+                    margin-bottom: 1.5rem;
+                    font-size: 1rem;
+                }
+                .blog-content th, .blog-content td {
+                    padding: 0.5rem 0.75rem;
+                    border-bottom: 1px solid var(--card-border);
+                    text-align: left;
+                    vertical-align: top;
+                }
+                .blog-content th {
+                    color: var(--foreground);
+                    font-weight: 600;
+                }
                 .blog-content a {
                     color: var(--secondary);
                     text-decoration: underline;
