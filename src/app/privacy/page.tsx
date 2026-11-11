@@ -53,7 +53,7 @@ const PrivacyPage: React.FC = () => {
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">6. Cookies</h2>
                     <p>
-                        Onze website gebruikt functionele cookies om de site goed te laten werken en analytische cookies om het gebruik te meten. Wij gebruiken geen tracking cookies zonder jouw toestemming.
+                        Onze website gebruikt functionele cookies om de site goed te laten werken. Het aantal bezoeken meten wij met Vercel Web Analytics: dat werkt zonder cookies, slaat geen IP-adres op en telt alleen samengevoegd hoeveel pagina&apos;s bekeken worden. Wij gebruiken geen tracking cookies zonder jouw toestemming.
                     </p>
                 </div>
             </div>
