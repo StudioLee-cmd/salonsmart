@@ -93,4 +93,4 @@ Je hoeft niet alles in één keer te regelen. Begin met deze drie stappen:
 2. Zet ze op je website en in je bevestigingsberichten
 3. Schakel automatische herinneringen in
 
-Binnen een week merk je al verschil in het aantal gemiste afspraken. Wil je weten hoeveel omzet jij nu mist door no-shows en waar de quick wins zitten? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je salon, je cijfers en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie als je besluit er professioneel mee aan de slag te gaan.
+Binnen een week merk je al verschil in het aantal gemiste afspraken. Wil je weten hoeveel omzet jij nu mist door no-shows en waar de quick wins zitten? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je salon, je cijfers en concrete verbeterpunten.

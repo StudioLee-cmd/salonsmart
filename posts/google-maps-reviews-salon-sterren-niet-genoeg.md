@@ -99,4 +99,4 @@ Je sterren vertellen wat mensen van je vonden. Je reviews vertellen wat je doet,
 
 Zorg dus dat er elke week iets binnenkomt, dat er behandelingen en plaatsen in de tekst staan, dat je reageert en dat klanten hun foto meesturen. Het cijfer volgt vanzelf.
 
-Bij SalonSmart laten we dat verzoek na elke afgeronde behandeling automatisch vertrekken, met de zin die om de behandeling vraagt in plaats van om een cijfer, en zetten we het wekelijkse reageren als vaste taak klaar. Wil je eerst zien hoe je profiel er nu voor staat, dan meet onze [gratis ai scan voor salons](/gratis-scan) het door. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug.
+Bij SalonSmart laten we dat verzoek na elke afgeronde behandeling automatisch vertrekken, met de zin die om de behandeling vraagt in plaats van om een cijfer, en zetten we het wekelijkse reageren als vaste taak klaar. Wil je eerst zien hoe je profiel er nu voor staat, dan meet onze [gratis ai scan voor salons](/gratis-scan) het door.

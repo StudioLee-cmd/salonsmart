@@ -58,6 +58,6 @@ Salons die beide inzetten, zien hun review-instroom vaak verdubbelen tot verdrie
 
 Een staand bordje, een los kaartje en een sticker doen allemaal hun werk, maar niet even goed op elke plek. Kijk naar hoe jouw klanten door je salon bewegen en zet het formaat neer waar hun tevredenheid het grootst is. Combineer het daarna met automatische opvolging en je reviews groeien vanzelf.
 
-Wil je weten welke opzet het beste bij jouw salon past? Vraag een [gratis scan](/gratis-scan) aan en we kijken samen naar je afrekenmoment, je werkplekken en je huidige review-instroom. Dankzij de Groei-of-Geld-Terug Garantie van SalonSmart loop je daarbij geen enkel risico. Jij verwent je klanten, wij regelen de rest.
+Wil je weten welke opzet het beste bij jouw salon past? Vraag een [gratis scan](/gratis-scan) aan en we kijken samen naar je afrekenmoment, je werkplekken en je huidige review-instroom. Jij verwent je klanten, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-timing-salon-beste-moment" class="text-dark fw-semibold">Reviews vragen als salon: wat is het beste moment?</a> →</p></div></div></div>

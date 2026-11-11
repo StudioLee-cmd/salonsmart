@@ -124,7 +124,7 @@ Een gemiddelde Nederlandse beauty salon met 400-600 actieve klanten die in 2026 
 | Maand 4-9 (groei) | 50-90 | €4.200-€7.500 | +€3.000 tot +€8.000 |
 | Jaar 2 (volwassen) | 100-160 per maand | €8.500-€14.000/maand | €30.000-€55.000 netto extra |
 
-ROI-tijd: 8-12 maanden tot terugverdiende instapkosten, daarna structureel netto extra omzet. Voor een [complete tarieven-aanpak voor beauty salons](https://www.salonsmart.nl/tarieven) inclusief Groei-of-Geld-Terug Garantie, zie de pagina hierboven — de inrichting zit standaard in het pakket.
+ROI-tijd: 8-12 maanden tot terugverdiende instapkosten, daarna structureel netto extra omzet.
 
 ## De twee scenario's waarin het niet werkt
 

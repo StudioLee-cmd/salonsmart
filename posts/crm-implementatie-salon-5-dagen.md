@@ -9,7 +9,6 @@ tags: ["CRM", "Klantbeheer", "Automatisering", "Salon"]
 cluster: "automatisering"
 ---
 
-
 Vraag een salonhouder waar de klantgegevens staan, en het antwoord is vaak een mix. Een paar namen in haar hoofd, wat voorkeuren op een geeltje bij de spiegel, de rest verspreid over WhatsApp, Instagram-DM's en een oud schrift. Dat werkt prima met dertig klanten. Bij driehonderd loopt het vast: je weet niet meer wie er al acht weken niet is geweest, wie altijd hetzelfde kleurtje neemt, of wie vorige maand een refill had moeten boeken en gewoon is weggebleven.
 
 Een CRM, oftewel een systeem voor klantbeheer, lost dat op. En nee, dat is geen project van maanden waar je een consultant voor nodig hebt. Als je gericht te werk gaat, staat je klantbeheer in vijf werkdagen klaar. In dit artikel krijg je het complete stappenplan: wat je per dag doet, welke klantgegevens echt herhaalboekingen opleveren, en de valkuilen die de meeste salons de eerste keer verkeerd doen.
@@ -107,6 +106,6 @@ Dat hangt af van wat je nodig hebt en of je losse tools kiest of een systeem dat
 
 Een CRM-implementatie in je salon is geen technisch project van maanden, maar vijf gerichte werkdagen: opschonen, kiezen en importeren, slim inrichten, automatiseren en je team meenemen. De software is niet het punt. Het punt is dat je nooit meer een klant kwijtraakt omdat je vergat haar op het juiste moment uit te nodigen.
 
-Wil je weten hoe goed je klantbeheer er nu voor staat en waar je omzet laat liggen? Doe de [gratis ai scan voor salons](/gratis-scan) en je krijgt concrete punten waarmee je direct verder kunt. We werken met een Groei-of-Geld-Terug Garantie, dus je weet zeker dat je investering rendement oplevert. Jij verwent je klanten, wij regelen de rest.
+Wil je weten hoe goed je klantbeheer er nu voor staat en waar je omzet laat liggen? Doe de [gratis ai scan voor salons](/gratis-scan) en je krijgt concrete punten waarmee je direct verder kunt. Jij verwent je klanten, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/welkom-mailflow-nieuwe-salonklanten" class="text-dark fw-semibold">Welkom-mailflow voor nieuwe salonklanten in 4 mails</a> →</p>

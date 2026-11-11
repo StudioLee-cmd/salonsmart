@@ -88,6 +88,6 @@ Juist daar lekt bij veel salons de winst weg: de interesse is er, maar de vraag 
 
 Terug naar die Reel met 1.800 views en nul boekingen. Met de juiste aanpak was dat een ander verhaal geweest: een transformatie die de twijfelaar overtuigt, een sterke hook die de kijker vasthoudt, en een boekingslink die de interesse meteen omzet. Niet meer views als doel, maar meer stoelen gevuld.
 
-Benieuwd waar jouw salon nu boekingen laat liggen tussen social media en agenda? Bekijk dan de [gratis website voor salons](/gratis-website) die we bouwen, met je boekingssysteem en socials netjes aan elkaar geknoopt. We werken met een Groei-of-Geld-Terug Garantie, dus je weet zeker dat je investering rendement oplevert. Jij verwent je klanten, wij regelen de rest.
+Benieuwd waar jouw salon nu boekingen laat liggen tussen social media en agenda? Bekijk dan de [gratis website voor salons](/gratis-website) die we bouwen, met je boekingssysteem en socials netjes aan elkaar geknoopt. Jij verwent je klanten, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/instagram-contentkalender-salon-30-dagen" class="text-dark fw-semibold">Instagram contentkalender voor je salon: 30 dagen klaar</a> →</p>

@@ -110,6 +110,6 @@ PMU is moeilijk uit te leggen aan een prospect die het niet kent. Vraag toestemm
 
 Permanente make-up toevoegen vraagt €4.500-€8.000 vergunningskant + opleiding voordat je begint. Voor beauty salons die dit serieus regelen levert het echter een hoog-marge premium-segment met loyale touch-up-klantengroep.
 
-Bij SalonSmart helpen we beauty salons die PMU willen opbouwen met de software-laag (PMU-flow inclusief AVG-formulieren, touch-up-herinneringen na 12 maanden, foto-portfolio-archivering). We werken met een **Groei-of-Geld-Terug Garantie**, als je binnen 6 maanden geen toename in PMU-trajecten ziet door onze flow, krijg je je investering terug. Plan een [gratis ai scan voor salons](/gratis-scan) of bekijk de [tarieven](/tarieven) voor het PMU-segment-pakket.
+Bij SalonSmart helpen we beauty salons die PMU willen opbouwen met de software-laag (PMU-flow inclusief AVG-formulieren, touch-up-herinneringen na 12 maanden, foto-portfolio-archivering). Plan een [gratis ai scan voor salons](/gratis-scan) of bekijk de [tarieven](/tarieven) voor het PMU-segment-pakket.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/acne-behandeling-microneedling-peeling-light-therapy-salon-specialisme" class="text-dark fw-semibold">Acne-behandeling als beauty-salon-tussensegment</a> →</p></div></div></div>

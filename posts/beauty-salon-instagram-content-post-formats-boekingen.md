@@ -162,6 +162,4 @@ Voor salons die dit volledig uitbesteden: in onze managed service maken wij je c
 
 Een [AI chatbot](/chatbot) op je website en Instagram DM kan bovendien de inkomende vragen uit je posts automatisch afhandelen en direct doorzetten naar je boekingsagenda.
 
-## Groei-of-Geld-Terug Garantie
-
-Als je Instagram-leads na drie maanden niet meetbaar zijn gestegen, krijg je je investering terug. Vraag een [gratis scan](/gratis-scan) aan om je huidige Instagram-performance te laten analyseren. Jij verzorgt, wij regelen de rest.
+Vraag een [gratis scan](/gratis-scan) aan om je huidige Instagram-performance te laten analyseren. Jij verzorgt, wij regelen de rest.

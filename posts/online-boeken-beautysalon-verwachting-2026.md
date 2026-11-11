@@ -80,7 +80,7 @@ De meeste salons zien binnen een maand dat 30-50% van alle boekingen online binn
 
 Online boeken is in 2026 geen luxe meer voor beautysalons — het is een verwachting. Klanten kiezen de salon die het makkelijkst bereikbaar is. En dat is de salon waar je om 23:00 op de bank nog een afspraak kunt maken.
 
-Met [SalonSmart](/) krijg je een compleet boekings- en communicatiesysteem. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [SalonSmart](/) krijg je een compleet boekings- en communicatiesysteem. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel boekingen je nu mist.
 

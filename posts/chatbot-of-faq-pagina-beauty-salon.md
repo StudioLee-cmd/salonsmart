@@ -81,4 +81,4 @@ Een goed ingerichte chatbot zegt dat eerlijk en verbindt door naar jou of vraagt
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/whatsapp-herinneringen-chatbot-salon-klantreis" class="text-dark fw-semibold">WhatsApp-herinneringen + chatbot combineren in je salon</a> →</p></div></div></div>
 
-Jij verwent je klanten, wij regelen de rest. Met de Groei-of-Geld-Terug Garantie van SalonSmart richten we een [website chatbot voor salons](/chatbot) volledig voor je in, getraind op jouw behandelingen en gekoppeld aan je agenda, zodat geen avondaanvraag meer blijft liggen. Smart salon, blije klanten.
+Jij verwent je klanten, wij regelen de rest. Smart salon, blije klanten.

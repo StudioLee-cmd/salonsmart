@@ -79,8 +79,6 @@ Automatiseer de structuur, niet de toon:
 
 Bij StudioLee nemen we de complete digitale communicatie uit handen. Van automatische bevestigingen tot [social media](/blog/social-media-beautysalons-instagram) en review-opvolging. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek waar jouw communicatie beter kan.
 
 ## Conclusie

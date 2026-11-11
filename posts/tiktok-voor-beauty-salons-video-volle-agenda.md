@@ -93,6 +93,6 @@ Dan is uitbesteden de logische stap. Je kunt de [social media uitbesteden voor s
 
 Bereik is niet het doel, boekingen zijn het doel. Een virale behandel-video is niets waard zolang de deur van je etalage op slot zit: zonder een profiel dat direct laat boeken en een systeem dat de piek aan berichten opvangt, kijken mensen naar binnen en lopen ze door. Zet de drie schakels goed neer, vang de avondaanvragen automatisch op, en zet elke eerste klant om in een vaste, en dan wordt TikTok een kanaal dat je agenda echt vult. Jij verwent je klanten, het systeem regelt de rest.
 
-Wil je weten waar jouw online aanwezigheid nu staat en wat er beter kan? Doe de [gratis ai scan voor salons](/gratis-scan) en je krijgt concrete punten waarmee je direct verder kunt. We werken met een Groei-of-Geld-Terug Garantie, dus je weet zeker dat je investering rendement oplevert. Smart salon, blije klanten.
+Wil je weten waar jouw online aanwezigheid nu staat en wat er beter kan? Doe de [gratis ai scan voor salons](/gratis-scan) en je krijgt concrete punten waarmee je direct verder kunt. Smart salon, blije klanten.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/instagram-contentkalender-salon-30-dagen" class="text-dark fw-semibold">Instagram contentkalender voor je salon: 30 dagen klaar</a> →</p>

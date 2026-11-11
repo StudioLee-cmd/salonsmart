@@ -90,4 +90,4 @@ En de tijdwinst dan? Die is lastiger in euro's te vangen, maar elke salonhouder 
 
 Workflow automatisering is voor een beauty salon geen luxe voor later, maar de kortste route naar minder no-shows, meer herhaalboekingen en avonden zonder appjes-achterstand. Begin bij de herinneringen, stapel daar de gemiste-oproep-opvolging en de reviewverzoeken bovenop, en bouw daarna rustig door aan rebooking en retentie. Jij verwent je klanten, wij regelen de rest.
 
-Benieuwd welke van deze vijf workflows in jouw salon het meeste laat liggen? Vraag de [gratis ai scan voor salons](/gratis-scan) van SalonSmart aan: je ziet zwart op wit waar de omzetlekkage zit en welke workflow die dicht. Alles wat we voor je inrichten valt onder onze Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons, niet bij jou.
+Benieuwd welke van deze vijf workflows in jouw salon het meeste laat liggen? Vraag de [gratis ai scan voor salons](/gratis-scan) van SalonSmart aan: je ziet zwart op wit waar de omzetlekkage zit en welke workflow die dicht.

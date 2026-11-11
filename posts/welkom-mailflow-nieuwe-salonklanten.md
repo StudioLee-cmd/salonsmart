@@ -94,6 +94,6 @@ De vier mails schrijven en de timing instellen doe je in een paar uur. Daarna dr
 
 De eerste behandeling is het moment waarop je een nieuwe klant wint of verliest, en stilte na afloop is de duurste fout die je kunt maken. Met een welkom-mailflow van vier mails, bedankt en nazorg, een waardevolle tip, het reviewverzoek en de uitnodiging om opnieuw te boeken, vang je elke nieuwe klant op de juiste momenten op. Eenmaal geautomatiseerd kost het je geen tijd meer en levert het je maand na maand vaste klanten op.
 
-Wil je weten hoe goed jouw huidige opvolging nieuwe klanten vasthoudt? Doe de [gratis ai scan voor salons](/gratis-scan) en je krijgt concrete punten waarmee je direct verder kunt. We werken met een Groei-of-Geld-Terug Garantie, dus je weet zeker dat je investering rendement oplevert. Jij verwent je klanten, wij regelen de rest.
+Wil je weten hoe goed jouw huidige opvolging nieuwe klanten vasthoudt? Doe de [gratis ai scan voor salons](/gratis-scan) en je krijgt concrete punten waarmee je direct verder kunt. Jij verwent je klanten, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/salon-klantbehoud-automatisering" class="text-dark fw-semibold">Klantbehoud in de salon: zo komt elke klant terug na het derde bezoek</a> →</p>

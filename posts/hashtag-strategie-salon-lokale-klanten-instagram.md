@@ -98,4 +98,4 @@ Fout drie: één keer proberen en na twee weken concluderen dat het niet werkt. 
 
 Een goede hashtag-strategie voor je salon is geen kwestie van meer, maar van gerichter. Bouw je sets op uit vier lagen met de nadruk op behandeling plus stad, zet ze klaar per behandelcategorie, wissel af, en meet elk kwartaal welke tags niet-volgers en boekingen opleveren. Het kost je één avond om op te zetten en daarna nog een paar seconden per post.
 
-Geen zin of tijd om dit er zelf bij te doen? Dat snappen we, jij verwent je klanten, wij regelen de rest. Met [social media uitbesteden voor salons](/social-media) verzorgt SalonSmart je posts, planning en hashtag-strategie, met onze Groei-of-Geld-Terug Garantie. Benieuwd waar jouw salon nu staat qua online zichtbaarheid? Vraag de [gratis ai scan voor salons](/gratis-scan) aan en je ziet binnen een paar minuten waar je kansen liggen.
+Geen zin of tijd om dit er zelf bij te doen? Dat snappen we, jij verwent je klanten, wij regelen de rest. Benieuwd waar jouw salon nu staat qua online zichtbaarheid? Vraag de [gratis ai scan voor salons](/gratis-scan) aan en je ziet binnen een paar minuten waar je kansen liggen.

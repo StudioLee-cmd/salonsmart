@@ -50,9 +50,7 @@ Dit is waar het verschil écht zit. Treatwell is een platform waar je zelf alles
 
 Jouw bijdrage: 15 minuten per maand. De rest doen wij. Dat is geen software — dat is een compleet marketingteam voor een fractie van wat een traditioneel bureau kost.
 
-## Groei-of-Geld-Terug Garantie
-
-Onze garantie geldt vanaf Managed Groei Pro. Word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Je zit nergens aan vast: maandelijks opzegbaar.
+Onze garantie geldt vanaf Managed Groei Pro. Je zit nergens aan vast: maandelijks opzegbaar.
 
 - **Nulmeting vóór de eerste werkdag.** We leggen vast waar je staat, zichtbaar in je dashboard. Daar meten we achteraf tegen, zodat je startpunt niet ter discussie staat.
 - **SEO:** geen groei in je zichtbaarheid in Ahrefs? Geld terug.

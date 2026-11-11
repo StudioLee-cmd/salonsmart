@@ -65,4 +65,4 @@ Tevreden klanten die goede adviezen krijgen, laten vaker uitgebreide [reviews](/
 
 Kies drie producten die je het vaakst gebruikt bij behandelingen. Zorg dat ze zichtbaar zijn bij de kassa. En spreek met je team af: bij elke behandeling een advies geven. Niet pushen, adviseren. Het verschil merk je binnen een maand.
 
-Wil je weten hoe jouw salon online beter kan presteren? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw salon online beter kan presteren? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.
