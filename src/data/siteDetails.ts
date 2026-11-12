@@ -4,7 +4,7 @@ export const siteDetails = {
     siteUrl: 'https://www.salonsmart.nl/',
     metadata: {
         title: 'SalonSmart - AI assistent voor jouw salon',
-        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. SalonSmart regelt je agenda, telefoon en administratie volledig automatisch.',
+        description: 'SalonSmart: wij maken de website voor jouw salon. Chatbot, telefoon en marketing sluit je erop aan via je pakket.',
     },
     language: 'nl-NL',
     locale: 'nl-NL',
