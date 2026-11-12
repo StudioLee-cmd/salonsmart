@@ -5,7 +5,7 @@ date: "2026-07-17"
 excerpt: "Niet elke salonklant is gelijk. Ontdek de vier klantgroepen die elke salon heeft en geef elke groep automatisch de juiste opvolging op het juiste moment."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantsegmentatie-salon-vip-klanten.jpg"
-tags: ["CRM", "Automatisering"]
+tags: ["Klantsegmentatie", "CRM"]
 cluster: "automatisering"
 ---
 

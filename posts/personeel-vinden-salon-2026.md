@@ -5,7 +5,7 @@ date: "2026-04-21"
 cluster: branding
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/personeel-vinden-salon-2026.jpg"
-tags: ["Personeel", "Branding"]
+tags: ["Personeel", "Werving", "HR"]
 ---
 Je hebt genoeg klanten, de omzet kan omhoog, je zou de agenda zo vol kunnen boeken — maar je komt niet verder omdat je simpelweg geen extra kapper, schoonheidsspecialiste of nagelstyliste kunt vinden. Dat is voor veel saloneigenaren in 2026 de grootste groeirem. De arbeidsmarkt voor beautyprofessionals is structureel krap, vacatures staan gemiddeld 4-8 maanden open, en de traditionele kanalen (Indeed, Marktplaats, social media) leveren steeds minder op.
 

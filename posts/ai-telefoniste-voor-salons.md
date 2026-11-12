@@ -5,7 +5,7 @@ excerpt: "Mis nooit meer een afspraak omdat je bezig bent. Onze Voice AI neemt o
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-salons.png"
-tags: ["Voice AI", "Innovatie"]
+tags: ["Voice AI"]
 cluster: voice-ai
 ---
 Het meest frustrerende moment voor een salonhouder? Je bent net bezig met een intensieve behandeling, en de telefoon gaat. Je kunt niet opnemen. Je laat hem gaan.

@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wachtlijst-beautysalon-annuleringen-opvangen.jpg"
-tags: ["No-shows", "Planning", "Groei"]
+tags: ["No-shows", "Planning"]
 ---
 ## De verborgen oplossing voor annuleringen
 

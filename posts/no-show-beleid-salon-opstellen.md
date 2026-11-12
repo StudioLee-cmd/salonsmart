@@ -5,7 +5,7 @@ date: "2026-04-11"
 cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-show-beleid-salon-opstellen.jpg"
-tags: ["No-shows", "Salonbeheer", "Groei"]
+tags: ["No-shows", "Salonbeheer"]
 ---
 ## Waarom een no-show beleid onmisbaar is
 

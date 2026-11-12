@@ -5,7 +5,7 @@ date: "2026-05-02"
 excerpt: "Massage of sportmassage toevoegen aan je beauty salon: instapkosten, marges en de twee scenario's waarin het juist niet werkt voor je salon."
 image: "/images/blog/massage-sportmassage-aanbieden-beauty-salon.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Specialisatie", "Branding"]
+tags: ["Massage", "Sportmassage"]
 cluster: branding
 ---
 

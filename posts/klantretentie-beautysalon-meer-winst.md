@@ -5,7 +5,7 @@ excerpt: "Het kost 5x meer om een nieuwe klant te werven dan een bestaande te be
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantretentie-beautysalon-meer-winst.png"
-tags: ["Automatisering"]
+tags: ["Klantretentie", "Winst"]
 cluster: automatisering
 ---
 ## De kracht van retentie

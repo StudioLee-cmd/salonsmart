@@ -5,7 +5,7 @@ date: "2026-06-23"
 excerpt: "Losse tools laten klanten weglekken tussen aanvraag en afspraak. Zo combineer je een AI-chatbot en automatische WhatsApp-herinneringen tot één klantreis."
 image: "/images/blog/whatsapp-herinneringen-chatbot-salon-klantreis.jpg"
 authorSlug: tim-van-der-lee
-tags: ["Chatbot", "WhatsApp"]
+tags: ["Chatbot", "WhatsApp", "Klantreis"]
 cluster: chatbot
 ---
 

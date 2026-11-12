@@ -5,7 +5,7 @@ excerpt: "Wachten tot klanten vanzelf komen werkt niet meer. Ontdek welke leadka
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-beautysalon.png"
-tags: ["Leads", "Groei"]
+tags: ["Leads"]
 cluster: automatisering
 ---
 

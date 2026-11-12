@@ -5,7 +5,7 @@ date: "2026-05-08"
 excerpt: "Hoe je acne-behandeling toevoegt als beauty-salon-tussensegment: microneedling, light-therapy en peelings voor tieners + jong-volwassenen."
 image: "/images/blog/acne-behandeling-microneedling-peeling-light-therapy-salon-specialisme.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Specialisatie", "Branding"]
+tags: ["Acne", "Tussensegment"]
 cluster: branding
 ---
 

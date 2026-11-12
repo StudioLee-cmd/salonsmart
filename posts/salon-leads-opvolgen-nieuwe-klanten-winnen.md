@@ -5,7 +5,7 @@ date: "2026-04-19"
 cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/salon-leads-opvolgen-nieuwe-klanten-winnen.jpg"
-tags: ["Lead opvolging", "Groei"]
+tags: ["Lead opvolging"]
 ---
 ## De klant die je niet terugbelt, boekt ergens anders
 

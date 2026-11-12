@@ -5,7 +5,7 @@ date: "2026-04-05"
 cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/automatische-herinneringen-salon.jpg"
-tags: ["No-shows", "Automatisering"]
+tags: ["Herinneringen", "No-shows"]
 ---
 ## De stoel staat klaar, maar de klant komt niet
 

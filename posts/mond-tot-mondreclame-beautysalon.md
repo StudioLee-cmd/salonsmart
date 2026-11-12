@@ -5,7 +5,7 @@ excerpt: "Mond-tot-mondreclame is de krachtigste groeimotor voor beautysalons. L
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-beautysalon.png"
-tags: ["Marketing", "Reviews"]
+tags: ["Mond-tot-mond"]
 cluster: reviews
 ---
 

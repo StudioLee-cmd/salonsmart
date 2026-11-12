@@ -6,7 +6,7 @@ date: "2026-04-09"
 cluster: reviews
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nfc-qr-review-kaart-salon-google-reviews.jpg"
-tags: ["Reviews", "Google"]
+tags: ["Reviews", "NFC"]
 ---
 ## Waarom een fysieke review kaart werkt
 

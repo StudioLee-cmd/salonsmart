@@ -5,7 +5,7 @@ excerpt: "Zet nieuwe salonklanten om in vaste klanten met een welkom-mailflow va
 date: "2026-06-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/welkom-mailflow-nieuwe-salonklanten.jpg"
-tags: ["Automatisering", "E-mail"]
+tags: ["E-mail", "Klantbehoud"]
 cluster: "automatisering"
 ---
 

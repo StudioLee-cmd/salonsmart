@@ -5,7 +5,7 @@ date: "2026-06-28"
 excerpt: "Een FAQ-pagina beantwoordt vragen, een chatbot maakt er boekingen van. Ontdek wat je beauty salon nodig heeft om bezoekers in afspraken om te zetten."
 image: "/images/blog/chatbot-of-faq-pagina-beauty-salon.jpg"
 authorSlug: tim-van-der-lee
-tags: ["Chatbot", "Website", "Boekingen"]
+tags: ["Chatbot", "FAQ", "Website"]
 cluster: chatbot
 ---
 

@@ -5,7 +5,7 @@ date: "2026-05-03"
 excerpt: "Bruidspakketten zijn een van de hoogste-marge segmenten voor een beautysalon. Zo bouw je een aanbod op met de juiste pakketten, prijzen en proefdagen."
 image: "/images/blog/bruidsmake-up-beautysalon-pakket-strategie.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Specialisatie", "Omzet"]
+tags: ["Omzet", "Bruidsmarkt"]
 cluster: branding
 ---
 

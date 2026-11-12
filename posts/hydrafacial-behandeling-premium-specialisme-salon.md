@@ -5,7 +5,7 @@ date: "2026-05-05"
 excerpt: "Hydrafacial als premium-specialisme: investering in apparatuur, treatment-flow, pricing per behandeling en de operationele setup voor recurring klanten."
 image: "/images/blog/hydrafacial-behandeling-premium-specialisme-salon.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Specialisatie", "Branding"]
+tags: ["Hydrafacial", "Premium"]
 cluster: branding
 ---
 

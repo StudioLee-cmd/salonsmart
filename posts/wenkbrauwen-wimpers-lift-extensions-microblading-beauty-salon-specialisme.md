@@ -5,7 +5,7 @@ date: "2026-05-07"
 excerpt: "Hoe je het wenkbrauw- en wimper-segment opbouwt als beauty salon: brow lamination, lash extensions en microblading met repeat-cyclus van 4-6 weken."
 image: "/images/blog/wenkbrauwen-wimpers-lift-extensions-microblading-beauty-salon-specialisme.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Specialisatie", "Branding"]
+tags: ["Specialisatie", "Wenkbrauwen"]
 cluster: branding
 ---
 Een vrouw die haar wenkbrauwen voor het eerst laat lifte (brow lamination), boekt vrijwel altijd al binnen 4 weken haar tweede afspraak. Daarna vraagt ze naar wimper-extensions. Daarna komt ze elke 4-6 weken terug voor onderhoud van beide. Voor beauty salons die het wenkbrauw + wimper-segment serieus opbouwen is dit een hoog-frequency niche met een loyale klantengroep en uitstekende marge per behandeling.

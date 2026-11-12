@@ -5,7 +5,7 @@ date: "2026-07-21"
 excerpt: "Met de juiste lokale hashtags bereikt je salon precies de mensen uit je eigen stad. Een praktische hashtag-strategie in 4 lagen, plus hoe je meet wat werkt."
 image: "/images/blog/hashtag-strategie-salon-lokale-klanten-instagram.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Instagram", "Social Media"]
+tags: ["Hashtags", "Instagram"]
 cluster: "social-media"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-29"
 excerpt: "Een salonkassa moet meer doen dan afrekenen. Dit zijn de zeven eisen die echt tellen, van pinkoppeling tot dagafsluiting, plus de vragen die je stelt."
 image: "/images/blog/salon-pos-software-kassasysteem-eisen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Software"]
+tags: ["Kassasysteem", "Salonbeheer"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-04-04"
 cluster: reviews
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-beautysalon-automatisch-verzamelen.jpg"
-tags: ["Reviews", "Automatisering"]
+tags: ["Reviews", "Reputatie"]
 ---
 ## Waarom beautysalons afhankelijk zijn van reviews
 

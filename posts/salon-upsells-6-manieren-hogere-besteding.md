@@ -5,7 +5,7 @@ excerpt: "Een goede salon-upsell voelt als advies, niet als verkoop. Deze 6 slim
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/salon-upsells-6-manieren-hogere-besteding.jpg"
-tags: ["Automatisering"]
+tags: ["Upsell", "Revenue"]
 cluster: automatisering
 ---
 Twee salons met dezelfde soort klanten, zelfde basis-tarieven. Salon A heeft een gemiddelde besteding van €58 per klant, salon B van €95. Het grote verschil zit niet in tarieven maar in upselling: salon B heeft een structurele aanpak om klanten tijdens hun bezoek relevante extras te laten proberen.

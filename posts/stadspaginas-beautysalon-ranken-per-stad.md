@@ -5,7 +5,7 @@ date: "2026-06-12"
 excerpt: "Wil je als salon gevonden worden op schoonheidssalon plus stad? Zo bouw je per stad een unieke lokale landingspagina zonder duplicate content."
 image: "/images/blog/stadspaginas-beautysalon-ranken-per-stad.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Lokale SEO", "Vindbaarheid"]
+tags: ["Lokale SEO", "Website"]
 cluster: "vindbaarheid"
 ---
 

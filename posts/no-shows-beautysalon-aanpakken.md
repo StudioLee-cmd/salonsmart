@@ -4,7 +4,7 @@ excerpt: "Leer hoe je als beautysalon no-shows aanpakt met slimme herinneringen,
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-beautysalon-aanpakken.jpg"
-tags: ["No-shows", "Groei"]
+tags: ["Klantenmanagement"]
 cluster: automatisering
 ---
 ## De echte kosten van no-shows voor je salon

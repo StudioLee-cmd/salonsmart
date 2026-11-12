@@ -5,7 +5,7 @@ excerpt: "Een CRM opzetten in je salon hoeft geen maanden te duren. Met dit stap
 date: "2026-07-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/crm-implementatie-salon-5-dagen.jpg"
-tags: ["CRM", "Automatisering"]
+tags: ["CRM", "Klantbeheer"]
 cluster: "automatisering"
 ---
 

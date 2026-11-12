@@ -5,7 +5,7 @@ date: "2026-08-21"
 excerpt: "Je hebt 4,9 en staat toch niet in de lokale top 3. Dat komt doordat Google veel meer van je reviews leest dan alleen het gemiddelde cijfer."
 image: "/images/blog/google-maps-reviews-salon-sterren-niet-genoeg.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Vindbaarheid"]
+tags: ["Reviews", "Google Maps"]
 cluster: "reviews"
 ---
 

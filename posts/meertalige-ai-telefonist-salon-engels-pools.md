@@ -5,7 +5,7 @@ excerpt: "Een klant belt in het Engels of Pools en niemand kan haar te woord sta
 date: "2026-07-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meertalige-ai-telefonist-salon-engels-pools.jpg"
-tags: ["Voice AI", "Bereikbaarheid", "AI"]
+tags: ["Voice AI", "Meertalig"]
 cluster: "voice-ai"
 ---
 

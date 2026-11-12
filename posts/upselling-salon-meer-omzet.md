@@ -5,7 +5,7 @@ date: "2026-04-14"
 cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/upselling-salon-meer-omzet.jpg"
-tags: ["Upselling", "Salonbeheer"]
+tags: ["Upselling", "Omzet"]
 ---
 ## Waarom de meeste salons omzet laten liggen
 

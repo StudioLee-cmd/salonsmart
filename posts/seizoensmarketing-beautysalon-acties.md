@@ -7,7 +7,7 @@ excerpt: "Elk seizoen brengt andere beautytrends en klantbehoeften. Ontdek hoe j
 image: "/images/blog/seizoensmarketing-beautysalon-acties.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["Marketing", "Social Media"]
+tags: ["Seizoenswerk"]
 cluster: social-media
 ---
 

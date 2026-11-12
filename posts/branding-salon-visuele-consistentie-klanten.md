@@ -5,7 +5,7 @@ date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-salon-visuele-consistentie-klanten.jpg"
 cluster: "branding"
-tags: ["Branding", "Marketing"]
+tags: ["Branding", "Salonmarketing"]
 ---
 Twee salons in dezelfde wijk hebben vergelijkbare prijzen, vergelijkbare reviews en vergelijkbare diensten. Salon A heeft een logo dat overal anders uitziet (Instagram-bio in zwart, website in rose, visitekaartje in goud), kleuren die per platform verschillen, en foto's die door verschillende mensen op verschillende manieren zijn bewerkt. Salon B heeft een herkenbaar visueel verhaal: zelfde logo overal, drie consistente kleuren, foto's met dezelfde toon en hetzelfde licht. Klanten die beide salons online tegenkomen voelen Salon B als professioneler, betrouwbaarder, en kiezen vaker voor Salon B. Niet bewust, maar visueel-emotioneel.
 

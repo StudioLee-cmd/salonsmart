@@ -5,7 +5,7 @@ date: "2026-07-23"
 excerpt: "Dubbele boekingen ontstaan als telefoon, Instagram en inloop niet samenkomen. Zo vang je elke afspraak in een agenda en houd je je stoel correct bezet."
 image: "/images/blog/dubbele-boekingen-voorkomen-salon-agenda.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Boekingen"]
+tags: ["Online Agenda", "Salonbeheer"]
 cluster: "automatisering"
 ---
 

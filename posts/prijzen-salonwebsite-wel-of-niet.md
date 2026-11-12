@@ -4,7 +4,7 @@ excerpt: "Het grote prijzendebat voor beautysalons: ontdek wanneer je prijzen to
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-salonwebsite-wel-of-niet.png"
-tags: ["Prijzen", "Website", "Strategie"]
+tags: ["Prijzen", "Website"]
 cluster: website
 ---
 

@@ -4,7 +4,7 @@ excerpt: "AI helpt beauty salons bij afsprakenbeheer, klantcommunicatie en marke
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-beauty-salons-ai-gebruiken-groei-klantbehoud.png"
-tags: ["AI", "Automatisering"]
+tags: ["Automatisering"]
 cluster: automatisering
 ---
 Een beauty salon draait op vaste klanten, volle agenda's en een sterke persoonlijke reputatie. Tegelijkertijd vraagt de operationele kant steeds meer aandacht: afspraken beheren, herinneringen sturen, [reviews verzamelen](/reviews), social media bijhouden. AI neemt die taken over — zodat jij de focus houdt op wat je het beste doet.
