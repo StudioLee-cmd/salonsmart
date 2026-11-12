@@ -60,6 +60,8 @@ Denk aan je leverancier van lijm, wimpers en gellak die elke 2 weken een factuur
 
 ## De payout: waarom je bank nooit je omzet laat zien
 
+![De payout: waarom je bank nooit je omzet laat zien](/images/blog/boekhouding-automatiseren-salon-factuur-tot-payout-2.jpg)
+
 Payout is gewoon het Engelse woord voor uitbetaling, bijvoorbeeld "uitbetaling 14 tot en met 27 oktober" op je afschrift: het bedrag dat je betaalprovider of boekingsplatform naar je rekening overmaakt. Het lastige is dat dit bedrag bijna nooit gelijk is aan wat je hebt verdiend. Een payout is een bundel van meerdere transacties, van meerdere dagen, met de kosten er vaak al vanaf. Boek je alleen wat er binnenkomt, dan staat je omzet te laag in je boeken en zijn je kosten onzichtbaar.
 
 Boekhouders lossen dat op met een tussenrekening per betaalstroom. Dat werkt in 4 stappen:
@@ -144,8 +146,6 @@ Een goede keten haalt het overtypen weg, niet je oordeel. Deze 4 dingen blijven 
 - **Contant geld.** De kassalade telt zichzelf niet. Tel aan het eind van de dag en voer het verschil in, hoe klein ook.
 
 ## Een invoerplan van 4 weken
-
-![Een invoerplan van 4 weken](/images/blog/boekhouding-automatiseren-salon-factuur-tot-payout-2.jpg)
 
 Je hoeft niet alles in 1 keer te doen. Begin bij de plek waar je nu de meeste avonden verliest; bij de meeste salons is dat de payout.
 
