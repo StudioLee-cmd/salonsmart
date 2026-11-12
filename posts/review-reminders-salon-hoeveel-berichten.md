@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: reviews
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-reminders-salon-hoeveel-berichten.jpg"
-tags: ["Reviews", "Automatisering", "Groei"]
+tags: ["Reviews", "Automatisering"]
 ---
 ## Het dilemma: vragen zonder te zeuren
 

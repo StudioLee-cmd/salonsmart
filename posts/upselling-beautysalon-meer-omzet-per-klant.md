@@ -5,7 +5,7 @@ excerpt: "De gemiddelde bon verhogen zonder opdringerig te zijn? Met de juiste t
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/upselling-beautysalon-meer-omzet-per-klant.png"
-tags: ["Beautysalon", "Upselling", "Omzet"]
+tags: ["Upselling", "Omzet"]
 cluster: automatisering
 ---
 ## Meer omzet zonder meer klanten

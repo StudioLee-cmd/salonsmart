@@ -5,7 +5,7 @@ excerpt: "Nooit meer twijfelen wat je post. Met deze kant-en-klare 30-dagen Inst
 date: "2026-06-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/instagram-contentkalender-salon-30-dagen.jpg"
-tags: ["Social Media", "Instagram", "Marketing", "Salon"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-04-06"
 cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/salon-leads-opvolgen-automatisch.jpg"
-tags: ["Leads", "Salon", "Automatisering"]
+tags: ["Leads", "Automatisering"]
 ---
 ## De DM die je te laat beantwoordde
 

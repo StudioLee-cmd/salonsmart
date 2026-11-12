@@ -5,7 +5,7 @@ excerpt: "Klanten spreken geen voicemail meer in, ze bellen gewoon de volgende s
 date: "2026-07-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/voice-ai-vs-voicemail-salon.jpg"
-tags: ["Voice AI", "Bereikbaarheid", "Boekingen"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

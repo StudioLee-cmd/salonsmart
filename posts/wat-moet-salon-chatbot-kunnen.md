@@ -5,7 +5,7 @@ date: "2026-07-15"
 excerpt: "Welke functies heeft een salon-chatbot echt nodig? Een eerlijke lijst van de vijf die tellen, plus de dure ballast die je gerust overslaat."
 image: "/images/blog/wat-moet-salon-chatbot-kunnen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["AI chatbot", "Salon", "Klantcontact"]
+tags: ["Chatbot", "Klantcontact"]
 cluster: "chatbot"
 ---
 

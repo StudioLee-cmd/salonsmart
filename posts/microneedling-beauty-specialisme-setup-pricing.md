@@ -5,7 +5,7 @@ date: "2026-05-06"
 excerpt: "Microneedling als beauty-specialisme: apparatuur, behandel-protocol, pricing per sessie en de operationele setup voor zichtbare anti-aging-resultaten."
 image: "/images/blog/microneedling-beauty-specialisme-setup-pricing.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Microneedling", "Specialisatie", "Anti-aging", "Beauty"]
+tags: ["Specialisatie", "Branding"]
 cluster: branding
 ---
 

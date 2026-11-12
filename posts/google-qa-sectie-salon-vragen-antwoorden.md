@@ -5,7 +5,7 @@ date: "2026-07-27"
 excerpt: "De vragen-en-antwoorden-sectie op je Google Bedrijfsprofiel bestaat niet meer. Google stelt het antwoord over je salon nu zelf samen uit drie bronnen."
 image: "/images/blog/google-qa-sectie-salon-vragen-antwoorden.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Google Bedrijfsprofiel", "Lokale SEO"]
+tags: ["Vindbaarheid", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
 

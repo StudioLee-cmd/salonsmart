@@ -5,7 +5,7 @@ excerpt: "Je AI telefonist kent je prijzen wel, maar verstaat hydrafacial niet. 
 date: "2026-07-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefonist-trainen-behandelnamen-verstaan.jpg"
-tags: ["Voice AI", "Bereikbaarheid", "Inrichten"]
+tags: ["Voice AI", "Bereikbaarheid", "AI"]
 cluster: "voice-ai"
 ---
 

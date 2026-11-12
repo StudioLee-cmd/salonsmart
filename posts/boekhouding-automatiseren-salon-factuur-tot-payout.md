@@ -5,7 +5,7 @@ date: "2026-11-12"
 excerpt: "Boekhouding automatiseren in je salon: de 6 schakels van factuur tot payout, een rekenvoorbeeld met 1 week omzet en de btw per behandeling goed ingesteld."
 image: "/images/blog/boekhouding-automatiseren-salon-factuur-tot-payout.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Boekhouding", "Btw", "Payouts"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 

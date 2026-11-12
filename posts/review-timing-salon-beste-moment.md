@@ -5,7 +5,7 @@ date: "2026-06-21"
 excerpt: "Wanneer vraag je als salon om een review? Ontdek het beste moment na de behandeling en hoe je het verzoek automatisch op precies dat moment laat versturen."
 image: "/images/blog/review-timing-salon-beste-moment.jpg"
 authorSlug: tim-van-der-lee
-tags: ["Reviews", "Google reviews", "Salonmarketing"]
+tags: ["Reviews", "Marketing"]
 cluster: reviews
 ---
 

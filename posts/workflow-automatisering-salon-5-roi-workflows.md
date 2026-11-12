@@ -6,7 +6,7 @@ date: "2026-07-13"
 excerpt: "Welke workflow automatisering levert je salon het meest op? De 5 workflows met de hoogste ROI op een rij, met rekenvoorbeelden en een startplan."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/workflow-automatisering-salon-5-roi-workflows.jpg"
-tags: ["Automatisering", "Workflows", "Salon"]
+tags: ["Automatisering", "ROI"]
 cluster: "automatisering"
 ---
 

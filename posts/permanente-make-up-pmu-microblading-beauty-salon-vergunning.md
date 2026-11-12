@@ -5,7 +5,7 @@ date: "2026-05-09"
 excerpt: "Hoe je permanente make-up (PMU) toevoegt als beauty salon: SBI-vergunning, microblading + eyeliner + lippen, premium-pricing €395-€695."
 image: "/images/blog/permanente-make-up-pmu-microblading-beauty-salon-vergunning.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Specialisatie", "PMU", "Microblading"]
+tags: ["Specialisatie", "Branding"]
 cluster: branding
 ---
 

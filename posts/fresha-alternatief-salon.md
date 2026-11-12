@@ -4,7 +4,7 @@ excerpt: "Vergelijk Fresha met SalonSmart en ontdek waarom Nederlandse salons ki
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fresha-alternatief-salon.jpg"
-tags: ["Vergelijking", "Software", "Groei"]
+tags: ["Vergelijking", "Software"]
 cluster: automatisering
 ---
 ## Wat is Fresha en waarom kiezen salons ervoor?

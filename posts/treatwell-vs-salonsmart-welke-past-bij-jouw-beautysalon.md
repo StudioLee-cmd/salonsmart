@@ -4,7 +4,7 @@ excerpt: "Treatwell is populair voor boekingen, maar is het genoeg? Vergelijk Tr
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/treatwell-vs-salonsmart-welke-past-bij-jouw-beautysalon.png"
-tags: ["Tools", "Vergelijking", "Beauty Salons"]
+tags: ["Vergelijking"]
 cluster: automatisering
 ---
 

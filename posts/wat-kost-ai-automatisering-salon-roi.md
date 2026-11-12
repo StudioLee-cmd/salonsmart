@@ -5,7 +5,7 @@ date: "2026-05-29"
 excerpt: "Wat kost AI-automatisering voor een salon? We maken de ROI-rekensom met jouw eigen behandelprijs en agenda, en tonen wanneer het zich terugverdient."
 image: "/images/blog/wat-kost-ai-automatisering-salon-roi.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["AI-kosten", "ROI", "Tarieven"]
+tags: ["ROI", "AI", "Automatisering"]
 cluster: automatisering
 ---
 

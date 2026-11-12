@@ -5,7 +5,7 @@ excerpt: "Je salon is dicht, maar de vraag naar afspraken komt in de avond en he
 date: "2026-07-16"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/salon-24-7-bereikbaar-avondboekingen-opvangen.jpg"
-tags: ["Voice AI", "Bereikbaarheid", "Boekingen"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

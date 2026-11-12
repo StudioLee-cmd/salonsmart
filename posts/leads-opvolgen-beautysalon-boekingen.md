@@ -5,7 +5,7 @@ date: "2026-04-03"
 cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-beautysalon-boekingen.jpg"
-tags: ["Leads", "Lead opvolging", "Beautysalon", "Boekingen"]
+tags: ["Leads", "Lead opvolging"]
 ---
 ## Het lek in je boekingsfunnel
 

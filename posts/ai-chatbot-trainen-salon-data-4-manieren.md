@@ -5,7 +5,7 @@ date: "2026-07-22"
 excerpt: "Een chatbot is zo goed als de informatie erin. Vier manieren om je salon-data te laden, met per route eerlijk wat het kost aan werk en onderhoud."
 image: "/images/blog/ai-chatbot-trainen-salon-data-4-manieren.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["AI chatbot", "Salon", "Automatisering"]
+tags: ["Chatbot", "Automatisering"]
 cluster: "chatbot"
 ---
 

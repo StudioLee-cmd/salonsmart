@@ -5,7 +5,7 @@ excerpt: "Geen dansjes op TikTok. Gewoon je vakmanschap tonen. Met onze AI bouw 
 date: "2026-01-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-voor-salons.png"
-tags: ["Social Media", "Branding", "Automatisering"]
+tags: ["Social Media", "Branding"]
 cluster: social-media
 ---
 Ik hoor het je denken: "[Social Media](/social-media)? Daar heb ik toch geen tijd voor? Ik ben specialist, geen influencer!" En je hebt gelijk.

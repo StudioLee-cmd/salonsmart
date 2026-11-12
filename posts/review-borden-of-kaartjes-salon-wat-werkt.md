@@ -5,7 +5,7 @@ date: "2026-07-08"
 cluster: reviews
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-borden-of-kaartjes-salon-wat-werkt.jpg"
-tags: ["Reviews", "Salon", "Google reviews"]
+tags: ["Reviews"]
 ---
 Je klant stapt tevreden op van de behandelstoel. Haar wimpers zitten perfect, ze voelt zich mooi. Dit is het moment waarop ze het liefst iets aardigs over je salon zegt. De vraag is alleen: hoe zorg je dat die goede bui op Google terechtkomt en niet verdampt zodra ze de deur uit loopt?
 

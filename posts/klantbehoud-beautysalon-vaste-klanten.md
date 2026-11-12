@@ -7,7 +7,7 @@ excerpt: "Een vaste klant is vijf keer meer waard dan een nieuwe. Ontdek hoe je 
 image: "/images/blog/klantbehoud-beautysalon-vaste-klanten.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["klantbehoud", "beautysalon", "loyaliteit"]
+tags: ["Klantbehoud"]
 cluster: automatisering
 ---
 

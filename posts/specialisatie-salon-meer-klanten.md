@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: branding
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialisatie-salon-meer-klanten.jpg"
-tags: ["Specialisatie", "Salon", "Strategie"]
+tags: ["Specialisatie", "Strategie"]
 ---
 ## De salon die alles doet, en nergens in uitblinkt
 

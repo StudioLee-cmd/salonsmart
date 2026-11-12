@@ -5,7 +5,7 @@ date: "2026-04-07"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schoonheidssalon-vindbaar-google-tips.jpg"
-tags: ["SEO", "Vindbaarheid", "Schoonheidssalon"]
+tags: ["Vindbaarheid"]
 ---
 ## Waarom online vindbaarheid voor schoonheidssalons alles verandert
 

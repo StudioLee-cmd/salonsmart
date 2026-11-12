@@ -4,7 +4,7 @@ excerpt: "Beautysalons verliezen elke twee jaar gemiddeld 40% van hun behandelaa
 date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/personeel-behouden-salon-verloop-voorkomen.jpg"
-tags: ["Personeel", "Retentie", "Salon Management"]
+tags: ["Personeel", "Klantbehoud"]
 cluster: branding
 ---
 ## In het kort

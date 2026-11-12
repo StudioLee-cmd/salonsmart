@@ -5,7 +5,7 @@ date: "2026-07-20"
 cluster: reviews
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-beantwoorden-salon-ai-templates.jpg"
-tags: ["Reviews", "Salon", "Google reviews"]
+tags: ["Reviews"]
 ---
 
 Open je Google Bedrijfsprofiel en scroll eens langs je reviews. Niet naar het cijfer bovenaan, maar naar de witruimte eronder. Bij de meeste salons staat onder het merendeel van de reviews precies niets.

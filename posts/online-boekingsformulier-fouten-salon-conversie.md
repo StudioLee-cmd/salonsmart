@@ -6,7 +6,7 @@ date: "2026-04-25"
 cluster: website
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-boekingsformulier-fouten-salon-conversie.jpg"
-tags: ["Salon", "Online boeken", "Conversie", "Klantbeleving"]
+tags: ["Boekingen", "Conversie"]
 ---
 Je salon-website krijgt deze maand 800 bezoekers, daarvan klikken er 320 op "Afspraak boeken" — en daarvan voltooien er 95 daadwerkelijk de boeking. Klinkt redelijk? Tot je beseft dat 225 mensen die actief op je boek-knop hebben geklikt vervolgens halverwege het formulier zijn afgehaakt. Die afhakers zijn warme leads die jouw concurrent vannacht alsnog gaat boeken — niet omdat hij betere behandelingen heeft, maar omdat zijn boekingsformulier niet lekt waar dat van jou wel lekt.
 

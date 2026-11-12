@@ -5,7 +5,7 @@ date: "2026-05-27"
 excerpt: "Een tevreden salonklant brengt gemiddeld 0 vriendinnen mee, een geactiveerde brengt er 3. Zo zet je de vriendinnen-kettingreactie systematisch in je salon."
 image: "/images/blog/buurtwerk-activeren-als-salon-3-boekingen-per-klant.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Buurtmarketing", "Lead-opvolging", "Instagram"]
+tags: ["Lead opvolging", "Instagram"]
 cluster: automatisering
 ---
 

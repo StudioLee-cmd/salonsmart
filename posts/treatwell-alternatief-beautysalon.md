@@ -4,7 +4,7 @@ excerpt: "Ontdek waarom beautysalons in 2026 overstappen van Treatwell naar een 
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/treatwell-alternatief-beautysalon.jpg"
-tags: ["Vergelijking", "Software", "Groei"]
+tags: ["Vergelijking", "Software"]
 cluster: automatisering
 ---
 ## Waarom beautysalons Treatwell verlaten

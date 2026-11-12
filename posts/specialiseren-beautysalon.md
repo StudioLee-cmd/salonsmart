@@ -4,7 +4,7 @@ excerpt: "Specialisatie maakt je salon onmisbaar. Ontdek hoe je als beautysalon 
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-beautysalon.png"
-tags: ["specialisatie", "beautysalon", "groei"]
+tags: ["Specialisatie", "Groei"]
 cluster: branding
 ---
 

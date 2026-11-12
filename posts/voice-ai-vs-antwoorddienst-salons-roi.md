@@ -5,7 +5,7 @@ date: "2026-05-27"
 excerpt: "Een antwoorddienst kost €25–€32 per maand plus per-gesprek-tarief. Voice AI heeft een vaste prijs. Welke is goedkoper voor jouw salon-belvolume?"
 image: "/images/blog/voice-ai-vs-antwoorddienst-salons-roi.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "ROI", "Bereikbaarheid", "Salon Operations"]
+tags: ["Voice AI", "ROI", "Salonbeheer"]
 cluster: "voice-ai"
 ---
 

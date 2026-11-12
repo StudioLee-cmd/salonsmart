@@ -5,7 +5,7 @@ date: "2026-07-28"
 excerpt: "Salonsoftware belooft vier tot acht uur per week. Dit is waar die uren echt zitten, hoe je ze in jouw eigen salon meet en wat je beter niet automatiseert."
 image: "/images/blog/salonautomatisering-uren-per-week-terugwinnen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Salonbeheer", "Tijdwinst"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 

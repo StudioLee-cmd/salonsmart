@@ -5,7 +5,7 @@ date: "2026-04-03"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-seo-beautysalon-meer-klanten.jpg"
-tags: ["Lokale SEO", "Vindbaarheid", "Beautysalon", "Google"]
+tags: ["Lokale SEO", "Vindbaarheid"]
 ---
 ## Waarom lokale vindbaarheid alles bepaalt voor salons
 

@@ -5,7 +5,7 @@ date: "2026-07-06"
 excerpt: "Treatwell, Salonized of een eigen systeem voor je salon? Drie beslismomenten bepalen de keuze, met een eerlijke rekensom van commissie en abonnement."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/treatwell-salonized-eigen-systeem-3-beslismomenten.jpg"
-tags: ["Software", "Boekingen", "Automatisering"]
+tags: ["Software", "Boekingen"]
 cluster: "automatisering"
 ---
 

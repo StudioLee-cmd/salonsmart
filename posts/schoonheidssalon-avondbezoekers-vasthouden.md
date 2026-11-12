@@ -5,7 +5,7 @@ excerpt: "70 procent van de boekings-intentie bij schoonheidssalons ontstaat 's 
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schoonheidssalon-avondbezoekers-vasthouden.jpg"
-tags: ["Boekingen", "Conversie", "Salon"]
+tags: ["Boekingen", "Conversie"]
 cluster: website
 ---
 Als je de website-analytics van een gemiddelde Nederlandse schoonheidssalon of nagelstudio over een maand bekijkt, zie je een opvallende piek rond 20:00 tot 22:30. In dat tijdvenster komen 60 tot 75 procent van alle boekings-geïnteresseerde bezoekers binnen. Dat is logisch: ze zijn thuis, de kinderen slapen, ze hebben tijd om rustig naar behandelingen en tarieven te kijken en te vergelijken tussen salons. Maar dat is ook precies het tijdvenster waarin jouw salon dicht is en niemand van jouw team antwoord kan geven op vragen die ze tegenkomen. Resultaat: een enorme afhaakpercentage juist in het kritieke beslissingsmoment.

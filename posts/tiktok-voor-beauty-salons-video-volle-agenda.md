@@ -5,7 +5,7 @@ excerpt: "Views zijn geen boekingen. Zo verander je TikTok in een systeem dat ki
 date: "2026-07-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/tiktok-voor-beauty-salons-video-volle-agenda.jpg"
-tags: ["Social Media", "TikTok", "Marketing", "Salon"]
+tags: ["Social Media", "Marketing"]
 cluster: "social-media"
 ---
 

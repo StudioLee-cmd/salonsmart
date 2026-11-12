@@ -5,7 +5,7 @@ excerpt: "Je online reputatie bepaalt of nieuwe klanten jouw salon kiezen. Leer 
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-beautysalon.png"
-tags: ["online reputatie", "beautysalon", "reviews"]
+tags: ["Reviews"]
 cluster: reviews
 ---
 "Ken je een goede beautysalon?" Die vraag wordt steeds vaker beantwoord via Google in plaats van via vriendinnen. Klanten googelen, vergelijken sterren en lezen reviews. Jouw online reputatie is het eerste filter.

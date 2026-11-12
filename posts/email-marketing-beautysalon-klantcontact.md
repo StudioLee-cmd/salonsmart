@@ -4,7 +4,7 @@ excerpt: "Leer hoe je als beautysalon met slimme e-mails klanten behoudt, herhal
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/email-marketing-beautysalon-klantcontact.png"
-tags: ["E-mail", "Marketing", "Klantbehoud"]
+tags: ["E-mail", "Marketing"]
 cluster: automatisering
 ---
 

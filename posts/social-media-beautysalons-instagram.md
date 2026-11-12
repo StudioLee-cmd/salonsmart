@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe beautysalons social media inzetten om meer klanten te berei
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-beautysalons-instagram.png"
-tags: ["Social Media", "Marketing", "Groei"]
+tags: ["Social Media", "Marketing"]
 cluster: "social-media"
 ---
 ## Waarom social media onmisbaar is voor beautysalons

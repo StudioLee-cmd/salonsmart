@@ -4,7 +4,7 @@ excerpt: "Een robot doet je nagels in 60 seconden? 1 april! Maar no-shows kosten
 date: "2026-04-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/robot-doet-nagels-sneller.jpg"
-tags: ["1 April", "No-Shows", "Planning"]
+tags: ["No-shows", "Planning"]
 cluster: automatisering
 ---
 ## De robot-nagelstyliste die nooit te laat komt

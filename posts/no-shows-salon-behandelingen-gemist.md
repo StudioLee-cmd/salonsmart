@@ -5,7 +5,7 @@ date: "2026-04-17"
 cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-salon-behandelingen-gemist.jpg"
-tags: ["No-shows", "Salon", "Omzet"]
+tags: ["No-shows", "Omzet"]
 ---
 ## De stille omzetkiller
 

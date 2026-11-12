@@ -5,7 +5,7 @@ date: "2026-04-18"
 cluster: "social-media"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/instagram-beauty-salon-meer-klanten.jpg"
-tags: ["Social Media", "Instagram", "Klanten"]
+tags: ["Social Media", "Instagram"]
 ---
 ## Waarom Instagram essentieel is voor beauty salons
 

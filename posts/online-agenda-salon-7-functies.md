@@ -5,7 +5,7 @@ excerpt: "Een online agenda scheelt je salon no-shows, telefoontjes en dubbele b
 date: "2026-07-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-agenda-salon-7-functies.jpg"
-tags: ["Online Agenda", "Boekingen", "No-shows", "Salon"]
+tags: ["Boekingen", "No-shows", "Website"]
 cluster: "website"
 ---
 

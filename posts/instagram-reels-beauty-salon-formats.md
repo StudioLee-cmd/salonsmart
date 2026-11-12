@@ -5,7 +5,7 @@ excerpt: "Veel views, weinig boekingen? Ontdek de 5 Reel-formats die je salonage
 date: "2026-07-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/instagram-reels-beauty-salon-formats.jpg"
-tags: ["Instagram Reels", "Social Media", "Content", "Salon"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

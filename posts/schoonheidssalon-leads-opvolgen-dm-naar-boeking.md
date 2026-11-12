@@ -5,7 +5,7 @@ date: "2026-04-08"
 cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schoonheidssalon-leads-opvolgen-dm-naar-boeking.jpg"
-tags: ["Lead opvolging", "Schoonheidssalon", "Instagram"]
+tags: ["Lead opvolging", "Instagram"]
 ---
 ## Waarom DM's je belangrijkste verkoopkanaal zijn
 

@@ -6,7 +6,7 @@ excerpt: "De meeste salonwebsites zien er mooi uit maar genereren nauwelijks boe
 image: "/images/blog/salonwebsite-boekingsmachine.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["website", "beautysalon", "conversie"]
+tags: ["Website", "Conversie"]
 cluster: website
 ---
 

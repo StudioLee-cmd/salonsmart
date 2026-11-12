@@ -5,7 +5,7 @@ date: "2026-07-09"
 excerpt: "Avondaanvragen in je salon lekken weg naar de concurrent. Zo vangt een WhatsApp chatbot ze automatisch op en zet berichten om in een afspraak."
 image: "/images/blog/whatsapp-chatbot-salon-avondaanvragen-opvangen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "WhatsApp", "Automatisering", "Salon"]
+tags: ["Chatbot", "WhatsApp"]
 cluster: "chatbot"
 ---
 

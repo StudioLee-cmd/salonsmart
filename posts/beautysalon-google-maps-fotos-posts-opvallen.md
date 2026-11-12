@@ -6,7 +6,7 @@ date: "2026-04-10"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beautysalon-google-maps-fotos-posts-opvallen.jpg"
-tags: ["Vindbaarheid", "Salon", "Google Maps"]
+tags: ["Vindbaarheid", "Google"]
 ---
 ## Eerste indruk: je Google-profiel is je etalage
 

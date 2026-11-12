@@ -6,7 +6,7 @@ date: "2026-04-17"
 cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-salon-meer-boekingen.jpg"
-tags: ["Leads", "Boekingen", "Salon"]
+tags: ["Leads", "Boekingen"]
 ---
 ## Elke vraag is een potentiele boeking
 

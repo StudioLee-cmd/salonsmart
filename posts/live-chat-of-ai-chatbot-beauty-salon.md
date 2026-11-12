@@ -5,7 +5,7 @@ date: "2026-06-08"
 excerpt: "Een live chat moet je zelf bemannen, een AI chatbot vangt salonaanvragen 24/7 op. Welke past bij jouw salon, en bij welk volume kantelt de keuze?"
 image: "/images/blog/live-chat-of-ai-chatbot-beauty-salon.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["AI Chatbot", "Website", "Bereikbaarheid", "Salon Operations"]
+tags: ["Chatbot", "Website"]
 cluster: chatbot
 ---
 

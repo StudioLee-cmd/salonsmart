@@ -5,7 +5,7 @@ date: "2026-04-22"
 cluster: "social-media"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beauty-salon-instagram-content-post-formats-boekingen.jpg"
-tags: ["Salon", "Instagram", "Social Media", "Content"]
+tags: ["Instagram", "Social Media"]
 ---
 De meeste schoonheidssalons gooien zonder nadenken content op Instagram: een foto van vandaag gemaakte nagels, een selfie met klant, een paar voor/na shots. Het gevolg is voorspelbaar: followers blijven stabiel, likes schommelen, directe boekingen uit social media blijven minimaal. Instagram voelt als verplichting die niks oplevert.
 

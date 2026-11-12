@@ -5,7 +5,7 @@ date: "2026-04-14"
 cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/upselling-salon-meer-verdienen-per-klant.jpg"
-tags: ["Upselling", "Salon Tips", "Omzet"]
+tags: ["Upselling", "Omzet"]
 ---
 ## Elke klant kan meer waard zijn
 

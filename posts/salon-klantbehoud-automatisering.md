@@ -6,7 +6,7 @@ date: "2026-04-06"
 cluster: automatisering
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/salon-klantbehoud-automatisering.jpg"
-tags: ["Klantbehoud", "Salon", "Automatisering"]
+tags: ["Klantbehoud"]
 ---
 ## Het verschil tussen een volle en een halfvolle agenda
 

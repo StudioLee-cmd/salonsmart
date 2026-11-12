@@ -5,7 +5,7 @@ date: "2026-04-16"
 cluster: website
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/portfolio-beautysalon-opbouwen-klanten.jpg"
-tags: ["Beautysalon", "Portfolio", "Marketing"]
+tags: ["Marketing", "Website"]
 ---
 ## Waarom een portfolio jouw stilste verkoper is
 

@@ -4,7 +4,7 @@ excerpt: "Beauty salons draaien op vertrouwen en sfeer — maar die eerste indru
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-een-beauty-salon-meer-klanten-krijgt-via-google.png"
-tags: ["Vindbaarheid", "Google", "Beauty", "Salon"]
+tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
 ## Je salon begint online — ook al werk je met je handen

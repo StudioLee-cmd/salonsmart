@@ -5,7 +5,7 @@ excerpt: "Professionele klantcommunicatie verhoogt retentie en verlaagt no-shows
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantcommunicatie-beautysalon.png"
-tags: ["klantcommunicatie", "beautysalon", "klanttevredenheid"]
+tags: ["Klantcontact"]
 cluster: automatisering
 ---
 
