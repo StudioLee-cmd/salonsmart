@@ -4,10 +4,10 @@ import TarievenContent from "./TarievenContent";
 
 export const metadata: Metadata = {
   title: `Tarieven: prijzen en pakketten | ${siteDetails.siteName}`,
-  description: `Tarieven ${siteDetails.siteName}: het website-ontwerp is gratis en het bestand is van jou. Laten draaien voor €79 per maand.`,
+  description: `Tarieven ${siteDetails.siteName}: het website-ontwerp is gratis en het bestand is van jou. Laten draaien vanaf €79 per maand.`,
   openGraph: {
     title: `Tarieven | ${siteDetails.siteName}`,
-    description: `Het ontwerp is gratis en het bestand is van jou. Laten draaien voor €79 per maand.`,
+    description: `Het ontwerp is gratis en het bestand is van jou. Laten draaien vanaf €79 per maand.`,
     url: `${siteDetails.siteUrl}tarieven`,
     type: "website",
     locale: "nl_NL",
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: `Tarieven | ${siteDetails.siteName}`,
-    description: `Het ontwerp is gratis en het bestand is van jou. Laten draaien voor €79 per maand.`,
+    description: `Het ontwerp is gratis en het bestand is van jou. Laten draaien vanaf €79 per maand.`,
     images: [`${siteDetails.siteUrl}images/og-image.jpg`],
   },
   alternates: { canonical: `${siteDetails.siteUrl}tarieven` },
