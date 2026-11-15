@@ -70,4 +70,4 @@ Wat je terugkrijgt is drieledig: minder gemiste aanvragen omdat elke app een ant
 
 De avondaanvraag is het makkelijkste geld dat je nu laat liggen: de klant wilde al bij jou boeken, ze wachtte alleen op antwoord. Een afwezigheidsbericht geeft dat antwoord niet, een WhatsApp chatbot wel. Zet die stap en je vult je agenda met boekingen die anders bij de concurrent waren geland.
 
-Wil je weten hoeveel aanvragen jouw salon nu misloopt en wat een chatbot daaraan zou veranderen? Vraag een [gratis ai scan voor salons](/gratis-scan) aan, dan zie je zwart-op-wit waar je klanten weglekken. En omdat wij in resultaat geloven en niet in loze beloftes, werken we met een Groei-of-Geld-Terug Garantie. Jij verwent je klanten, wij regelen de rest.
+Wil je weten hoeveel aanvragen jouw salon nu misloopt en wat een chatbot daaraan zou veranderen? Vraag een [gratis ai scan voor salons](/gratis-scan) aan, dan zie je zwart-op-wit waar je klanten weglekken. Jij verwent je klanten, wij regelen de rest.

@@ -88,6 +88,6 @@ Voor de [tarieven van een AI-platform voor salons](/tarieven) dat de 6-sessie-fl
 
 Acne-behandeling als gestructureerd 6-sessie-traject levert beauty salons een loyaal jongeren-segment + ouder-budget. Begin met chemische peelings (lage drempel), schaal naar microneedling + LED in maand 4-6.
 
-Bij SalonSmart helpen we beauty salons met de software-laag (6-sessie traject-flow, thuis-routine-coaching, foto-portfolio). We werken met een **Groei-of-Geld-Terug Garantie**, als je binnen 6 maanden geen toename in acne-trajecten ziet, krijg je je investering terug. Plan een [gratis ai scan voor salons](/gratis-scan) of bekijk de [tarieven](/tarieven).
+Bij SalonSmart helpen we beauty salons met de software-laag (6-sessie traject-flow, thuis-routine-coaching, foto-portfolio). Plan een [gratis ai scan voor salons](/gratis-scan) of bekijk de [tarieven](/tarieven).
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/wenkbrauwen-wimpers-lift-extensions-microblading-beauty-salon-specialisme" class="text-dark fw-semibold">Wenkbrauwen + wimpers als beauty-segment salon</a> →</p></div></div></div>

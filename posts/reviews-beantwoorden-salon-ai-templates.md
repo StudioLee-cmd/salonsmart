@@ -110,6 +110,6 @@ En zorg dat er ook iets is om op te reageren. Reageren werkt alleen als er instr
 
 Terug naar die witruimte onder je reviews. Die vul je niet door meer tijd te vinden, want die is er niet. Je vult hem door te stoppen met elke reactie als een los schrijfklusje te zien. Maak er een systeem van: vier bouwstenen, je eigen toon vastgelegd, de discretieregel bewaakt, en een vast moment in de week.
 
-Wil je weten hoe je reviewprofiel er nu voor staat en hoeveel reacties er open staan? Vraag een [gratis ai scan voor salons](/gratis-scan) aan, dan kijken we mee naar je profiel en je instroom. Met de Groei-of-Geld-Terug Garantie van SalonSmart loop je daarbij geen enkel risico. Jij verwent je klanten, wij regelen de rest.
+Wil je weten hoe je reviewprofiel er nu voor staat en hoeveel reacties er open staan? Vraag een [gratis ai scan voor salons](/gratis-scan) aan, dan kijken we mee naar je profiel en je instroom. Jij verwent je klanten, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-borden-of-kaartjes-salon-wat-werkt" class="text-dark fw-semibold">Review-borden of kaartjes in je salon: wat werkt beter?</a> →</p></div></div></div>

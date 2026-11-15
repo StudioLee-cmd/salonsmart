@@ -137,4 +137,4 @@ Voor salons die hier wél in passen: dit is een van de stabielere wellness-niche
 
 Pedicure en voet-spa is geen sexy specialisme, maar wel een van de slimste tweede pijlers voor een schoonheidssalon. Met de juiste doelgroep-keuze (senioren als basis, sport en medisch als upsell), een aparte branding en een degelijk klantbehoud-systeem, bouw je in zes tot twaalf maanden een rooster op dat blijft draaien als de rest van de salon stagneert. De fouten zitten in halfslachtige uitvoering, verkeerde apparatuur en gebrek aan aparte marketing — niet in de beslissing zelf.
 
-Wil je weten of jouw werkgebied genoeg vraag heeft om dit serieus aan te pakken? Vraag onze [gratis ai scan voor salons](/gratis-scan) aan, dan kijken we mee. Met onze **Groei-of-Geld-Terug Garantie** loop je geen risico.
+Wil je weten of jouw werkgebied genoeg vraag heeft om dit serieus aan te pakken? Vraag onze [gratis ai scan voor salons](/gratis-scan) aan, dan kijken we mee.
