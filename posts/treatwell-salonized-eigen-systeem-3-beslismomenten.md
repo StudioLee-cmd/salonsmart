@@ -86,6 +86,6 @@ Als je salon net start en je nog geen enkele klantstroom hebt, is bereik je groo
 
 Terug naar die tien salon-eigenaren uit het begin: het juiste antwoord verschilt per salon, maar de volgorde van denken is altijd hetzelfde. Eerst kijken waar je klanten vandaan komen, dan hoeveel administratie je wilt automatiseren, en pas daarna naar het prijskaartje per boeking rekenen. Een marketplace is marketingkosten, een abonnement is gereedschap, en een eigen systeem is een medewerker die nooit ziek is.
 
-Wil je weten wat dat voor jouw salon betekent? Vraag de gratis scan aan, dan zie je binnen een paar dagen waar jouw boekingen nu vandaan komen en welke flows je laat liggen. Bij SalonSmart werken we met een Groei-of-Geld-Terug Garantie, dus je weet zeker dat je investering rendement oplevert. Jij verwent je klanten, wij regelen de rest.
+Wil je weten wat dat voor jouw salon betekent? Vraag de gratis scan aan, dan zie je binnen een paar dagen waar jouw boekingen nu vandaan komen en welke flows je laat liggen. Jij verwent je klanten, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/crm-implementatie-salon-5-dagen" class="text-dark fw-semibold">CRM-implementatie voor je salon: stappenplan in 5 dagen</a> →</p>

@@ -64,4 +64,4 @@ Dat is het verschil tussen een profiel met 15 reviews en een profiel met 50 revi
 
 Het geheim van reviews verzamelen is niet agressief vragen. Het is consequent vragen op het juiste moment. Twee berichten per klant, automatisch verstuurd, elke keer weer.
 
-Wil je weten hoeveel reviews je nu mist en hoe je het kunt verbeteren? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoeveel reviews je nu mist en hoe je het kunt verbeteren? Vraag een [gratis scan](/gratis-scan) aan.

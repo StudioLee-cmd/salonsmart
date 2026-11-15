@@ -109,4 +109,4 @@ Een nieuwsbrief gaat naar iedereen tegelijk met dezelfde boodschap. Segmentatie 
 
 Klantsegmentatie hoeft geen groot project te zijn. Het begint met vier simpele groepen, één werkende flow en een systeem dat je data en je opvolging samenbrengt. Vanaf daar bouw je rustig uit, terwijl je salon voller raakt en je vaste klanten zich echt gezien voelen.
 
-Benieuwd waar voor jouw salon de grootste winst zit? Doe de [gratis salon-scan](/gratis-scan) van SalonSmart en ontdek welke klantgroepen bij jou geld laten liggen. Alles wat we voor je inrichten valt onder onze Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons, niet bij jou. Jij verwent je klanten, wij regelen de rest.
+Benieuwd waar voor jouw salon de grootste winst zit? Doe de [gratis salon-scan](/gratis-scan) van SalonSmart en ontdek welke klantgroepen bij jou geld laten liggen. Jij verwent je klanten, wij regelen de rest.

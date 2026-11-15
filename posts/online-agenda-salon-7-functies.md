@@ -91,6 +91,6 @@ Wie op alle vier ja zegt, verkoopt je geen kalender maar een systeem. En dat is 
 
 Terug naar die dinsdagavond. Met een goede online agenda waren die drie DM's drie bevestigde afspraken geweest, geboekt zonder dat jij je telefoon had aangeraakt. De herinnering gaat vanzelf, de refill-uitnodiging staat al klaar en het review-verzoek volgt na afloop. Niet omdat jij harder werkt, maar omdat het systeem het saaie deel heeft overgenomen.
 
-Benieuwd waar jouw salon nu boekingen laat liggen? Doe de [gratis ai scan voor salons](/gratis-scan) en je ziet binnen een paar minuten welke van deze 7 functies jou het meeste opleveren. We werken met een Groei-of-Geld-Terug Garantie, dus je weet zeker dat je investering rendement oplevert. Jij verwent je klanten, wij regelen de rest.
+Benieuwd waar jouw salon nu boekingen laat liggen? Doe de [gratis ai scan voor salons](/gratis-scan) en je ziet binnen een paar minuten welke van deze 7 functies jou het meeste opleveren. Jij verwent je klanten, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/online-boekingsformulier-fouten-salon-conversie" class="text-dark fw-semibold">5 fouten in je online-boekingsformulier die je salon vandaag kan oplossen voor meer afspraken</a> →</p>

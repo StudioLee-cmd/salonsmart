@@ -56,8 +56,6 @@ Bij Fresha ben je zelf verantwoordelijk voor alles: instellen, configureren, bij
 
 15 minuten per maand. Dat is alles wat we vragen. De rest regelen wij.
 
-En met onze Groei-of-Geld-Terug Garantie is er geen risico.
-
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/treatwell-alternatief-beautysalon" class="text-dark fw-semibold">Treatwell alternatief voor beautysalons in 2026</a> →</p></div></div></div>
 
 ## Direct overstappen

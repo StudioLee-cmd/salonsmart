@@ -49,20 +49,3 @@ SalonSmart is niet zomaar een boekingssysteem. Het vervangt Treatwell, je market
 Dit is waar het verschil écht zit. Treatwell is een platform waar je zelf alles moet doen. SalonSmart biedt managed service: wij regelen je complete online aanwezigheid. Vindbaarheid, social media, reviews, herinneringen, blog — alles.
 
 Jouw bijdrage: 15 minuten per maand. De rest doen wij. Dat is geen software — dat is een compleet marketingteam voor een fractie van wat een traditioneel bureau kost.
-
-## Groei-of-Geld-Terug Garantie
-
-Onze garantie geldt vanaf Managed Groei Pro. Word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Je zit nergens aan vast: maandelijks opzegbaar.
-
-- **Nulmeting vóór de eerste werkdag.** We leggen vast waar je staat, zichtbaar in je dashboard. Daar meten we achteraf tegen, zodat je startpunt niet ter discussie staat.
-- **SEO:** geen groei in je zichtbaarheid in Ahrefs? Geld terug.
-- **Video en advertenties:** geen groei in views? Geld terug.
-- **Wat er buiten valt:** klikken, aanvragen en omzet. Die hangen aan je eigen aanbod en je prijzen.
-
-Word je wel beter zichtbaar maar belt er niemand, dan kijken we samen naar je aanbod.
-
-En bedenk: de meeste salonhouders betalen nu al voor 5 of 6 losse tools — een boekingssysteem, een social media tool, een e-mailsysteem, misschien een SEO-specialist. Bij SalonSmart zit alles in één pakket, vaak voor minder dan wat je nu kwijt bent aan al die losse abonnementen.
-
-Dat maakt de overstap niet alleen beter — het maakt het ook goedkoper. Je krijgt meer voor minder, met een garantie erbij.
-
-Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek wat SalonSmart voor jouw beautysalon kan betekenen.

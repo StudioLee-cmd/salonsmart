@@ -70,4 +70,4 @@ Dat is pure omzet die je anders kwijt was. Geen extra marketingkosten, geen kort
 
 De volgende keer dat je agenda vol zit en een klant niet terecht kan: vraag of diegene op de wachtlijst wil. Noteer het. De eerste keer dat er iemand afzegt, stuur je het bericht. Zo simpel is het.
 
-Wil je weten hoe je je hele salonplanning kunt optimaliseren? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je salon, je planning en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je je hele salonplanning kunt optimaliseren? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je salon, je planning en concrete verbeterpunten.

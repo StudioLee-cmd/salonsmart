@@ -140,6 +140,6 @@ Bruidspakketten zijn voor de meeste Nederlandse beautysalons de snelste route na
 
 Wie deze stappen in deze volgorde aanpakt, heeft binnen 6-12 maanden een nieuwe omzettak die maandelijks 3.000-9.000 euro extra binnenbrengt. Wie het andersom doet (eerst marketing, geen pakketten, geen contracten), zit met onzekere klanten en moeilijke gesprekken.
 
-Wil je weten wat de eerste stap voor jouw salon zou zijn? Plan een [gratis ai-scan](/gratis-scan) en we kijken samen naar je portfolio, je website en je prijsstrategie. We werken met de Groei-of-Geld-Terug Garantie, dus je weet vooraf wat je investering oplevert.
+Wil je weten wat de eerste stap voor jouw salon zou zijn? Plan een [gratis ai-scan](/gratis-scan) en we kijken samen naar je portfolio, je website en je prijsstrategie.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/specialiseren-beautysalon" class="text-dark fw-semibold">Specialiseren als beautysalon: hoe je je onderscheidt</a> →</p></div></div></div>

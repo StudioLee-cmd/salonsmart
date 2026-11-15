@@ -82,6 +82,6 @@ Juist dan. Een kleine salon die elke tevreden klant op het juiste moment vraagt,
 
 Je doet prachtig werk. Zorg dat je sterren dat ook laten zien. Wil je weten hoeveel reviews je nu laat liggen door de verkeerde timing? Doe de gratis [AI-scan voor salons](/gratis-scan) en zie precies waar je reputatie groei laat liggen.
 
-Met de Groei-of-Geld-Terug Garantie van SalonSmart zetten we de automatische review-flow voor je op, getimed op het moment dat jouw klanten op hun gelukkigst zijn. Jij verwent je klanten, wij regelen de rest.
+Jij verwent je klanten, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-reminders-salon-hoeveel-berichten" class="text-dark fw-semibold">Review reminders: hoeveel berichten stuur je als salon?</a> →</p></div></div></div>
