@@ -100,4 +100,4 @@ Wat er precies veranderd is staat in [Google Q&A salon: de sectie is weg, wat nu
 
 Je Google Bedrijfsprofiel is het eerste wat potentiële klanten zien. Een volledig profiel met prachtige foto's, sterke reviews en regelmatige updates maakt van je salon de eerste keuze in je buurt. Begin vandaag: upload foto's van je beste werk, vraag je volgende klant om een review, en schrijf je eerste Google Post.
 
-Wil je hulp bij het versterken van je online zichtbaarheid? Bekijk wat [SalonSmart](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).
+Wil je hulp bij het versterken van je online zichtbaarheid? Bekijk wat [SalonSmart](/) voor je kan betekenen of [plan een gratis gesprek](/demo).

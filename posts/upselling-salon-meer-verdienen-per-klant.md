@@ -54,4 +54,4 @@ Upselling werkt alleen als het relevant is. Een haarmasker aanbieden aan iemand 
 
 Begin niet met targets of scripts. Begin met bewustwording. Bespreek welke combinaties werken en deel successen. Upselling wordt krachtig als het team het als service ziet.
 
-Wil je weten hoe jouw salon online sterker kan staan? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw salon online sterker kan staan? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.

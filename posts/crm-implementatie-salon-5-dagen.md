@@ -107,6 +107,6 @@ Dat hangt af van wat je nodig hebt en of je losse tools kiest of een systeem dat
 
 Een CRM-implementatie in je salon is geen technisch project van maanden, maar vijf gerichte werkdagen: opschonen, kiezen en importeren, slim inrichten, automatiseren en je team meenemen. De software is niet het punt. Het punt is dat je nooit meer een klant kwijtraakt omdat je vergat haar op het juiste moment uit te nodigen.
 
-Wil je weten hoe goed je klantbeheer er nu voor staat en waar je omzet laat liggen? Doe de [gratis ai scan voor salons](/gratis-scan) en je krijgt concrete punten waarmee je direct verder kunt. We werken met een Groei-of-Geld-Terug Garantie, dus je weet zeker dat je investering rendement oplevert. Jij verwent je klanten, wij regelen de rest.
+Wil je weten hoe goed je klantbeheer er nu voor staat en waar je omzet laat liggen? Doe de [gratis ai scan voor salons](/gratis-scan) en je krijgt concrete punten waarmee je direct verder kunt. Jij verwent je klanten, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/welkom-mailflow-nieuwe-salonklanten" class="text-dark fw-semibold">Welkom-mailflow voor nieuwe salonklanten in 4 mails</a> →</p>

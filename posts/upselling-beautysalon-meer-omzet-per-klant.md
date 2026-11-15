@@ -91,7 +91,7 @@ Tips:
 
 Upselling is geen trucje — het is service. Als je het goed doet, voeg je waarde toe aan de ervaring van je klant en verhoog je tegelijkertijd je omzet. De sleutel is relevantie, timing en oprechtheid.
 
-Met [SalonSmart](/) automatiseren we je follow-up berichten en productaanbevelingen. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [SalonSmart](/) automatiseren we je follow-up berichten en productaanbevelingen. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je je gemiddelde bon verhoogt.
 
