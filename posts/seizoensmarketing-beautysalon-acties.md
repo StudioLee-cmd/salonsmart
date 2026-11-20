@@ -13,11 +13,11 @@ cluster: social-media
 
 ## Waarom seizoensmarketing werkt voor beautysalons
 
-De beautysector draait op trends en seizoenen. Bruinende behandelingen in de zomer, huidverzorging in de winter, bruidsbehandelingen in het voorjaar, feestlooks in december. Deze patronen zijn voorspelbaar — en dat is je kans.
+De beautysector draait op trends en seizoenen. Bruinende behandelingen in de zomer, huidverzorging in de winter, bruidsbehandelingen in het voorjaar, feestlooks in december. Deze patronen zijn voorspelbaar, en dat is je kans.
 
 De salons die het beste presteren, plannen hun marketing rond seizoenen. Ze weten welke behandelingen wanneer populair zijn, wanneer klanten extra aandacht nodig hebben en welke acties op welk moment het beste werken.
 
-Het verschil met salons die het niet doen? Een stabielere omzet, minder rustige periodes en klanten die het hele jaar door terugkomen — niet alleen voor een knipbeurt, maar ook voor seizoensbehandelingen.
+Het verschil met salons die het niet doen? Een stabielere omzet, minder rustige periodes en klanten die het hele jaar door terugkomen, niet alleen voor een knipbeurt, maar ook voor seizoensbehandelingen.
 
 ## Voorjaar: frisse start en huidverzorging
 
@@ -27,7 +27,7 @@ Het voorjaar is het seizoen van vernieuwing. Klanten willen af van de winterhuid
 
 **Browlifts en lashlifts**. Het voorjaar is het populairste moment voor wenkbrauw- en wimperbehandelingen. Klanten willen er fris uitzien voor het buitenseizoen. Plan extra capaciteit in voor deze behandelingen.
 
-**Bruidsseizoen opstart**. De eerste bruiloften zijn in mei. Begin in maart met het promoten van je bruidspakketten. Trial-behandelingen, groepspakketten voor bruidsmeisjes en speciale bruids-make-up — allemaal hoge orderwaarden.
+**Bruidsseizoen opstart**. De eerste bruiloften zijn in mei. Begin in maart met het promoten van je bruidspakketten. Trial-behandelingen, groepspakketten voor bruidsmeisjes en speciale bruids-make-up: allemaal hoge orderwaarden.
 
 **Lenteactie**. "Boek in maart een gezichtsbehandeling en ontvang 20% korting op een lichaamsverzorging." Tijdsgebonden acties creeren urgentie.
 
@@ -41,7 +41,7 @@ De zomer is piekseizoen voor veel salons. Maak er het maximale van:
 
 **Festival- en event-looks**. Speciale make-up en nagels voor festivals en zomerevenementen. Promoot het met foto's van eerdere festivalresultaten op Instagram.
 
-**Cadeaubonnen voor Moederdag en Vaderdag**. Mei en juni zijn cadeau-maanden. Promoot je cadeaubonnen actief — ze brengen nieuwe klanten binnen.
+**Cadeaubonnen voor Moederdag en Vaderdag**. Mei en juni zijn cadeau-maanden. Promoot je cadeaubonnen actief, want ze brengen nieuwe klanten binnen.
 
 ## Herfst en winter: wellness en feestdagen
 
@@ -53,7 +53,7 @@ Na de zomer verandert de behoefte van klanten. De herfst en winter bieden unieke
 
 **Feestdagenplanning**. December is de drukste maand. Begin in oktober met promoten: kerstpakketten, oud-en-nieuw-looks, groepsboekingen voor bedrijfsfeesten. Bied early-bird kortingen aan voor klanten die in oktober boeken.
 
-**Cadeaubonnen voor de feestdagen**. November en december zijn de maanden voor cadeaubonnen. Promoot ze actief via [email marketing](/blog/email-marketing-beautysalon-klantcontact), social media en in je salon. Ze brengen nieuwe klanten in januari — traditioneel de rustigste maand.
+**Cadeaubonnen voor de feestdagen**. November en december zijn de maanden voor cadeaubonnen. Promoot ze actief via [email marketing](/blog/email-marketing-beautysalon-klantcontact), social media en in je salon. Ze brengen nieuwe klanten in januari, traditioneel de rustigste maand.
 
 ## Je seizoenskalender opzetten
 
@@ -69,11 +69,11 @@ Plan je marketing voor het hele jaar in een middag:
 | November | Feestdagen + Black Friday | Early-bird kerstpakketten |
 | December | Cadeaubonnen + feestlooks | Cadeauboncampagne |
 
-Gebruik je [email marketing](/blog/email-marketing-beautysalon-klantcontact) en [social media](/blog/social-media-voor-salons) om elke actie minimaal twee weken van tevoren te communiceren. Consistentie is de sleutel — klanten moeten weten dat ze bij jou terecht kunnen voor seizoensbehandelingen.
+Gebruik je [email marketing](/blog/email-marketing-beautysalon-klantcontact) en [social media](/blog/social-media-voor-salons) om elke actie minimaal twee weken van tevoren te communiceren. Consistentie is de sleutel: klanten moeten weten dat ze bij jou terecht kunnen voor seizoensbehandelingen.
 
 ## Aan de slag
 
-Seizoensmarketing is geen extra werk — het is slim plannen. Door vooruit te denken en je aanbod af te stemmen op de seizoenen, creeer je een stabiele omzet het hele jaar door.
+Seizoensmarketing is geen extra werk, maar slim plannen. Door vooruit te denken en je aanbod af te stemmen op de seizoenen, creeer je een stabiele omzet het hele jaar door.
 
 Begin met de eerstvolgende seizoenswisseling. Plan een actie, promoot het op twee kanalen en meet het resultaat. Over een jaar heb je een complete seizoenskalender die vanzelf draait.
 

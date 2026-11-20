@@ -22,7 +22,7 @@ Zoekresultaten geven de voorkeur aan pagina's die diepgaand over één onderwerp
 
 ### 2. Hogere prijzen, minder weerstand
 
-Een specialist kan meer vragen dan een generalist. Klanten betalen graag meer voor iemand die zich volledig specialiseert in wat zij nodig hebben. Een balayage-specialist die €180 vraagt wordt minder bevraagd dan een generalist die €90 vraagt — omdat de klant vertrouwen heeft in het resultaat.
+Een specialist kan meer vragen dan een generalist. Klanten betalen graag meer voor iemand die zich volledig specialiseert in wat zij nodig hebben. Een balayage-specialist die €180 vraagt wordt minder bevraagd dan een generalist die €90 vraagt, omdat de klant vertrouwen heeft in het resultaat.
 
 ![Gespecialiseerde salon behandeling](/images/blog/specialisatie-salon-meer-klanten-2.jpg)
 
@@ -38,12 +38,12 @@ Welke behandelingen boeken klanten het vaakst? Waar krijg je de beste reviews ov
 
 ### Populaire niches voor salons
 
-- **Krullend haar specialist** — enorme community, loyale klanten
-- **Balayage en kleurwerk** — hoge ticket, visueel deelbaar op social
-- **Haarextensions** — terugkerende klanten, hoge marge
-- **Herenkapper / barbershop** — duidelijke doelgroep, snelle afspraken
-- **Bruidsstyling** — premium pricing, seizoensgebonden maar lucratief
-- **Vegan / duurzame salon** — groeiende markt, sterk merkverhaal
+- **Krullend haar specialist**: enorme community, loyale klanten
+- **Balayage en kleurwerk**: hoge ticket, visueel deelbaar op social
+- **Haarextensions**: terugkerende klanten, hoge marge
+- **Herenkapper / barbershop**: duidelijke doelgroep, snelle afspraken
+- **Bruidsstyling**: premium pricing, seizoensgebonden maar lucratief
+- **Vegan / duurzame salon**: groeiende markt, sterk merkverhaal
 
 ### Begin klein
 
@@ -60,14 +60,14 @@ Je hoeft niet alles in één keer te veranderen. Begin met je website en social 
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als salon.
 
-Een [SEO en vindbaarheid](/seo) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [social media](/social-media) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [SEO en vindbaarheid](/seo) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [social media](/social-media) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/concurrentieanalyse-beautysalon-onderscheiden" class="text-dark fw-semibold">Concurrentieanalyse voor beautysalons: zo trek je meer klanten</a> →</p></div></div></div>
 
 ## Conclusie
 
-Specialiseren is geen beperking — het is bevrijding. Je trekt precies de klanten aan die je wilt, tegen prijzen die je verdient, en bouwt een reputatie op die de concurrentie niet kan kopiëren.
+Specialiseren is geen beperking, maar bevrijding. Je trekt precies de klanten aan die je wilt, tegen prijzen die je verdient, en bouwt een reputatie op die de concurrentie niet kan kopiëren.
 
 Wil je ontdekken welke niche het beste past bij jouw salon? [Vraag een gratis scan aan](/gratis-scan) en we analyseren je marktpositie.

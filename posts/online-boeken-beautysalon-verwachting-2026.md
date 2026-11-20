@@ -10,7 +10,7 @@ cluster: website
 ---
 ## Waarom bellen niet meer genoeg is
 
-Het is dinsdagavond 21:00. Een vrouw scrolt door Instagram, ziet je prachtige nagelkunst, en wil direct een afspraak maken. Ze klikt op je profiel — geen boekingslink. Ze gaat naar je website — alleen een telefoonnummer. Bellen om 21:00? Dat doet ze niet. Morgen vergeet ze het, en boekt bij een salon die wél online boeken aanbiedt.
+Het is dinsdagavond 21:00. Een vrouw scrolt door Instagram, ziet je prachtige nagelkunst, en wil direct een afspraak maken. Ze klikt op je profiel: geen boekingslink. Ze gaat naar je website: alleen een telefoonnummer. Bellen om 21:00? Dat doet ze niet. Morgen vergeet ze het, en boekt bij een salon die wél online boeken aanbiedt.
 
 Dit scenario speelt zich dagelijks af bij honderden beautysalons in Nederland. Het verschil tussen een volle en een lege agenda? Vaak simpelweg een online boekingsknop.
 
@@ -18,11 +18,11 @@ Dit scenario speelt zich dagelijks af bij honderden beautysalons in Nederland. H
 
 De beauty-industrie heeft een jonge, digitaal vaardige klantenkring. In 2026 verwacht deze doelgroep:
 
-- **24/7 boeken** — niet alleen tijdens openingstijden
-- **Direct bevestiging** — geen "we bellen u terug"
-- **Zelf kiezen** — behandeling, tijdstip, behandelaar
-- **Herinnering** — automatisch, via WhatsApp of SMS
-- **Makkelijk verzetten** — met een klik, niet een telefoontje
+- **24/7 boeken**: niet alleen tijdens openingstijden
+- **Direct bevestiging**: geen "we bellen u terug"
+- **Zelf kiezen**: behandeling, tijdstip, behandelaar
+- **Herinnering**: automatisch, via WhatsApp of SMS
+- **Makkelijk verzetten**: met een klik, niet een telefoontje
 
 Salons die dit niet bieden, verliezen klanten aan salons die het wél bieden. Zo simpel is het.
 
@@ -61,16 +61,16 @@ Online systemen maken het makkelijk om extra's toe te voegen: "Wil je een wenkbr
 Veel saloneigenaren schrikken van de overstap. "Het is ingewikkeld", "Mijn klanten bellen liever", "Ik verlies het persoonlijke contact."
 
 De werkelijkheid:
-- **Het is niet ingewikkeld** — de meeste systemen zijn in een middag opgezet
-- **Je behoudt het persoonlijke contact** — in de salon, waar het telt
-- **Klanten die liever bellen, mogen bellen** — online boeken is erbij, niet in plaats van
+- **Het is niet ingewikkeld**: de meeste systemen zijn in een middag opgezet
+- **Je behoudt het persoonlijke contact**: in de salon, waar het telt
+- **Klanten die liever bellen, mogen bellen**: online boeken is erbij, niet in plaats van
 
 ### Begin stap voor stap
 
 1. **Week 1**: Zet online boeken aan voor je 3 populairste behandelingen
 2. **Week 2**: Voeg de rest van je behandelingen toe
 3. **Week 3**: Zet je Instagram boekingslink aan
-4. **Week 4**: Evalueer — hoeveel boekingen kwamen online binnen?
+4. **Week 4**: Evalueer: hoeveel boekingen kwamen online binnen?
 
 De meeste salons zien binnen een maand dat 30-50% van alle boekingen online binnenkomt.
 
@@ -78,7 +78,7 @@ De meeste salons zien binnen een maand dat 30-50% van alle boekingen online binn
 
 ## Conclusie
 
-Online boeken is in 2026 geen luxe meer voor beautysalons — het is een verwachting. Klanten kiezen de salon die het makkelijkst bereikbaar is. En dat is de salon waar je om 23:00 op de bank nog een afspraak kunt maken.
+Online boeken is in 2026 geen luxe meer voor beautysalons. Het is een verwachting. Klanten kiezen de salon die het makkelijkst bereikbaar is. En dat is de salon waar je om 23:00 op de bank nog een afspraak kunt maken.
 
 Met [SalonSmart](/) krijg je een compleet boekings- en communicatiesysteem. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

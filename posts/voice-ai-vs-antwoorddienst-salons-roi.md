@@ -27,18 +27,18 @@ Dat is de echte kostenpost waar je vandaag zonder oplossing tegenaan loopt. En d
 
 De Nederlandse antwoorddienst-markt is verrassend transparant geworden. De prijzen die je nu vindt:
 
-- **Pricon** — vanaf € 32,- per maand, inclusief behandelminuten, met setup eenmalig € 230,-
-- **Antwoordservice-telefoonservice.nl** — vanaf € 1,47 per gesprek, geen vaste maandprijs
-- **ITEMS / STIPT / FreeVoice** — meestal een vast maandbedrag (€ 25,- tot € 80,-) plus € 1,00 tot € 2,50 per gesprek
+- **Pricon**: vanaf € 32,- per maand, inclusief behandelminuten, met setup eenmalig € 230,-
+- **Antwoordservice-telefoonservice.nl**: vanaf € 1,47 per gesprek, geen vaste maandprijs
+- **ITEMS / STIPT / FreeVoice**: meestal een vast maandbedrag (€ 25,- tot € 80,-) plus € 1,00 tot € 2,50 per gesprek
 
 Klinkt redelijk, totdat je gaat rekenen met je eigen belvolume. Een gemiddelde salon met 1-3 behandelaars krijgt rustig 8-15 inbound calls per dag, waarvan een derde tot de helft buiten kantooruren of tijdens behandelingen valt. Bij **10 gesprekken per dag × 22 werkdagen = 220 gesprekken per maand**. Met een tarief van € 1,47 per gesprek zit je op € 323,40 per maand. Op een gemiddeld tarief van € 1,80 zit je op € 396,-.
 
 En dan rekenen we de verborgen kosten nog niet mee:
 
-- **Setup en script-onderhoud** — eenmalig € 100,- tot € 250,-, maar daarna nog € 50,- tot € 100,- per significante script-wijziging (nieuwe behandeling toevoegen, vakantiedagen doorgeven, nieuwe medewerker)
-- **"Behandelminuten" die per pakket verschillen** — als je gesprek 4 minuten duurt in plaats van 2, kan het meekomende bedrag verdubbelen
-- **Buiten-kantooruren toeslag** — sommige aanbieders rekenen 's avonds en in het weekend 1,5× tot 2× het normale tarief
-- **Geen rechtstreekse boeking** — de telefonist neemt de boeking aan en mailt of belt het door, dus jouw klant krijgt geen directe bevestiging en jij moet 's avonds nog alles in je agenda zetten
+- **Setup en script-onderhoud**: eenmalig € 100,- tot € 250,-, maar daarna nog € 50,- tot € 100,- per significante script-wijziging (nieuwe behandeling toevoegen, vakantiedagen doorgeven, nieuwe medewerker)
+- **"Behandelminuten" die per pakket verschillen**: als je gesprek 4 minuten duurt in plaats van 2, kan het meekomende bedrag verdubbelen
+- **Buiten-kantooruren toeslag**: sommige aanbieders rekenen 's avonds en in het weekend 1,5× tot 2× het normale tarief
+- **Geen rechtstreekse boeking**: de telefonist neemt de boeking aan en mailt of belt het door, dus jouw klant krijgt geen directe bevestiging en jij moet 's avonds nog alles in je agenda zetten
 
 Tel het op en je zit voor een gemiddelde salon al snel op **€ 400,- tot € 500,- per maand**, waarvan een serieus deel pas aan het eind van de maand zichtbaar is op de factuur.
 
@@ -48,15 +48,15 @@ De andere kant is technisch een wereld van verschil maar commercieel eenvoudiger
 
 Wat zit daar in:
 
-- **24/7 opname** zonder toeslagen — een gesprek om 21:30 op een zaterdag kost je hetzelfde als een gesprek om 11:00 op een dinsdag
+- **24/7 opname** zonder toeslagen: een gesprek om 21:30 op een zaterdag kost je hetzelfde als een gesprek om 11:00 op een dinsdag
 - **Directe agenda-boeking** via API met je booking-systeem, met SMS- of WhatsApp-bevestiging naar de klant binnen 30 seconden
 - **Meertalig** uit de doos (Nederlands, Engels, Duits) zonder extra tariefcategorie
-- **Onbeperkt script-aanpassingen** — nieuwe behandeling, andere prijs, andere openingstijden, je past het aan in een dashboard en het is live
+- **Onbeperkt script-aanpassingen**: nieuwe behandeling, andere prijs, andere openingstijden, je past het aan in een dashboard en het is live
 - **Volledige call-logs** in je centrale inbox naast je WhatsApp en e-mail
 
 Voor de meeste salons komt het netto-maandbedrag inclusief setup-afschrijving uit tussen € 99,- en € 149,- per maand. Dat is grofweg een **kwart tot een derde** van wat een vergelijkbaar antwoorddienst-pakket je kost bij 200+ gesprekken per maand.
 
-![Receptiebalie close-up — agenda, telefoon en handgeschreven afsprakenboek naast elkaar in een schoonheidssalon](/images/blog/voice-ai-vs-antwoorddienst-salons-roi-2.jpg)
+![Receptiebalie close-up: agenda, telefoon en handgeschreven afsprakenboek naast elkaar in een schoonheidssalon](/images/blog/voice-ai-vs-antwoorddienst-salons-roi-2.jpg)
 
 ## ROI-rekenmodel: bij welk belvolume kantelt het?
 
@@ -74,9 +74,9 @@ Het kantelpunt ligt rond **de 70 gesprekken per maand**. Voor solo-nagelstudio's
 
 En de tabel hierboven kijkt alléén naar wat je uitspaart op de dienstverlening zelf. De grote ROI zit in wat je nu nog kwijt bent:
 
-- **Gemiste boekingen** — bij een gemiddelde behandelwaarde van € 55,- en 5 gemiste boekingen per maand (conservatief geschat voor een 1-2-stoel-salon) gaat er € 275,- per maand de deur uit. Voice AI vangt die op, een antwoorddienst meestal ook, maar Voice AI is goedkoper én sneller (gemiddelde antwoord-tijd 1,2 seconden vs 6-12 seconden voor een mens) waardoor minder bellers tussentijds ophangen
-- **Eigen tijd terug** — geen avonden meer waarin je de doorgemailde boekingen handmatig in je agenda zet
-- **Geen klantfrustratie** — directe boekingsbevestiging in plaats van "ik geef het door, u hoort morgen iets"
+- **Gemiste boekingen**: bij een gemiddelde behandelwaarde van € 55,- en 5 gemiste boekingen per maand (conservatief geschat voor een 1-2-stoel-salon) gaat er € 275,- per maand de deur uit. Voice AI vangt die op, een antwoorddienst meestal ook, maar Voice AI is goedkoper én sneller (gemiddelde antwoord-tijd 1,2 seconden vs 6-12 seconden voor een mens) waardoor minder bellers tussentijds ophangen
+- **Eigen tijd terug**: geen avonden meer waarin je de doorgemailde boekingen handmatig in je agenda zet
+- **Geen klantfrustratie**: directe boekingsbevestiging in plaats van "ik geef het door, u hoort morgen iets"
 
 ## Buiten kantooruren: waar de twee echt uiteen lopen
 
@@ -90,9 +90,9 @@ Voor wie ook overdag de telefoon vaak laat overgaan tijdens behandelingen is een
 
 Eerlijk blijven: er zijn drie situaties waarin een traditionele antwoorddienst nog steeds de betere keus is.
 
-1. **Solo-zzp'er met <50 belminuten per maand** — onder de drempel waar Voice AI's setup-fee de moeite waard wordt
-2. **Sterke voorkeur voor een menselijke stem** — sommige klanten in luxe-segmenten (high-end PMU, bridal hair styling) verwachten een receptionist-toon die zelfs de beste AI nog niet helemaal raakt
-3. **Tijdelijk overbruggen** — als je over 6 maanden je salon overdraagt of richt, is een maandelijks opzegbare antwoorddienst administratief simpeler dan een AI-implementatie
+1. **Solo-zzp'er met <50 belminuten per maand**: onder de drempel waar Voice AI's setup-fee de moeite waard wordt
+2. **Sterke voorkeur voor een menselijke stem**: sommige klanten in luxe-segmenten (high-end PMU, bridal hair styling) verwachten een receptionist-toon die zelfs de beste AI nog niet helemaal raakt
+3. **Tijdelijk overbruggen**: als je over 6 maanden je salon overdraagt of richt, is een maandelijks opzegbare antwoorddienst administratief simpeler dan een AI-implementatie
 
 Voor de overige 90%+ van de salons in de gemiddelde inkomstenklasse (€ 80k-€ 250k jaaromzet, 1-5 behandelaars) is de math gewoon helder: minder kosten, méér 24/7-dekking, directe boekingsbevestiging.
 
@@ -110,10 +110,10 @@ Aanpassen achteraf is waar het verschil groter wordt. Een nieuwe behandeling toe
 
 Het concrete plaatje van een week na go-live, op basis van wat salonhouders die de switch maakten zelf rapporteerden:
 
-- **Geen telefoon meer die overgaat tijdens een behandeling** — alle inbound calls landen bij de AI, jij ziet alleen een kort logje in je inbox zodra de boeking gedaan is
-- **'s Avonds geen agenda-werk meer** — gesprekken die overdag/'s avonds binnenkomen leiden direct tot een boeking in je systeem
-- **Klanten klagen niet meer over 'kunnen jullie wel iemand aan de lijn krijgen'** — gemiddelde antwoord-tijd onder de 2 seconden, ook op zaterdagavond
-- **Maandfactuur is voorspelbaar** — geen 'oh, deze maand belden ze ineens 300x'-verrassing
+- **Geen telefoon meer die overgaat tijdens een behandeling**: alle inbound calls landen bij de AI, jij ziet alleen een kort logje in je inbox zodra de boeking gedaan is
+- **'s Avonds geen agenda-werk meer**: gesprekken die overdag/'s avonds binnenkomen leiden direct tot een boeking in je systeem
+- **Klanten klagen niet meer over 'kunnen jullie wel iemand aan de lijn krijgen'**: gemiddelde antwoord-tijd onder de 2 seconden, ook op zaterdagavond
+- **Maandfactuur is voorspelbaar**: geen 'oh, deze maand belden ze ineens 300x'-verrassing
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/voice-ai" class="text-dark fw-semibold">AI Telefonist voor Salons: 24/7 bereikbaar zonder personeel</a> →</p></div></div></div>
 

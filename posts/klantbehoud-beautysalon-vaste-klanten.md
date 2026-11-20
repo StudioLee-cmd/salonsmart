@@ -15,7 +15,7 @@ cluster: automatisering
 
 Het werven van een nieuwe klant kost vijf tot zeven keer meer dan het behouden van een bestaande. En een klant die [vijf procent langer blijft, levert tot 25% meer winst op](/blog/klantretentie-beautysalon-meer-winst).
 
-Toch investeren de meeste salons het grootste deel van hun marketing in nieuwe klanten. Instagram-advertenties, Google-ads, kortingsacties — alles gericht op de eerste boeking. Maar de echte winst zit in de tweede, derde en tiende boeking.
+Toch investeren de meeste salons het grootste deel van hun marketing in nieuwe klanten. Instagram-advertenties, Google-ads, kortingsacties: alles gericht op de eerste boeking. Maar de echte winst zit in de tweede, derde en tiende boeking.
 
 ## De eerste indruk perfectioneren
 
@@ -31,9 +31,9 @@ Klantbehoud begint bij het eerste bezoek. Een klant die een uitstekende eerste e
 
 **Vervolgafspraak direct inplannen**. "Over zes weken is het tijd voor je volgende behandeling. Zal ik het alvast inplannen?" De kans dat een klant terugkomt is 80% als ze weggaan met een afspraak, en 20% als ze dat niet doen.
 
-**Herinneringen sturen**. Automatische sms of [email](/blog/email-marketing-beautysalon-klantcontact) twee weken voor de volgende afspraak. "Tijd voor je volgende gezichtsbehandeling — zullen we een afspraak maken?"
+**Herinneringen sturen**. Automatische sms of [email](/blog/email-marketing-beautysalon-klantcontact) twee weken voor de volgende afspraak. "Tijd voor je volgende gezichtsbehandeling. Zullen we een afspraak maken?"
 
-**[Seizoensgebonden aanbiedingen](/blog/seizoensmarketing-beautysalon-acties)**. Lentepakket, zomerverzorging, herfstreset — geef klanten een reden om vaker te komen voor seizoensbehandelingen die ze normaal niet boeken.
+**[Seizoensgebonden aanbiedingen](/blog/seizoensmarketing-beautysalon-acties)**. Lentepakket, zomerverzorging, herfstreset: geef klanten een reden om vaker te komen voor seizoensbehandelingen die ze normaal niet boeken.
 
 ## Loyaliteitsprogramma opzetten
 
@@ -58,6 +58,6 @@ Tussen bezoeken in blijf je relevant via:
 
 Klantbehoud in je beautysalon begint bij een uitstekende eerste indruk en eindigt bij consistente opvolging. Plan vervolgafspraken direct, stuur herinneringen en beloon loyaliteit.
 
-De salons die dit systematisch doen, zien hun retentie met 20-30% stijgen — en dat vertaalt zich direct in omzet.
+De salons die dit systematisch doen, zien hun retentie met 20-30% stijgen, en dat vertaalt zich direct in omzet.
 
 Wil je ontdekken hoe je salon online beter gevonden wordt? [Vraag een gratis scan aan](/gratis-scan) en ontdek wat er beter kan.

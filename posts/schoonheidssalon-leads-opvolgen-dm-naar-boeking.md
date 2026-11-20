@@ -132,7 +132,7 @@ Drie acties voor de komende zeven dagen:
 
 1. Stel WhatsApp Business in (of optimaliseer je bestaande)
 2. Schrijf je standaard openingsantwoord voor DM's met een directe boekingsoptie
-3. Test of je elke nieuwe DM binnen één uur kunt beantwoorden — als het niet lukt, automatiseer
+3. Test of je elke nieuwe DM binnen één uur kunt beantwoorden, en als het niet lukt, automatiseer
 
 Snelheid wint, altijd. Niet de beste salon krijgt de boeking, maar de salon die het eerst en het slimst reageert.
 

@@ -14,15 +14,15 @@ cluster: reviews
 
 Beauty is persoonlijk en visueel. Klanten laten iemand aan hun gezicht, huid of nagels werken. Het [vertrouwen](/reviews) moet maximaal zijn. Reviews geven dat vertrouwen: "Fantastisch resultaat, super fijne sfeer" overtuigt meer dan elk promovideo.
 
-Een salon met 50+ reviews en 4,9 sterren wint het altijd van een salon met 3 reviews — ongeacht de kwaliteit van de behandelingen.
+Een salon met 50+ reviews en 4,9 sterren wint het altijd van een salon met 3 reviews, ongeacht de kwaliteit van de behandelingen.
 
 ## Waar klanten je beoordelen
 
 | Platform | Belang |
 |----------|--------|
-| Google | Zeer hoog — eerste zoekresultaat |
-| Treatwell | Hoog — platformspecifiek |
-| Instagram | Gemiddeld-hoog — visueel bewijs |
+| Google | Zeer hoog, eerste zoekresultaat |
+| Treatwell | Hoog, platformspecifiek |
+| Instagram | Gemiddeld-hoog, visueel bewijs |
 
 Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-beautysalon) is je belangrijkste digitale etalage.
 
@@ -48,15 +48,15 @@ Potentiele klanten lezen je reactie. Een empathische, oplossingsgerichte reactie
 
 ## Reviews en je specialisatie
 
-Salons met een [specialisatie](/blog/specialiseren-beautysalon) profiteren extra van reviews. Klanten die specifiek zoeken op "microneedling salon" vinden minder resultaten — en de reviews wegen daardoor zwaarder.
+Salons met een [specialisatie](/blog/specialiseren-beautysalon) profiteren extra van reviews. Klanten die specifiek zoeken op "microneedling salon" vinden minder resultaten, en de reviews wegen daardoor zwaarder.
 
 ## Reputatie en klantbehoud
 
-Online reputatie trekt niet alleen nieuwe klanten aan — het versterkt ook [klantbehoud](/blog/klantbehoud-beautysalon-vaste-klanten). Bestaande klanten die sterke reviews lezen, voelen zich bevestigd in hun keuze. Ze blijven langer en boeken meer [upselling](/blog/upselling-beautysalon-meer-omzet-per-klant) behandelingen.
+Online reputatie trekt niet alleen nieuwe klanten aan, maar versterkt ook [klantbehoud](/blog/klantbehoud-beautysalon-vaste-klanten). Bestaande klanten die sterke reviews lezen, voelen zich bevestigd in hun keuze. Ze blijven langer en boeken meer [upselling](/blog/upselling-beautysalon-meer-omzet-per-klant) behandelingen.
 
 ## Het verschil in de praktijk
 
-Een salon met 10 reviews en een salon met 80 reviews — de nieuwe klant kiest altijd voor meer reviews. Het verschil is niet de kwaliteit van de behandelingen, maar de structuur van het reviewproces. Investeer 10 minuten in het opzetten van een systeem en het levert je jarenlang nieuwe klanten op.
+Een salon met 10 reviews en een salon met 80 reviews: de nieuwe klant kiest altijd voor meer reviews. Het verschil is niet de kwaliteit van de behandelingen, maar de structuur van het reviewproces. Investeer 10 minuten in het opzetten van een systeem en het levert je jarenlang nieuwe klanten op.
 
 ## Hulp nodig?
 

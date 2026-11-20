@@ -28,24 +28,24 @@ Naast de commissie zijn er kosten die je niet direct ziet:
 
 | Wat | Treatwell | SalonSmart |
 |---|---|---|
-| Commissie per boeking | Tot 35% | Geen — vast maandbedrag |
+| Commissie per boeking | Tot 35% | Geen, vast maandbedrag |
 | Klantgegevens | Van Treatwell | Van jou |
 | Reviews | Op Treatwell | Op jouw Google-profiel |
-| AI Telefoniste | Nee | Ja — 24/7 |
+| AI Telefoniste | Nee | Ja, 24/7 |
 | Chatbot | Nee | Ja |
-| Review automatisering | Nee | Ja — WhatsApp na elke behandeling |
+| Review automatisering | Nee | Ja, WhatsApp na elke behandeling |
 | SEO blog | Nee | Ja |
-| Social media | Nee | Ja — planning + creatie |
+| Social media | Nee | Ja, planning + creatie |
 | No-show preventie | Basis | Volledig (herinneringen + wachtlijst) |
-| Managed service | Nee | Ja — complete ontzorging |
+| Managed service | Nee | Ja, complete ontzorging |
 | Aantal tools | 1 | 25+ |
 
 ## 25 tools in één systeem
 
-SalonSmart is niet zomaar een boekingssysteem. Het vervangt Treatwell, je marketingbureau, je social media manager en je virtuele receptioniste in één systeem. Van AI telefoniste tot facturatie, van SEO blog tot [review management](/reviews) — alles werkt samen.
+SalonSmart is niet zomaar een boekingssysteem. Het vervangt Treatwell, je marketingbureau, je social media manager en je virtuele receptioniste in één systeem. Van AI telefoniste tot facturatie, van SEO blog tot [review management](/reviews): alles werkt samen.
 
 ## Managed service: jij doet je vak, wij de rest
 
-Dit is waar het verschil écht zit. Treatwell is een platform waar je zelf alles moet doen. SalonSmart biedt managed service: wij regelen je complete online aanwezigheid. Vindbaarheid, social media, reviews, herinneringen, blog — alles.
+Dit is waar het verschil écht zit. Treatwell is een platform waar je zelf alles moet doen. SalonSmart biedt managed service: wij regelen je complete online aanwezigheid. Vindbaarheid, social media, reviews, herinneringen, blog: alles.
 
-Jouw bijdrage: 15 minuten per maand. De rest doen wij. Dat is geen software — dat is een compleet marketingteam voor een fractie van wat een traditioneel bureau kost.
+Jouw bijdrage: 15 minuten per maand. De rest doen wij. Dat is geen software. Dat is een compleet marketingteam voor een fractie van wat een traditioneel bureau kost.

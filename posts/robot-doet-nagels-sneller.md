@@ -9,15 +9,15 @@ cluster: automatisering
 ---
 ## De robot-nagelstyliste die nooit te laat komt
 
-Breaking news: een Koreaans beautytech-bedrijf heeft de NailBot Pro gelanceerd — een robotarm met zes precisievingers die een volledige set gelnagels aanbrengt in 58 seconden. Geen droogtijd, geen gesprekken over het weer en een 100 procent symmetrisch resultaat. De eerste pilotlocatie in Seoul heeft al 3.000 klanten geholpen, allemaal zonder wachttijd.
+Breaking news: een Koreaans beautytech-bedrijf heeft de NailBot Pro gelanceerd, een robotarm met zes precisievingers die een volledige set gelnagels aanbrengt in 58 seconden. Geen droogtijd, geen gesprekken over het weer en een 100 procent symmetrisch resultaat. De eerste pilotlocatie in Seoul heeft al 3.000 klanten geholpen, allemaal zonder wachttijd.
 
 Nederlandse beautysalons zijn in paniek. Gaat de NailBot Pro de nagelbranche overnemen?
 
-**1 april!** Geen zorgen — er komt geen robot die jouw werk overneemt. Een machine kan geen nail art creëren op basis van een vaag Pinterest-screenshot. Maar weet je wat wél echt is? Het probleem van klanten die niet komen opdagen. No-shows kosten beautysalons duizenden euro's per jaar, en dat is alles behalve een grap.
+**1 april!** Geen zorgen, er komt geen robot die jouw werk overneemt. Een machine kan geen nail art creëren op basis van een vaag Pinterest-screenshot. Maar weet je wat wél echt is? Het probleem van klanten die niet komen opdagen. No-shows kosten beautysalons duizenden euro's per jaar, en dat is alles behalve een grap.
 
 ## Hoeveel kost een no-show je beautysalon?
 
-Reken maar mee. Een gemiddelde behandeling in een beautysalon kost 50 tot 80 euro. Als er per week drie klanten niet komen opdagen, verlies je maandelijks 600 tot 960 euro aan omzet. Per jaar is dat 7.200 tot 11.520 euro — genoeg om een extra behandelstoel van te kopen of een assistent parttime in te huren.
+Reken maar mee. Een gemiddelde behandeling in een beautysalon kost 50 tot 80 euro. Als er per week drie klanten niet komen opdagen, verlies je maandelijks 600 tot 960 euro aan omzet. Per jaar is dat 7.200 tot 11.520 euro, genoeg om een extra behandelstoel van te kopen of een assistent parttime in te huren.
 
 Daarbovenop komt de indirecte schade: andere klanten die je had kunnen helpen, producten die je alvast hebt klaargelegd en de mentale frustratie van een lege behandelstoel midden op de dag.
 
@@ -64,6 +64,6 @@ Het doel is niet om klanten af te straffen, maar om een cultuur te creëren waar
 
 No-shows zijn frustrerend, maar met de juiste aanpak zijn ze grotendeels te voorkomen. Automatische herinneringen, een slim annuleringsbeleid en een wachtlijstsysteem zijn je drie beste wapens.
 
-Geen robot nodig — gewoon technologie die voor je werkt terwijl jij doet waar je van houdt: je klanten mooi maken.
+Geen robot nodig, gewoon technologie die voor je werkt terwijl jij doet waar je van houdt: je klanten mooi maken.
 
 Wil je weten hoe automatische no-show-preventie werkt voor jouw salon? Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek wat er mogelijk is.

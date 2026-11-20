@@ -9,7 +9,7 @@ tags: ["Reviews", "Reputatie"]
 ---
 ## Waarom beautysalons afhankelijk zijn van reviews
 
-Een beautysalon verkoopt vertrouwen. Klanten laten hun gezicht, huid en lichaam behandelen — dat doe je niet bij een salon waarvan je niet zeker bent. Google Reviews zijn de digitale versie van een aanbeveling van een vriendin. Zonder reviews ben je onzichtbaar voor nieuwe klanten die online zoeken.
+Een beautysalon verkoopt vertrouwen. Klanten laten hun gezicht, huid en lichaam behandelen, en dat doe je niet bij een salon waarvan je niet zeker bent. Google Reviews zijn de digitale versie van een aanbeveling van een vriendin. Zonder reviews ben je onzichtbaar voor nieuwe klanten die online zoeken.
 
 Het probleem: de meeste saloneigenaren zijn te druk met behandelingen om na elke klant om een review te vragen. Het gevolg? Alleen de ontevreden klanten nemen de moeite om iets achter te laten. Dat geeft een vertekend beeld.
 
@@ -19,11 +19,11 @@ Automatisch [reviews verzamelen](/reviews) betekent niet dat je een robot review
 
 - **Direct na de behandeling:** Een automatisch WhatsApp-bericht bedankt de klant en vraagt om een review met een directe link naar je Google-pagina
 - **Na 24 uur:** Wie nog niet gereageerd heeft krijgt een vriendelijke herinnering
-- **Na een week:** Een laatste zachte nudge — "We horen graag hoe je ervaring was"
+- **Na een week:** Een laatste zachte nudge: "We horen graag hoe je ervaring was"
 
 ### Waarom WhatsApp beter werkt dan e-mail
 
-E-mails over reviews belanden in de spam of worden genegeerd. WhatsApp-berichten worden door 90% van de ontvangers binnen 3 minuten gelezen. Voor beautysalons is WhatsApp bovendien een vertrouwd kanaal — klanten sturen er al afspraakbevestigingen mee.
+E-mails over reviews belanden in de spam of worden genegeerd. WhatsApp-berichten worden door 90% van de ontvangers binnen 3 minuten gelezen. Voor beautysalons is WhatsApp bovendien een vertrouwd kanaal, want klanten sturen er al afspraakbevestigingen mee.
 
 ## De juiste timing maakt het verschil
 
@@ -31,7 +31,7 @@ Het beste moment om een review te vragen is wanneer de klant nog in de glow zit 
 
 ![Beautysalon behandelruimte met warme sfeer](/images/blog/reviews-beautysalon-automatisch-verzamelen-2.jpg)
 
-Automatisering zorgt ervoor dat het bericht exact op het juiste moment verstuurd wordt — zonder dat jij eraan hoeft te denken terwijl je de volgende klant al behandelt.
+Automatisering zorgt ervoor dat het bericht exact op het juiste moment verstuurd wordt, zonder dat jij eraan hoeft te denken terwijl je de volgende klant al behandelt.
 
 ## Wat doe je met negatieve reviews?
 
@@ -53,7 +53,7 @@ Automatisering zorgt voor een constante stroom van recente reviews. Dat is preci
 
 Zelf een automatiseringssysteem opzetten kost tijd en technische kennis. Een managed service als [StudioLee](/tarieven) regelt het complete proces: van de WhatsApp-koppeling tot het monitoren van reviews en het reageren op feedback.
 
-Jij houdt je bezig met behandelingen. De reviews komen vanzelf. Jij besteedt er maar 15 minuten per maand aan — de rest wordt volledig geregeld.
+Jij houdt je bezig met behandelingen. De reviews komen vanzelf. Jij besteedt er maar 15 minuten per maand aan. De rest wordt volledig geregeld.
 
 ## Veelgestelde vragen
 
@@ -73,6 +73,6 @@ De meeste salons zien binnen twee weken een toename in reviews. Het effect op je
 
 ## Conclusie
 
-Reviews automatiseren is een van de slimste investeringen die je als beautysalon kunt doen. Het kost je geen extra tijd, het levert structureel meer reviews op en het versterkt je positie in Google. De klanten zijn al tevreden — je hoeft ze alleen op het juiste moment te vragen.
+Reviews automatiseren is een van de slimste investeringen die je als beautysalon kunt doen. Het kost je geen extra tijd, het levert structureel meer reviews op en het versterkt je positie in Google. De klanten zijn al tevreden. Je hoeft ze alleen op het juiste moment te vragen.
 
 Benieuwd hoe het er voor jouw salon uitziet? Start een [gratis scan](/gratis-scan) en ontdek binnen 24 uur wat er mogelijk is.

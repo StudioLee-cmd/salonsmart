@@ -1,7 +1,7 @@
 ---
 title: "Klantretentie in je beautysalon: waarom 5% meer retentie 25% meer winst oplevert"
 seoTitle: "Klantretentie in je beautysalon"
-excerpt: "Het kost 5x meer om een nieuwe klant te werven dan een bestaande te behouden. Zo verhoog je de retentie in je salon — en je winst."
+excerpt: "Het kost 5x meer om een nieuwe klant te werven dan een bestaande te behouden. Zo verhoog je de retentie in je salon, en je winst."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantretentie-beautysalon-meer-winst.png"
@@ -10,9 +10,9 @@ cluster: automatisering
 ---
 ## De kracht van retentie
 
-De meeste salons focussen op nieuwe klanten werven. Begrijpelijk — groei voelt goed. Maar de cijfers vertellen een ander verhaal: een verhoging van 5% in klantretentie leidt tot 25-95% meer winst.
+De meeste salons focussen op nieuwe klanten werven. Begrijpelijk, want groei voelt goed. Maar de cijfers vertellen een ander verhaal: een verhoging van 5% in klantretentie leidt tot 25-95% meer winst.
 
-Waarom? Nieuwe klanten kosten geld om te werven (advertenties, kortingen, acties). Bestaande klanten kosten bijna niets om te behouden — en ze besteden meer, komen vaker en verwijzen anderen door.
+Waarom? Nieuwe klanten kosten geld om te werven (advertenties, kortingen, acties). Bestaande klanten kosten bijna niets om te behouden, en ze besteden meer, komen vaker en verwijzen anderen door.
 
 ## Retentie meten: ken je cijfers
 
@@ -69,7 +69,7 @@ Een goed CRM-systeem helpt hierbij. Noteer na elk bezoek 2-3 persoonlijke detail
 Stuur een automatisch verjaardagsbericht met een klein cadeau:
 - "Gefeliciteerd [naam]! Van harte gefeliciteerd. Als cadeau krijg je 20% korting op je eerstvolgende behandeling. Geldig deze maand. Boek via [link]."
 
-Verjaardagsacties hebben een redemptiepercentage van 30-40% — veel hoger dan gewone kortingsacties.
+Verjaardagsacties hebben een redemptiepercentage van 30-40%, veel hoger dan gewone kortingsacties.
 
 ### 5. Loyaliteitsprogramma
 
@@ -78,15 +78,15 @@ Simpel maar effectief:
 - Spaarpunten per euro besteed
 - VIP-status na [X] bezoeken (vroeger boeken, extra service)
 
-Digitaal — geen stempelkaartjes meer. Een simpele app of je boekingssysteem kan dit bijhouden.
+Digitaal, dus geen stempelkaartjes meer. Een simpele app of je boekingssysteem kan dit bijhouden.
 
 ### 6. Seizoensgebonden aanbiedingen
 
 Geef klanten een reden om terug te komen:
-- **Januari**: "Nieuwjaars-glow — gezichtsbehandeling + peeling voor €79"
-- **Maart**: "Lentefrisse huid — ontdekkingspakket"
-- **September**: "Zomerschade herstellen — intensieve behandeling"
-- **November**: "Kerstpakket — behandeling + product als cadeau"
+- **Januari**: "Nieuwjaars-glow: gezichtsbehandeling + peeling voor €79"
+- **Maart**: "Lentefrisse huid: ontdekkingspakket"
+- **September**: "Zomerschade herstellen: intensieve behandeling"
+- **November**: "Kerstpakket: behandeling + product als cadeau"
 
 ### 7. Feedback vragen (en ernaar handelen)
 
@@ -104,10 +104,10 @@ Klanten die feedback geven en zien dat er iets mee gedaan wordt, zijn loyaler.
 |----------|---------------------|------------------------|
 | Klanten per maand | 200 | 200 |
 | Terugkerende klanten | 100 | 140 |
-| Extra bezoeken/maand | — | +40 |
+| Extra bezoeken/maand | geen | +40 |
 | Gem. besteding | €50 | €50 |
-| Extra omzet/maand | — | +€2.000 |
-| Extra omzet/jaar | — | +€24.000 |
+| Extra omzet/maand | geen | +€2.000 |
+| Extra omzet/jaar | geen | +€24.000 |
 
 €24.000 extra per jaar door 20% meer retentie. Zonder een euro aan advertenties.
 

@@ -10,7 +10,7 @@ cluster: automatisering
 ---
 Twee salons met dezelfde soort klanten, zelfde basis-tarieven. Salon A heeft een gemiddelde besteding van €58 per klant, salon B van €95. Het grote verschil zit niet in tarieven maar in upselling: salon B heeft een structurele aanpak om klanten tijdens hun bezoek relevante extras te laten proberen.
 
-Goede upsells voelen als advies, niet als verkoop. En als je ze structureert, voelt je team zich niet opdringerig — ze voelen zich behulpzaam. Dit artikel geeft 6 specifieke upsell-methoden die in beauty- en wellness-salons bewezen werken, plus de communicatie-regels die ervoor zorgen dat klanten ja zeggen zonder ongemak.
+Goede upsells voelen als advies, niet als verkoop. En als je ze structureert, voelt je team zich niet opdringerig. Ze voelen zich behulpzaam. Dit artikel geeft 6 specifieke upsell-methoden die in beauty- en wellness-salons bewezen werken, plus de communicatie-regels die ervoor zorgen dat klanten ja zeggen zonder ongemak.
 
 **In het kort:**
 
@@ -22,7 +22,7 @@ Goede upsells voelen als advies, niet als verkoop. En als je ze structureert, vo
 
 ## Waarom upselling niet "pushy verkopen" hoeft te zijn
 
-De grootste misvatting: upselling = klanten overhalen tot iets dat ze niet nodig hebben. In werkelijkheid is goede upselling precies het tegenovergestelde — je biedt iets aan dat de klant wel overwoog maar niet uit zichzelf vroeg. Denk aan een hoofdhuidbehandeling tijdens een kleurbeurt, een massage-upgrade tijdens een manicure, of een goed haarverzorgingsproduct dat specifiek bij het haar-type van deze klant past.
+De grootste misvatting: upselling = klanten overhalen tot iets dat ze niet nodig hebben. In werkelijkheid is goede upselling precies het tegenovergestelde: je biedt iets aan dat de klant wel overwoog maar niet uit zichzelf vroeg. Denk aan een hoofdhuidbehandeling tijdens een kleurbeurt, een massage-upgrade tijdens een manicure, of een goed haarverzorgingsproduct dat specifiek bij het haar-type van deze klant past.
 
 De klant voelt zich geholpen ("zij ziet wat ik nodig heb"), niet verkocht ("ze probeert me dingen aan te smeren"). Die nuance is het hele verschil.
 
@@ -96,7 +96,7 @@ Wat dit oplevert:
 - **Klanten komen vaker** (wat ze leuk vinden).
 - **Hogere levensduur-waarde** per klant.
 
-Werkt niet voor elke salon — vooral voor kappers, en minder voor nagelstudio's of beauty-specialisten met sporadische klandizie. Maar voor een juiste positionering (stedelijk, jongere klanten met vast inkomen) is het een revolutie.
+Werkt niet voor elke salon: vooral voor kappers, en minder voor nagelstudio's of beauty-specialisten met sporadische klandizie. Maar voor een juiste positionering (stedelijk, jongere klanten met vast inkomen) is het een revolutie.
 
 Conversie: 10-15% van vaste klanten kiest lidmaatschap. Dit 10-15% genereert vaak 30-40% van maandomzet.
 

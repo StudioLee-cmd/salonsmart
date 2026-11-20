@@ -9,13 +9,13 @@ tags: ["Mond-tot-mond"]
 cluster: reviews
 ---
 
-"Waar heb jij dat laten doen?" Dat is de beste marketingvraag die er bestaat. Wanneer een vriendin je wenkbrauwen, huidbehandeling of manicure complimenteert en je je salon noemt — dat is mond-tot-mondreclame in actie. Geen advertentie, geen social media post, gewoon oprechte aanbeveling.
+"Waar heb jij dat laten doen?" Dat is de beste marketingvraag die er bestaat. Wanneer een vriendin je wenkbrauwen, huidbehandeling of manicure complimenteert en je je salon noemt, dan is dat mond-tot-mondreclame in actie. Geen advertentie, geen social media post, gewoon oprechte aanbeveling.
 
 Voor beautysalons is dit de krachtigste groeistrategie. In dit artikel leer je hoe je er actief aan werkt.
 
 ## Waarom mond-tot-mond werkt voor beautysalons
 
-Beauty is persoonlijk en zichtbaar. Je klanten lopen rond met jouw werk — hun haar, huid, nagels. Elke tevreden klant is een wandelend visitekaartje.
+Beauty is persoonlijk en zichtbaar. Je klanten lopen rond met jouw werk: hun haar, huid, nagels. Elke tevreden klant is een wandelend visitekaartje.
 
 Daarnaast is vertrouwen cruciaal. Klanten laten hun gezicht en lichaam behandelen. Ze willen zekerheid dat ze in goede handen zijn. Een aanbeveling van een vriendin biedt die zekerheid.
 
@@ -33,11 +33,11 @@ Het verschil zit niet in de behandeling, maar in de relatie die je opbouwt.
 
 ### Hoe maak je ambassadeurs?
 
-1. **Lever een beleving, geen behandeling** — Het gaat om hoe de klant zich voelt. De sfeer, de aandacht, het kopje thee.
+1. **Lever een beleving, geen behandeling**: het gaat om hoe de klant zich voelt. De sfeer, de aandacht, het kopje thee.
 
-2. **Onthoud details** — Weet wat de klant de vorige keer heeft laten doen. Vraag naar de vakantie die ze noemde. Persoonlijke aandacht creert loyaliteit.
+2. **Onthoud details**: weet wat de klant de vorige keer heeft laten doen. Vraag naar de vakantie die ze noemde. Persoonlijke aandacht creert loyaliteit.
 
-3. **Overtreft verwachtingen** — Een klein extra: een gratis handscrub bij een manicure, een sample van een nieuw product, een persoonlijk beauty-advies.
+3. **Overtreft verwachtingen**: een klein extra, zoals een gratis handscrub bij een manicure, een sample van een nieuw product of een persoonlijk beauty-advies.
 
 ## 5 strategieen om mond-tot-mond te stimuleren
 
@@ -47,7 +47,7 @@ Na een behandeling waar de klant zichtbaar blij mee is: "Als je tevreden bent, z
 
 ### 2. Vriendinnenkorting
 
-Bied een korting wanneer een klant een vriendin meeneemt. Beide krijgen iets — de klant voelt zich beloond, de vriendin voelt zich welkom. Dit versterkt je [klantbehoud](/blog/klantbehoud-beautysalon-vaste-klanten).
+Bied een korting wanneer een klant een vriendin meeneemt. Beide krijgen iets: de klant voelt zich beloond, de vriendin voelt zich welkom. Dit versterkt je [klantbehoud](/blog/klantbehoud-beautysalon-vaste-klanten).
 
 ### 3. Google reviews als digitale mond-tot-mond
 
@@ -55,7 +55,7 @@ Een [Google review](/blog/meer-google-reviews-beauty-salon) is een permanente aa
 
 ### 4. Instagram-waardige resultaten
 
-Maak foto's van je werk (met toestemming) en deel ze op social media. Tag je klant. Zij deelt het met haar volgers — gratis exposure voor jouw salon. Dit versterkt ook je [personal brand](/blog/personal-branding-beautysalon).
+Maak foto's van je werk (met toestemming) en deel ze op social media. Tag je klant. Zij deelt het met haar volgers, en dat is gratis exposure voor jouw salon. Dit versterkt ook je [personal brand](/blog/personal-branding-beautysalon).
 
 ### 5. Seizoensacties met vriendinnen-thema
 

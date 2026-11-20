@@ -11,7 +11,7 @@ tags: ["Lokale SEO", "Google"]
 
 De gemiddelde klant reist maximaal 15 minuten voor een beautysalon. Dat maakt lokale vindbaarheid cruciaal: als jij niet verschijnt bij "nagelstudio [stad]" of "beautysalon bij mij in de buurt", mis je klanten die letterlijk om de hoek wonen.
 
-Treatwell en andere platforms helpen, maar ze nemen commissie en je bent afhankelijk van hun algoritme. [lokale SEO](/seo) geeft je eigen zichtbaarheid — gratis en onder jouw controle.
+Treatwell en andere platforms helpen, maar ze nemen commissie en je bent afhankelijk van hun algoritme. [lokale SEO](/seo) geeft je eigen zichtbaarheid, gratis en onder jouw controle.
 
 ## Google Bedrijfsprofiel volledig invullen
 
@@ -67,6 +67,6 @@ Focus op kwaliteit en recentheid. Tien recente 5-sterren reviews wegen zwaarder 
 
 ## Conclusie
 
-Lokale SEO maakt je beautysalon zichtbaar voor klanten in je directe omgeving — zonder commissie aan platforms. Begin met je Google Bedrijfsprofiel, verzamel systematisch reviews en schrijf lokale content.
+Lokale SEO maakt je beautysalon zichtbaar voor klanten in je directe omgeving, zonder commissie aan platforms. Begin met je Google Bedrijfsprofiel, verzamel systematisch reviews en schrijf lokale content.
 
-De investering is minimaal en het resultaat groeit maand over maand. Benieuwd hoe SalonSmart je vindbaarheid automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij creëert schoonheid.
+De investering is minimaal en het resultaat groeit maand over maand. Benieuwd hoe SalonSmart je vindbaarheid automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het. Jij creëert schoonheid.
