@@ -10,7 +10,7 @@ cluster: automatisering
 ---
 ## Meer omzet zonder meer klanten
 
-Elke salonhouder wil meer omzet. De voor de hand liggende oplossing: meer klanten. Maar er is een slimmere route: meer omzet per klant. Als elke klant gemiddeld €15 meer besteedt, en je hebt 20 klanten per dag, is dat €300 extra per dag — €6.000 per maand.
+Elke salonhouder wil meer omzet. De voor de hand liggende oplossing: meer klanten. Maar er is een slimmere route: meer omzet per klant. Als elke klant gemiddeld €15 meer besteedt, en je hebt 20 klanten per dag, is dat €300 extra per dag, oftewel €6.000 per maand.
 
 Het geheim? Upselling en cross-selling. Niet door te pushen, maar door op het juiste moment het juiste aanbod te doen.
 
@@ -43,14 +43,14 @@ Let op: dit moet oprecht zijn. Klanten merken het als je verkoopt om het verkope
 ### 3. De seizoensgebonden upgrade
 
 Seizoenswisselingen zijn perfecte upsell-momenten:
-- **Winter**: "In de winter heeft je huid extra voeding nodig. Onze winterbehandeling bevat een extra voedend masker — €15 meer, maar je huid dankt je."
+- **Winter**: "In de winter heeft je huid extra voeding nodig. Onze winterbehandeling bevat een extra voedend masker: €15 meer, maar je huid dankt je."
 - **Zomer**: "Na de vakantie heeft je haar extra verzorging nodig. Zullen we een keratine-behandeling toevoegen?"
 
 ### 4. De productaanbeveling na de behandeling
 
 Na de behandeling, bij het afrekenen: "Ik heb vandaag [product] gebruikt bij je behandeling. Om het resultaat thuis te behouden, werkt dit serum heel goed. Wil je het meenemen?"
 
-Dit is cross-selling op zijn best — het sluit aan bij de behandeling die net is gedaan.
+Dit is cross-selling op zijn best, want het sluit aan bij de behandeling die net is gedaan.
 
 ### 5. De automatische follow-up
 
@@ -60,10 +60,10 @@ Dit is cross-selling op zijn best — het sluit aan bij de behandeling die net i
 
 ## Wat niet te doen
 
-- **Niet bij elke behandeling alles aanbieden** — kies max 1 upsell per bezoek
-- **Niet pushen na een "nee"** — accepteer het en ga door
-- **Niet onrealistische voordelen beloven** — wees eerlijk over wat een product doet
-- **Niet de rekening verdubbelen** — een upsell van €10-25 is acceptabel, €100 schrikt af
+- **Niet bij elke behandeling alles aanbieden**: kies max 1 upsell per bezoek
+- **Niet pushen na een "nee"**: accepteer het en ga door
+- **Niet onrealistische voordelen beloven**: wees eerlijk over wat een product doet
+- **Niet de rekening verdubbelen**: een upsell van €10-25 is acceptabel, €100 schrikt af
 
 ## De financiele impact
 
@@ -73,11 +73,11 @@ Dit is cross-selling op zijn best — het sluit aan bij de behandeling die net i
 | Gemiddeld | €45 | €60 | +€3.000/maand |
 | Optimaal | €45 | €70 | +€5.000/maand |
 
-Met een bescheiden upsell-strategie van €10-15 per klant verdien je €2.000-3.000 per maand extra — zonder een enkele extra klant.
+Met een bescheiden upsell-strategie van €10-15 per klant verdien je €2.000-3.000 per maand extra, zonder een enkele extra klant.
 
 ## Producten verkopen als extra omzetbron
 
-Producten in je salon zijn geen bijzaak — ze zijn een serieuze omzetbron. Salons die actief producten verkopen, halen 15-25% van hun totale omzet uit productverkoop.
+Producten in je salon zijn geen bijzaak, maar een serieuze omzetbron. Salons die actief producten verkopen, halen 15-25% van hun totale omzet uit productverkoop.
 
 Tips:
 - Verkoop alleen producten die je ook daadwerkelijk gebruikt in je behandelingen
@@ -89,7 +89,7 @@ Tips:
 
 ## Conclusie
 
-Upselling is geen trucje — het is service. Als je het goed doet, voeg je waarde toe aan de ervaring van je klant en verhoog je tegelijkertijd je omzet. De sleutel is relevantie, timing en oprechtheid.
+Upselling is geen trucje, maar service. Als je het goed doet, voeg je waarde toe aan de ervaring van je klant en verhoog je tegelijkertijd je omzet. De sleutel is relevantie, timing en oprechtheid.
 
 Met [SalonSmart](/) automatiseren we je follow-up berichten en productaanbevelingen. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

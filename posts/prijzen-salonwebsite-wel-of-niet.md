@@ -18,12 +18,12 @@ Het juiste antwoord hangt af van je positionering, je doelgroep en je concurrent
 
 Transparantie wint vertrouwen:
 
-- **Verwachtingsmanagement**: klanten weten vooraf wat het kost — geen verrassingen
+- **Verwachtingsmanagement**: klanten weten vooraf wat het kost, dus geen verrassingen
 - **Tijdsbesparing**: minder telefoontjes en berichten over prijzen
-- **SEO-voordeel**: mensen zoeken op "prijzen [behandeling] [stad]" — als je prijzen op je site staan, scoor je hierop
+- **SEO-voordeel**: mensen zoeken op "prijzen [behandeling] [stad]", dus als je prijzen op je site staan, scoor je hierop
 - **Drempel verlagen**: klanten die de prijs kennen, boeken sneller
 
-Vooral voor basisbehandelingen (knipbeurt, manicure, waxen) verwachten klanten transparantie. Ze vergelijken en kiezen — en een salon zonder prijzen valt af.
+Vooral voor basisbehandelingen (knipbeurt, manicure, waxen) verwachten klanten transparantie. Ze vergelijken en kiezen, en een salon zonder prijzen valt af.
 
 ## Wanneer je beter geen prijzen toont
 
@@ -33,15 +33,15 @@ In sommige gevallen is "prijzen op aanvraag" beter:
 - **Maatwerkbehandelingen**: complexe behandelingen (bruidsmakeup, uitgebreide huidverzorging) variëren sterk in prijs
 - **Concurrentiegevoeligheid**: als je concurrent direct je prijzen kopieert en onderbiedt
 
-Maar wees je bewust van het nadeel: elke klant die de prijs niet vindt, is een potentieel verloren boeking. Ze bellen niet — ze klikken door naar de volgende salon.
+Maar wees je bewust van het nadeel: elke klant die de prijs niet vindt, is een potentieel verloren boeking. Ze bellen niet, maar klikken door naar de volgende salon.
 
 ## De middenweg: vanaf-prijzen
 
 De beste strategie voor de meeste salons: toon vanaf-prijzen voor standaardbehandelingen en vermeld "prijs op maat" voor complexe treatments:
 
-- **Standaard**: "Gezichtsbehandeling vanaf €75" — de klant weet de orde van grootte
-- **Pakketten**: "Luxe verwenpakket: €149" — een compleet aanbod met duidelijke prijs
-- **Maatwerk**: "Bruidsmakeup: prijs op aanvraag — plan een vrijblijvend consult" — logisch dat dit varieert
+- **Standaard**: "Gezichtsbehandeling vanaf €75", zodat de klant de orde van grootte weet
+- **Pakketten**: "Luxe verwenpakket: €149", een compleet aanbod met duidelijke prijs
+- **Maatwerk**: "Bruidsmakeup: prijs op aanvraag, plan een vrijblijvend consult" (logisch dat dit varieert)
 
 Dit geeft transparantie zonder je vast te pinnen. Klanten weten wat ze kunnen verwachten en voelen zich niet afgeschrikt.
 

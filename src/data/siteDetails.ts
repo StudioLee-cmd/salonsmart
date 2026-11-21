@@ -3,7 +3,7 @@ export const siteDetails = {
     niche: 'Salons',
     siteUrl: 'https://www.salonsmart.nl/',
     metadata: {
-        title: 'SalonSmart - AI assistent voor jouw salon',
+        title: 'SalonSmart | AI assistent voor jouw salon',
         description: 'SalonSmart: wij maken de website voor jouw salon. Chatbot, telefoon en marketing sluit je erop aan via je pakket.',
     },
     language: 'nl-NL',

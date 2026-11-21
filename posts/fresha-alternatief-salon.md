@@ -11,7 +11,7 @@ cluster: automatisering
 
 Fresha is een internationaal boekingsplatform dat zich richt op beauty en wellness. Het biedt gratis salon software met online boekingen, een kassasysteem en basismarketingfuncties. De aantrekkingskracht is duidelijk: het is gratis. Maar gratis komt met een prijs.
 
-Fresha verdient aan betalingstransacties en aan hun marketplace. Je klanten kunnen via de Fresha-app boeken bij jou, maar ook bij je concurrent om de hoek. En Fresha's focus ligt op de internationale markt — de Nederlandse markt krijgt minder aandacht.
+Fresha verdient aan betalingstransacties en aan hun marketplace. Je klanten kunnen via de Fresha-app boeken bij jou, maar ook bij je concurrent om de hoek. En Fresha's focus ligt op de internationale markt, dus de Nederlandse markt krijgt minder aandacht.
 
 ## De nadelen van Fresha voor Nederlandse salons
 
@@ -48,7 +48,7 @@ Met 25+ tools krijg je alles wat Fresha biedt en veel meer:
 | Chatbot | Nee | Ja |
 | Review automatisering | Nee | Ja |
 | SEO blog | Nee | Ja |
-| Managed service | Nee | Ja — 15 min/maand |
+| Managed service | Nee | Ja, 15 min/maand |
 
 ## Managed service vs zelf configureren
 

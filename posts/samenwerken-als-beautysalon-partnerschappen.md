@@ -9,11 +9,11 @@ tags: ["Samenwerkingen"]
 cluster: branding
 ---
 
-Als beautysalon heb je te maken met seizoenspieken (bruiloften, feestdagen) en rustigere periodes. Samenwerkingen met complementaire bedrijven helpen je om het hele jaar door een volle agenda te houden — en nieuwe klantsegmenten aan te boren.
+Als beautysalon heb je te maken met seizoenspieken (bruiloften, feestdagen) en rustigere periodes. Samenwerkingen met complementaire bedrijven helpen je om het hele jaar door een volle agenda te houden en nieuwe klantsegmenten aan te boren.
 
 ## Waarom partnerschappen voor beautysalons werken
 
-Je klanten komen niet alleen voor een behandeling — ze komen voor een ervaring. Door samen te werken met fotografen, bruidswinkels, kapsalons en wellnesscentra, bied je die complete ervaring en bereik je klanten die je anders niet zou vinden.
+Je klanten komen niet alleen voor een behandeling, maar voor een ervaring. Door samen te werken met fotografen, bruidswinkels, kapsalons en wellnesscentra, bied je die complete ervaring en bereik je klanten die je anders niet zou vinden.
 
 Voordelen:
 - Structurele doorverwijzingen van bruidswinkels en fotografen
@@ -43,7 +43,7 @@ Bruiden zijn bereid premium te betalen voor de perfecte look. Een samenwerking m
 
 ### 3. Fotografen
 
-Fotografen weten welke beautysalons kwaliteit leveren. Een wederzijdse doorverwijzing — jij raadt een fotograaf aan voor shoots na een make-over, de fotograaf stuurt klanten naar jou voor behandelingen voor een shoot — is een win-win.
+Fotografen weten welke beautysalons kwaliteit leveren. Een wederzijdse doorverwijzing (jij raadt een fotograaf aan voor shoots na een make-over, de fotograaf stuurt klanten naar jou voor behandelingen voor een shoot) is een win-win.
 
 ![Bruidsbeautyproducten en haaraccessoires op een kaptafel](/images/blog/samenwerken-als-beautysalon-partnerschappen-2.png)
 
@@ -53,7 +53,7 @@ Combineer je krachten met partners voor seizoensgebonden aanbiedingen: een "Vale
 
 ## Online zichtbaarheid
 
-Vermeld je samenwerkingspartners op je [website](/blog/salonwebsite-boekingsmachine). Deel gezamenlijke [before-after content](/blog/social-media-beautysalons-instagram) op sociale media. Link naar elkaars websites — dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-beautysalon).
+Vermeld je samenwerkingspartners op je [website](/blog/salonwebsite-boekingsmachine). Deel gezamenlijke [before-after content](/blog/social-media-beautysalons-instagram) op sociale media. Link naar elkaars websites, want dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-beautysalon).
 
 ## Resultaten meten
 
@@ -61,7 +61,7 @@ Vraag elke nieuwe klant hoe ze je salon gevonden hebben. Track welke samenwerkin
 
 ## De kracht van een beauty-netwerk
 
-De salons die het snelst groeien zijn niet de salons met het grootste reclamebudget. Het zijn de salons die een netwerk hebben met kappers, bruidswinkels en fotografen. Die samenwerking is onzichtbaar voor de buitenwereld maar levert een constante stroom klanten op die via vertrouwde kanalen binnenkomen. Een bruid die via haar wedding planner bij jou terechtkomt, is al overtuigd. Die hoef je niet meer te verkopen — alleen nog te verwennen.
+De salons die het snelst groeien zijn niet de salons met het grootste reclamebudget. Het zijn de salons die een netwerk hebben met kappers, bruidswinkels en fotografen. Die samenwerking is onzichtbaar voor de buitenwereld maar levert een constante stroom klanten op die via vertrouwde kanalen binnenkomen. Een bruid die via haar wedding planner bij jou terechtkomt, is al overtuigd. Die hoef je niet meer te verkopen, alleen nog te verwennen.
 
 ## Hulp nodig?
 

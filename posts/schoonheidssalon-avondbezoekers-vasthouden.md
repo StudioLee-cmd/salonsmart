@@ -20,7 +20,7 @@ Drie factoren maken de avond-conversie moeilijk:
 
 **Het menselijke contact ontbreekt.** Een klant die overdag belt krijgt iemand aan de telefoon die ze geruststelt, aanbevelingen doet en tot boeking leidt. 's Avonds is er een contactformulier en hopen dat ze morgen nog tijd hebben om te reageren op een mail.
 
-**Concurrentie is een klik weg.** Overdag misschien niet — overdag ben je bereikbaar en heb je de goede klik. 's Avonds zit er tussen jouw salon en de volgende op Google-resultaten één extra klik. Als jouw website niet overtuigt, zijn ze bij de concurrent voor je morgen je mailbox opent.
+**Concurrentie is een klik weg.** Overdag misschien niet, want overdag ben je bereikbaar en heb je de goede klik. 's Avonds zit er tussen jouw salon en de volgende op Google-resultaten één extra klik. Als jouw website niet overtuigt, zijn ze bij de concurrent voor je morgen je mailbox opent.
 
 ## Wat vaak wordt geprobeerd en niet werkt
 
@@ -50,11 +50,11 @@ Hij kan ter plekke vragen beantwoorden, verwijzen naar specifieke behandelaren, 
 
 De boeking-module moet naadloos aansluiten op het chatbot-gesprek. Als de klant geïnteresseerd raakt in een specifieke behandeling bij een specifieke behandelaar, moet ze direct beschikbare slots zien en kunnen boeken zonder uit de chat te moeten. Elke extra klik is een afhaakrisico.
 
-Populaire integraties zijn Treatwell, Salonized en Fresha — kies wat past bij je commissie-voorkeuren. Maar koppel hem wel aan je chatbot. Een chatbot die alleen kan praten maar niet kan boeken, is 60 procent van de waarde weg.
+Populaire integraties zijn Treatwell, Salonized en Fresha. Kies wat past bij je commissie-voorkeuren. Maar koppel hem wel aan je chatbot. Een chatbot die alleen kan praten maar niet kan boeken, is 60 procent van de waarde weg.
 
 ### 3. Post-boeking-automatisering die de klant vasthoudt tot haar afspraak
 
-Een boeking is pas een omzet als de klant daadwerkelijk komt. Tussen boeking en afspraak kan er veel gebeuren — afzegging, vergeetachtigheid, bedenken. Drie geautomatiseerde WhatsApps houden het momentum vast:
+Een boeking is pas een omzet als de klant daadwerkelijk komt. Tussen boeking en afspraak kan er veel gebeuren: afzegging, vergeetachtigheid, bedenken. Drie geautomatiseerde WhatsApps houden het momentum vast:
 
 - **Direct na boeking:** bevestiging + voorbereidingsinstructies (kom zonder make-up voor gezichtsbehandeling, kom met schone nagels voor gellak)
 - **24 uur vooraf:** herinnering met tijd en adres

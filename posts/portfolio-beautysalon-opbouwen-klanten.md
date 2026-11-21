@@ -1,6 +1,6 @@
 ---
 title: "Portfolio beautysalon opbouwen: van foto's naar boekingen"
-excerpt: "Leer hoe je een professioneel portfolio voor je beautysalon opbouwt — van routine foto's maken tot slim archiveren en inzetten voor meer boekingen."
+excerpt: "Leer hoe je een professioneel portfolio voor je beautysalon opbouwt, van routine foto's maken tot slim archiveren en inzetten voor meer boekingen."
 date: "2026-04-16"
 cluster: website
 authorSlug: "tim-van-der-lee"
@@ -15,7 +15,7 @@ De meeste beautysalons doen dit nog half. Ze posten af en toe een nagelfoto in s
 
 Dit artikel geeft je een praktische workflow om je portfolio te bouwen als systeem: een mini-fotohoek in je salon, een herhaalbaar opnameproces, slimme archivering, en gerichte inzet op Instagram, Google en je website. Geen Hollywood-fotografie, wel een werkbare routine voor een drukke salon.
 
-## Wat écht in een salonportfolio hoort — meer dan alleen nagelfoto's
+## Wat écht in een salonportfolio hoort: meer dan alleen nagelfoto's
 
 Een goed salonportfolio bestaat uit vijf typen content, niet één:
 
@@ -38,7 +38,7 @@ Foto's halen niet de kwaliteit die ze kunnen halen omdat het licht slecht is, de
 
 Setup tijd: 15 minuten. Kosten: onder de 50 euro. Resultaat: foto's die er twee niveaus professioneler uitzien dan wat 90 procent van de salons post.
 
-## Belichting, compositie en achtergrond — de drie knoppen die het verschil maken
+## Belichting, compositie en achtergrond: de drie knoppen die het verschil maken
 
 Drie principes die je altijd toepast:
 

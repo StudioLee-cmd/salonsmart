@@ -9,9 +9,9 @@ tags: ["Herinneringen", "No-shows"]
 ---
 ## De stoel staat klaar, maar de klant komt niet
 
-Het is 14:00. Je hebt een kleuring gepland — 90 minuten werk, €120 omzet. De klant komt niet opdagen. Geen bericht, geen telefoontje. Je kunt die plek niet meer opvullen, en je draait een dag met een gat in je agenda.
+Het is 14:00. Je hebt een kleuring gepland: 90 minuten werk, €120 omzet. De klant komt niet opdagen. Geen bericht, geen telefoontje. Je kunt die plek niet meer opvullen, en je draait een dag met een gat in je agenda.
 
-Voor salons zijn no-shows extra duur. Een gemiste kleuring of behandeling is niet alleen verloren omzet — het is ook voorbereide materialen, gereserveerde tijd en een medewerker die niks te doen heeft.
+Voor salons zijn no-shows extra duur. Een gemiste kleuring of behandeling is niet alleen verloren omzet. Het is ook voorbereide materialen, gereserveerde tijd en een medewerker die niks te doen heeft.
 
 ## Waarom klanten niet komen opdagen
 
@@ -46,7 +46,7 @@ Gebruik WhatsApp als primair kanaal. De openingspercentages:
 
 Het verschil is enorm. Een herinnering die niet gelezen wordt, werkt niet.
 
-### Bevestigen of verzetten — niet alleen herinneren
+### Bevestigen of verzetten, niet alleen herinneren
 
 Geef de klant twee knoppen: "Ik kom!" of "Verzetten." Dit is cruciaal. Als iemand niet kan komen maar wél makkelijk kan verzetten, vul je de plek op met iemand anders. Als ze alleen een herinnering krijgen zonder actie, zeggen ze alsnog niks.
 
@@ -65,12 +65,12 @@ Salons die automatische herinneringen gebruiken rapporteren:
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als salon.
 
-Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [reviews](/reviews) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [reviews](/reviews): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 ## Conclusie
 
-Automatische herinneringen zijn de simpelste manier om je salon winstgevender te maken. Je hoeft er zelf niks voor te doen — het systeem stuurt ze automatisch. De klant wordt herinnerd, jij houdt je agenda vol.
+Automatische herinneringen zijn de simpelste manier om je salon winstgevender te maken. Je hoeft er zelf niks voor te doen, want het systeem stuurt ze automatisch. De klant wordt herinnerd, jij houdt je agenda vol.
 
 Wil je dit in jouw salon opzetten? [Vraag een gratis scan aan](/gratis-scan) en we laten je zien hoe het werkt.

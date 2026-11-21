@@ -18,7 +18,7 @@ Veel salonhouders vertrouwen op hun vaste klantenkring en mond-tot-mondreclame. 
 
 ## Je directe concurrenten identificeren
 
-Maak een lijst van de beautysalons in een straal van 5-10 kilometer rondom jouw salon. Dit zijn je directe concurrenten — de salons waar jouw potentiële klanten ook naartoe kunnen.
+Maak een lijst van de beautysalons in een straal van 5-10 kilometer rondom jouw salon. Dit zijn je directe concurrenten: de salons waar jouw potentiële klanten ook naartoe kunnen.
 
 Verzamel voor elke concurrent:
 - Welke behandelingen bieden ze aan?
@@ -40,7 +40,7 @@ Vergelijk je met concurrenten op:
 - **Instagram**: Hoe vaak posten ze? Wat voor content? Voorbehandeling/na-behandeling foto's werken sterk in deze branche.
 - **Treatwell en andere platforms**: Zijn ze daar actief? Wat zeggen klanten?
 
-Let vooral op wat klanten noemen als positief en negatief. Als concurrenten veel klachten krijgen over wachttijden, kun jij dat juist goed regelen. Als ze worden geprezen om een specifieke behandeling, overweeg dan of jij dat ook kunt aanbieden — of juist een ander specialisme te kiezen.
+Let vooral op wat klanten noemen als positief en negatief. Als concurrenten veel klachten krijgen over wachttijden, kun jij dat juist goed regelen. Als ze worden geprezen om een specifieke behandeling, overweeg dan of jij dat ook kunt aanbieden, of juist een ander specialisme te kiezen.
 
 ## Je unieke propositie bepalen
 
@@ -52,7 +52,7 @@ Denk na over wat jou uniek maakt:
 - **Natuurlijk**: Werk je uitsluitend met natuurlijke of biologische producten?
 - **Resultaatgericht**: Focus je op meetbare resultaten met geavanceerde apparatuur?
 
-Kies een richting en communiceer die consequent. Op je website, social media, in je salon — alles moet dezelfde boodschap uitstralen.
+Kies een richting en communiceer die consequent. Op je website, social media, in je salon: alles moet dezelfde boodschap uitstralen.
 
 ## Prijzen en pakketten positioneren
 
@@ -60,18 +60,18 @@ Kijk wat concurrenten vragen voor vergelijkbare behandelingen. Positioneer je be
 
 Premium salons vragen meer maar bieden een complete ervaring. Middenklasse salons concurreren op kwaliteit-prijsverhouding. Budgetsalons draaien op volume.
 
-Ongeacht je prijsniveau: wees transparant. Klanten waarderen het als ze vooraf weten wat iets kost. Overweeg om pakketten samen te stellen — een combinatie van behandelingen tegen een aantrekkelijk totaalprijs. Dit verhoogt de gemiddelde besteding per bezoek.
+Ongeacht je prijsniveau: wees transparant. Klanten waarderen het als ze vooraf weten wat iets kost. Overweeg om pakketten samen te stellen: een combinatie van behandelingen tegen een aantrekkelijk totaalprijs. Dit verhoogt de gemiddelde besteding per bezoek.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/personeel-behouden-salon-verloop-voorkomen" class="text-dark fw-semibold">Personeel behouden in je salon: 5 manieren tegen verloop</a> →</p></div></div></div>
 
 ## Actieplan: je salon onderscheiden
 
 1. **Analyseer 5-10 concurrenten** op diensten, prijzen, reviews en online aanwezigheid.
-2. **Definieer je unieke propositie** — wat maakt jouw salon anders?
-3. **Verbeter je online zichtbaarheid** — Google Bedrijfsprofiel, website, social media.
+2. **Definieer je unieke propositie**: wat maakt jouw salon anders?
+3. **Verbeter je online zichtbaarheid**: Google Bedrijfsprofiel, website, social media.
 4. **Verzamel actief reviews** na elke behandeling.
 5. **Evalueer elk kwartaal** en pas je strategie aan.
 
-De beautysalons die groeien zijn niet per se de beste in hun vak — het zijn de salons die weten hoe ze zich positioneren. Door structureel naar je markt te kijken, maak jij betere keuzes en trek je meer klanten aan.
+De beautysalons die groeien zijn niet per se de beste in hun vak. Het zijn de salons die weten hoe ze zich positioneren. Door structureel naar je markt te kijken, maak jij betere keuzes en trek je meer klanten aan.
 
 Benieuwd hoe jouw salon scoort ten opzichte van de concurrentie? [Vraag een gratis scan aan](https://www.salonsmart.nl/gratis-scan) en ontdek je kansen.

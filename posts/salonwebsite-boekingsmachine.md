@@ -18,7 +18,7 @@ Het goede nieuws: met een paar gerichte aanpassingen kun je je website verandere
 
 ## Online boeken als standaard
 
-In 2026 verwachten klanten dat ze online kunnen boeken. [Online boeken](/blog/online-boeken-beautysalon-verwachting-2026) is niet meer optioneel — het is een basisvereiste. Klanten willen op elk moment van de dag een afspraak kunnen maken, ook 's avonds of in het weekend.
+In 2026 verwachten klanten dat ze online kunnen boeken. [Online boeken](/blog/online-boeken-beautysalon-verwachting-2026) is niet meer optioneel, maar een basisvereiste. Klanten willen op elk moment van de dag een afspraak kunnen maken, ook 's avonds of in het weekend.
 
 Integreer een boekingswidget op je homepage. Niet een link naar een externe pagina, maar een ingebouwde module die direct beschikbare tijden toont. Hoe minder klikken nodig zijn, hoe meer boekingen je krijgt.
 
@@ -65,7 +65,7 @@ Je website kan helpen om de gemiddelde orderwaarde te verhogen:
 
 ## Veelgemaakte fouten
 
-- **Geen online boekingsmogelijkheid**: klanten die niet direct kunnen boeken, bellen niet alsnog — ze gaan naar de concurrent
+- **Geen online boekingsmogelijkheid**: klanten die niet direct kunnen boeken, bellen niet alsnog, maar gaan naar de concurrent
 - **Verouderde foto's**: foto's van drie jaar geleden ondermijnen vertrouwen
 - **Geen prijzen**: klanten willen weten wat het kost voordat ze bellen
 - **Te veel pagina's**: een salon heeft vijf tot zeven pagina's nodig, niet twintig

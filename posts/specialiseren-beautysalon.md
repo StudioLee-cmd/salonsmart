@@ -19,7 +19,7 @@ Specialisatie levert:
 - **Premium klanten** die specifiek voor jouw expertise komen
 - **Hogere tarieven** die expertise rechtvaardigt
 - **Sterkere reputatie** als expert in je niche
-- **Meer doorverwijzingen** — experts worden aanbevolen
+- **Meer doorverwijzingen**: experts worden aanbevolen
 
 ## Kansrijke specialisaties
 
@@ -36,10 +36,10 @@ De beste keuze hangt af van je opleiding, passie en wat je markt mist.
 
 ## Hoe communiceer je je specialisatie?
 
-- **Website** — maak je expertise direct duidelijk
-- **Google** — optimaliseer je [bedrijfsprofiel](/blog/google-bedrijfsprofiel-beautysalon)
-- **Social media** — deel voor-en-na resultaten van je specialistische behandelingen
-- **Reviews** — vraag klanten specifiek over hun ervaring met je niche via [Google reviews](/blog/meer-google-reviews-beauty-salon)
+- **Website**: maak je expertise direct duidelijk
+- **Google**: optimaliseer je [bedrijfsprofiel](/blog/google-bedrijfsprofiel-beautysalon)
+- **Social media**: deel voor-en-na resultaten van je specialistische behandelingen
+- **Reviews**: vraag klanten specifiek over hun ervaring met je niche via [Google reviews](/blog/meer-google-reviews-beauty-salon)
 
 ## Specialisatie en je personal brand
 
@@ -47,7 +47,7 @@ Jij bent het gezicht van je salon. Als specialist word je de go-to expert en bou
 
 ## De valkuil van te breed blijven
 
-Door alles aan te bieden, val je nergens op. Specialisatie betekent niet dat je stopt met basisbehandelingen — het betekent dat je ergens uitzonderlijk goed in bent. Die expertise trekt de juiste klanten en maakt [klantbehoud](/blog/klantbehoud-beautysalon-vaste-klanten) eenvoudiger.
+Door alles aan te bieden, val je nergens op. Specialisatie betekent niet dat je stopt met basisbehandelingen. Het betekent dat je ergens uitzonderlijk goed in bent. Die expertise trekt de juiste klanten en maakt [klantbehoud](/blog/klantbehoud-beautysalon-vaste-klanten) eenvoudiger.
 
 ## Investeren in specialisatie
 

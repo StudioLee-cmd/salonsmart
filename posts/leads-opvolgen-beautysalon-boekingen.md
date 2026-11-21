@@ -9,13 +9,13 @@ tags: ["Leads", "Lead opvolging"]
 ---
 ## Het lek in je boekingsfunnel
 
-Een potentiële klant bekijkt je Instagram, bezoekt je website, vergelijkt prijzen — en boekt ergens anders. Niet omdat jij slechter bent, maar omdat je concurrent sneller reageerde, een betere aanbieding had of simpelweg makkelijker te boeken was.
+Een potentiële klant bekijkt je Instagram, bezoekt je website, vergelijkt prijzen en boekt ergens anders. Niet omdat jij slechter bent, maar omdat je concurrent sneller reageerde, een betere aanbieding had of simpelweg makkelijker te boeken was.
 
 Het verschil tussen een goed draaiende salon en een halfvolle agenda zit vaak niet in de behandelingen maar in de opvolging van geïnteresseerden.
 
 ## Snelle reactie op elk kanaal
 
-Beautybezoeken worden impulsief geboekt. De klant ziet een Instagram-post, wil een behandeling en boekt binnen vijf minuten — of scrolt door. Snelheid is cruciaal:
+Beautybezoeken worden impulsief geboekt. De klant ziet een Instagram-post, wil een behandeling en boekt binnen vijf minuten, of scrolt door. Snelheid is cruciaal:
 
 - **Instagram DM:** [automatisch antwoord](/chatbot) met boekingslink binnen 1 minuut
 - **WhatsApp:** Directe reactie met beschikbare tijden
@@ -69,4 +69,4 @@ Een kennismakingskorting van 10-15% op de eerste behandeling werkt goed als conv
 
 Leads opvolgen als beautysalon is het verschil tussen een volle en een halfvolle agenda. Automatiseer de eerste reactie, personaliseer de follow-up en bouw een retentiesysteem. De klant die vandaag twijfelt, is morgen je vaste bezoeker.
 
-Benieuwd hoe SalonSmart je lead opvolging automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij creëert schoonheid.
+Benieuwd hoe SalonSmart je lead opvolging automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het. Jij creëert schoonheid.

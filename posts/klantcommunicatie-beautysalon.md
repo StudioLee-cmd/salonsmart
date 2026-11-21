@@ -9,7 +9,7 @@ tags: ["Klantcontact"]
 cluster: automatisering
 ---
 
-Elk bezoek aan je beautysalon begint en eindigt met communicatie. De bevestiging, de herinnering, het gesprek tijdens de behandeling, de nazorg — elke interactie bepaalt of je klant terugkomt. Toch laten veel salons deze contactmomenten onbenut.
+Elk bezoek aan je beautysalon begint en eindigt met communicatie. De bevestiging, de herinnering, het gesprek tijdens de behandeling, de nazorg: elke interactie bepaalt of je klant terugkomt. Toch laten veel salons deze contactmomenten onbenut.
 
 ## Waarom communicatie zo belangrijk is
 
@@ -47,7 +47,7 @@ Dit is het meest persoonlijke moment. Luister, adviseer, en noteer voorkeuren:
 
 ### 5. De follow-up (3-4 weken later)
 
-"Hoe bevalt je behandeling? Het is bijna tijd voor een nieuwe sessie — zullen we een afspraak inplannen?" Dit is waar [klantbehoud](/blog/klantbehoud-beautysalon-vaste-klanten) concreet wordt.
+"Hoe bevalt je behandeling? Het is bijna tijd voor een nieuwe sessie. Zullen we een afspraak inplannen?" Dit is waar [klantbehoud](/blog/klantbehoud-beautysalon-vaste-klanten) concreet wordt.
 
 ## Welke kanalen werken het best?
 
@@ -69,11 +69,11 @@ Automatiseer de structuur, niet de toon:
 
 ## Veelgemaakte fouten
 
-1. **Alleen communiceren bij problemen** — stuur ook positieve berichten
-2. **Te veel berichten** — max 1 per week buiten afspraken om
-3. **Niet reageren op [reviews](/blog/meer-google-reviews-beauty-salon)** — altijd reageren, ook positief
-4. **Geen opt-out** — wettelijk verplicht en voorkomt irritatie
-5. **Copy-paste berichten** — klanten merken het als het onpersoonlijk is
+1. **Alleen communiceren bij problemen**: stuur ook positieve berichten
+2. **Te veel berichten**: max 1 per week buiten afspraken om
+3. **Niet reageren op [reviews](/blog/meer-google-reviews-beauty-salon)**: altijd reageren, ook positief
+4. **Geen opt-out**: wettelijk verplicht en voorkomt irritatie
+5. **Copy-paste berichten**: klanten merken het als het onpersoonlijk is
 
 ## Geen tijd voor communicatie?
 
@@ -83,4 +83,4 @@ Bij StudioLee nemen we de complete digitale communicatie uit handen. Van automat
 
 ## Conclusie
 
-Klantcommunicatie is de rode draad door elk salonbezoek. Van de eerste bevestiging tot de follow-up weken later — elk contactmoment is een kans om je klant te verrassen en te behouden. Automatiseer de structuur, houd de toon persoonlijk en zie je retentie stijgen.
+Klantcommunicatie is de rode draad door elk salonbezoek. Van de eerste bevestiging tot de follow-up weken later: elk contactmoment is een kans om je klant te verrassen en te behouden. Automatiseer de structuur, houd de toon persoonlijk en zie je retentie stijgen.

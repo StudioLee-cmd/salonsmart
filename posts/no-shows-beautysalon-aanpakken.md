@@ -9,7 +9,7 @@ cluster: automatisering
 ---
 ## De echte kosten van no-shows voor je salon
 
-Een beautysalon die vijf no-shows per week heeft bij een gemiddelde behandelprijs van €75, verliest ruim €19.000 per jaar. Dat is geen klein bedrag — het is het verschil tussen winst en verlies voor veel salonhouders.
+Een beautysalon die vijf no-shows per week heeft bij een gemiddelde behandelprijs van €75, verliest ruim €19.000 per jaar. Dat is geen klein bedrag. Het is het verschil tussen winst en verlies voor veel salonhouders.
 
 Naast de directe omzetschade zijn er verborgen kosten: producten die je alvast hebt klaargelegd, personeel dat onnodig inactief is, en de mentale belasting van lege plekken in je agenda.
 
@@ -39,11 +39,11 @@ Wat het beste werkt:
 - **Bevestigingsoptie**: laat klanten met één klik bevestigen of verzetten
 - **Dubbele herinnering**: 48 uur én 2 uur van tevoren
 
-Met AI-automatisering worden deze herinneringen volledig automatisch verstuurd — je hoeft er geen tijd aan te besteden.
+Met AI-automatisering worden deze herinneringen volledig automatisch verstuurd, dus je hoeft er geen tijd aan te besteden.
 
 ## No-show beleid zonder klanten af te schrikken
 
-Een goed [no-show beleid](/blog/no-show-beleid-salon-opstellen) is niet streng — het is duidelijk. Klanten waarderen transparantie.
+Een goed [no-show beleid](/blog/no-show-beleid-salon-opstellen) is niet streng, maar duidelijk. Klanten waarderen transparantie.
 
 Tips voor een effectief beleid:
 
@@ -54,7 +54,7 @@ Tips voor een effectief beleid:
 
 ## Vooruitbetaling slim inzetten
 
-Aanbetalingen werken — salons die dit invoeren rapporteren tot 90 procent minder no-shows. Maar het moet slim worden ingezet om klanten niet af te schrikken.
+Aanbetalingen werken: salons die dit invoeren rapporteren tot 90 procent minder no-shows. Maar het moet slim worden ingezet om klanten niet af te schrikken.
 
 Wanneer wel:
 
@@ -71,7 +71,7 @@ Wanneer niet:
 
 Met een automatische wachtlijst wordt een no-show direct opgevuld. Klanten die op korte termijn een afspraak willen, ontvangen automatisch een bericht zodra er een plek vrijkomt. Win-win: jij behoudt je omzet, en een wachtende klant krijgt sneller een afspraak.
 
-Hoe dit in de praktijk werkt: klanten die bij het boeken geen geschikte plek vinden, melden zich aan voor de wachtlijst. Bij een annulering of no-show stuurt het systeem automatisch een bericht naar de eerste persoon op de lijst. Die boekt met een klik de vrijgekomen plek — en jij draait gewoon je omzet.
+Hoe dit in de praktijk werkt: klanten die bij het boeken geen geschikte plek vinden, melden zich aan voor de wachtlijst. Bij een annulering of no-show stuurt het systeem automatisch een bericht naar de eerste persoon op de lijst. Die boekt met een klik de vrijgekomen plek, en jij draait gewoon je omzet.
 
 Een slimme wachtlijst onderscheidt ook op type behandeling. Een klant die wacht op een plek voor een gezichtsbehandeling krijgt alleen een bericht als er een plek voor een gezichtsbehandeling vrijkomt, niet voor een manicure. Dat maakt het relevant en verhoogt de conversie.
 

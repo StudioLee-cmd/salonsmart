@@ -8,45 +8,45 @@ image: "/images/blog/google-bedrijfsprofiel-beautysalon.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
 cluster: vindbaarheid
 ---
-Als iemand zoekt naar "beautysalon in de buurt" of "nagelsalon [stad]", verschijnt als eerste het Google Maps-blok met drie bedrijven. Dat is je Google Bedrijfsprofiel — en het is de plek waar de meeste klanten hun keuze maken. Niet op Instagram, niet op Treatwell, maar in dat compacte kaartje met je naam, reviews, foto's en bel-knop.
+Als iemand zoekt naar "beautysalon in de buurt" of "nagelsalon [stad]", verschijnt als eerste het Google Maps-blok met drie bedrijven. Dat is je Google Bedrijfsprofiel, en het is de plek waar de meeste klanten hun keuze maken. Niet op Instagram, niet op Treatwell, maar in dat compacte kaartje met je naam, reviews, foto's en bel-knop.
 
 In dit artikel lees je hoe je als beautysalon je Google Bedrijfsprofiel optimaliseert zodat je meer klanten uit je buurt aantrekt.
 
 ## Waarom het Local Pack alles is voor salons
 
-Google's Local Pack is het blok met drie lokale resultaten dat verschijnt bij zoekopdrachten met lokale intentie. En vrijwel elke zoekopdracht naar een beautysalon heeft lokale intentie — niemand rijdt 50 kilometer voor een manicure.
+Google's Local Pack is het blok met drie lokale resultaten dat verschijnt bij zoekopdrachten met lokale intentie. En vrijwel elke zoekopdracht naar een beautysalon heeft lokale intentie: niemand rijdt 50 kilometer voor een manicure.
 
 De top drie in het Local Pack krijgt het overgrote deel van de klikken en belletjes. Positie 4 en verder zijn onzichtbaar tenzij iemand actief doorklikt op "Meer bedrijven." Je doel is simpel: in die top drie komen voor je regio.
 
-De drie factoren: relevantie (past je profiel bij de zoekopdracht?), afstand (hoe dichtbij ben je?) en prominentie (hoe sterk is je online reputatie?). Op prominentie heb je de meeste invloed — en dat begint bij je profiel.
+De drie factoren: relevantie (past je profiel bij de zoekopdracht?), afstand (hoe dichtbij ben je?) en prominentie (hoe sterk is je online reputatie?). Op prominentie heb je de meeste invloed, en dat begint bij je profiel.
 
 ## Een compleet profiel opbouwen
 
 ### Categorie en diensten
 
-Kies "Beautysalon" als primaire categorie. Voeg secundaire categorieën toe voor je specialisaties: "Nagelsalon", "Waxsalon", "Schoonheidssalon", "Wimperextensions salon" — maar alleen wat je daadwerkelijk aanbiedt.
+Kies "Beautysalon" als primaire categorie. Voeg secundaire categorieën toe voor je specialisaties: "Nagelsalon", "Waxsalon", "Schoonheidssalon", "Wimperextensions salon", maar alleen wat je daadwerkelijk aanbiedt.
 
 Vul het dienstenoverzicht in met specifieke behandelingen: "Gelmanicure", "Pedicure", "Gezichtsbehandeling", "Wenkbrauw styling", "Wimperextensions." Elke dienst vergroot je kans om te verschijnen bij specifieke zoekopdrachten.
 
 ### Openingstijden en contact
 
-Beautysalons hebben vaak uitgebreide openingstijden — inclusief avonden en weekenden. Zorg dat dit correct staat. Een klant die op donderavond om 20:00 zoekt naar een salon en ziet dat jij tot 21:00 open bent, belt direct.
+Beautysalons hebben vaak uitgebreide openingstijden, inclusief avonden en weekenden. Zorg dat dit correct staat. Een klant die op donderavond om 20:00 zoekt naar een salon en ziet dat jij tot 21:00 open bent, belt direct.
 
-Voeg WhatsApp toe als contactmogelijkheid als je dat aanbiedt — steeds meer klanten boeken via chat.
+Voeg WhatsApp toe als contactmogelijkheid als je dat aanbiedt, want steeds meer klanten boeken via chat.
 
 ### Beschrijving
 
-"[Salonnaam] is een beautysalon in [stad] gespecialiseerd in [topbehandelingen]. Wij bieden [opsomming kernbehandelingen] in een ontspannen sfeer. Met [X] jaar ervaring en liefde voor schoonheid zorgen wij ervoor dat je er op je best uitziet en je heerlijk ontspannen voelt. Boek online of loop binnen — we verwelkomen je graag."
+"[Salonnaam] is een beautysalon in [stad] gespecialiseerd in [topbehandelingen]. Wij bieden [opsomming kernbehandelingen] in een ontspannen sfeer. Met [X] jaar ervaring en liefde voor schoonheid zorgen wij ervoor dat je er op je best uitziet en je heerlijk ontspannen voelt. Boek online of loop binnen. We verwelkomen je graag."
 
 ## Foto's die klanten overtuigen
 
 Voor een beautysalon zijn foto's misschien wel het allerbelangrijkste element. Klanten willen zien hoe je salon eruitziet, wat de sfeer is, en wat de kwaliteit van je werk is.
 
 Upload regelmatig:
-- **Je salon-interieur** — schoon, stijlvol, uitnodigend. De behandelstoelen, de wachtruimte, de producten.
-- **Behandelresultaten** — voor-en-na foto's van nagels, wimpers, wenkbrauwen, gezichtsbehandelingen. Dit is je portfolio.
-- **Productlijnen** — de professionele merken waarmee je werkt. Dit wekt vertrouwen.
-- **Je team** — glimlachende beauticians in een professionele setting.
+- **Je salon-interieur**: schoon, stijlvol, uitnodigend. De behandelstoelen, de wachtruimte, de producten.
+- **Behandelresultaten**: voor-en-na foto's van nagels, wimpers, wenkbrauwen, gezichtsbehandelingen. Dit is je portfolio.
+- **Productlijnen**: de professionele merken waarmee je werkt. Dit wekt vertrouwen.
+- **Je team**: glimlachende beauticians in een professionele setting.
 
 Maak er een gewoonte van: na elke bijzondere behandeling een foto maken (met toestemming van de klant) en uploaden naar je profiel. Binnen enkele maanden heb je een visueel portfolio dat voor je verkoopt.
 
@@ -60,7 +60,7 @@ Voor beautysalons zijn [reviews](/reviews) absoluut cruciaal. Een klant die kies
 
 **Hoe te reageren:** Op elke review, altijd. Positief: "Dank je wel, [naam]! Fijn dat je blij bent met je nieuwe nagels. Tot de volgende keer!" Negatief: professioneel, empathisch, en met een oplossing.
 
-Lees meer in ons artikel over [klantretentie in je beautysalon](/blog/klantretentie-beautysalon-meer-winst) — reviews en retentie versterken elkaar.
+Lees meer in ons artikel over [klantretentie in je beautysalon](/blog/klantretentie-beautysalon-meer-winst), want reviews en retentie versterken elkaar.
 
 ## Google Posts: je digitale etalage
 
@@ -71,22 +71,22 @@ Gebruik Google Posts om je profiel levendig te houden:
 - **Teamnieuws:** "Welkom aan Lisa, onze nieuwe nagelstyliste gespecialiseerd in nail art."
 - **Feestdagen:** "Moederdag cadeau nodig? Geef een cadeaubon voor een verwenbehandeling."
 
-Eén post per week is ideaal. Voeg altijd een aantrekkelijke foto toe — visuele posts presteren beter.
+Eén post per week is ideaal. Voeg altijd een aantrekkelijke foto toe, want visuele posts presteren beter.
 
 ## Veelgestelde vragen
 
 De vragensectie waarin klanten iets op je profiel konden vragen bestaat niet meer. Google stopte op 3 november 2025 de koppeling ernaartoe en faseerde de publieke sectie vanaf 3 december 2025 uit. De vragen blijven, alleen stelt Google het antwoord nu zelf samen uit je profiel, je website en je reviews. Zorg dus dat deze vier antwoorden echt ergens staan:
 
-- "Moet ik een afspraak maken?" — in je bedrijfsomschrijving en bovenaan je boekingspagina: "We werken bij voorkeur op afspraak, maar walk-ins zijn welkom als er ruimte is."
-- "Wat kost een gelmanicure?" — op je prijzenpagina, met bedragen die er echt staan. Google kan geen prijs samenstellen die nergens genoemd wordt.
-- "Is er parkeergelegenheid?" — bij de kenmerken van je profiel, met één zin op je contactpagina waar de plek precies staat.
-- "Werken jullie met bepaalde merken?" — op je behandelpagina, met de merknamen voluit. Een merknaam die nergens staat kan Google niet noemen.
+- "Moet ik een afspraak maken?": in je bedrijfsomschrijving en bovenaan je boekingspagina: "We werken bij voorkeur op afspraak, maar walk-ins zijn welkom als er ruimte is."
+- "Wat kost een gelmanicure?": op je prijzenpagina, met bedragen die er echt staan. Google kan geen prijs samenstellen die nergens genoemd wordt.
+- "Is er parkeergelegenheid?": bij de kenmerken van je profiel, met één zin op je contactpagina waar de plek precies staat.
+- "Werken jullie met bepaalde merken?": op je behandelpagina, met de merknamen voluit. Een merknaam die nergens staat kan Google niet noemen.
 
 Wat er precies veranderd is staat in [Google Q&A salon: de sectie is weg, wat nu telt](/blog/google-qa-sectie-salon-vragen-antwoorden).
 
 ## Veelgemaakte fouten
 
-**Geen foto's van behandelresultaten.** Klanten willen je werk zien — niet alleen je interieur.
+**Geen foto's van behandelresultaten.** Klanten willen je werk zien, niet alleen je interieur.
 
 **Onregelmatige openingstijden.** Als je wisselende openingsdagen hebt, update dit wekelijks. Een klant die voor een dichte deur staat, komt niet terug.
 

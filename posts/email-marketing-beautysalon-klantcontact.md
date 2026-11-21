@@ -10,9 +10,9 @@ cluster: automatisering
 
 ## Waarom e-mail nog steeds werkt voor salons
 
-Social media is onmisbaar voor beautysalons — maar e-mail levert een hoger rendement per euro. Een Instagram-post bereikt 5% van je volgers, een goede e-mail wordt door 25-30% geopend. Voor salons is dat een directe verbinding met je klantenbestand.
+Social media is onmisbaar voor beautysalons, maar e-mail levert een hoger rendement per euro. Een Instagram-post bereikt 5% van je volgers, een goede e-mail wordt door 25-30% geopend. Voor salons is dat een directe verbinding met je klantenbestand.
 
-E-mail is persoonlijk, meetbaar en automatiseerbaar. Je kunt klanten bereiken op precies het juiste moment — wanneer ze toe zijn aan een nieuwe behandeling, wanneer er een seizoensactie is, of wanneer je een nieuw product introduceert. Combineer het met je [social media strategie](/blog/social-media-beautysalons-instagram) voor maximaal bereik.
+E-mail is persoonlijk, meetbaar en automatiseerbaar. Je kunt klanten bereiken op precies het juiste moment: wanneer ze toe zijn aan een nieuwe behandeling, wanneer er een seizoensactie is, of wanneer je een nieuw product introduceert. Combineer het met je [social media strategie](/blog/social-media-beautysalons-instagram) voor maximaal bereik.
 
 ## Automatische afspraakherinneringen
 
@@ -32,15 +32,15 @@ Persoonlijke aanbiedingen werken beter dan generieke kortingen:
 - **Seizoensacties**: zomerse pedicure-actie, winterse huidverzorgingspakket
 - **Introductie-aanbiedingen**: wanneer je een nieuwe behandeling lanceert
 
-Personaliseer met de naam van de klant en verwijs naar hun eerdere behandelingen. "Lisa, je laatste gezichtsbehandeling is 8 weken geleden — tijd voor een vernieuwing?" werkt veel beter dan een generieke aanbieding.
+Personaliseer met de naam van de klant en verwijs naar hun eerdere behandelingen. "Lisa, je laatste gezichtsbehandeling is 8 weken geleden. Tijd voor een vernieuwing?" werkt veel beter dan een generieke aanbieding.
 
 ## Nieuwsbrieven die geopend worden
 
 Tips voor een hoge open rate:
 
 - **Onderwerpregel**: kort, persoonlijk, nieuwsgierig ("Het geheim achter een gloeiende huid in de winter")
-- **Visueel**: mooie foto's van behandelresultaten — beauty is visueel
-- **Kort**: maximaal 200 woorden — je klanten willen geen essays
+- **Visueel**: mooie foto's van behandelresultaten, want beauty is visueel
+- **Kort**: maximaal 200 woorden, want je klanten willen geen essays
 - **Eén CTA**: "Boek nu" of "Bekijk de actie"
 
 Stuur maximaal 2x per maand. Te veel e-mails leiden tot afmeldingen. Wissel af tussen inhoudelijke tips, aanbiedingen en salonnieuws.
@@ -57,4 +57,4 @@ Begin met je boekingssoftware voor afspraakherinneringen. Voeg later een e-mailt
 
 ## Conclusie
 
-E-mailmarketing is een van de meest onderbenutte kanalen voor beautysalons. Met automatische herinneringen, persoonlijke aanbiedingen en een maandelijkse nieuwsbrief houd je klanten betrokken en verhoog je de herboekingsfrequentie. Begin met afspraakherinneringen — die leveren directe ROI. Wil je ontdekken welke groeikansen jouw salon laat liggen? Vraag een [gratis scan](/gratis-scan) aan.
+E-mailmarketing is een van de meest onderbenutte kanalen voor beautysalons. Met automatische herinneringen, persoonlijke aanbiedingen en een maandelijkse nieuwsbrief houd je klanten betrokken en verhoog je de herboekingsfrequentie. Begin met afspraakherinneringen, want die leveren directe ROI. Wil je ontdekken welke groeikansen jouw salon laat liggen? Vraag een [gratis scan](/gratis-scan) aan.

@@ -8,7 +8,7 @@ image: "/images/blog/treatwell-alternatief-salons-eigen-boekingssysteem.jpg"
 tags: ["Software", "Boekingen"]
 cluster: website
 ---
-Treatwell is handig — dat ontkennen we niet. Je krijgt er klanten mee die je anders misschien niet had bereikt. Maar er zit een keerzijde aan: je betaalt commissie op elke boeking, je hebt beperkte controle over je presentatie en je bouwt aan het merk van Treatwell in plaats van je eigen salon.
+Treatwell is handig, dat ontkennen we niet. Je krijgt er klanten mee die je anders misschien niet had bereikt. Maar er zit een keerzijde aan: je betaalt commissie op elke boeking, je hebt beperkte controle over je presentatie en je bouwt aan het merk van Treatwell in plaats van je eigen salon.
 
 Steeds meer saloneigenaren zoeken naar alternatieven. Niet om Treatwell helemaal los te laten, maar om minder afhankelijk te worden en meer te verdienen aan elke boeking.
 
@@ -16,12 +16,12 @@ Steeds meer saloneigenaren zoeken naar alternatieven. Niet om Treatwell helemaal
 
 De commissie van Treatwell ligt rond de 25-35% op boekingen via hun platform. Reken even mee:
 
-Als een knipbeurt €40 kost en je 100 boekingen per maand via Treatwell ontvangt, betaal je **€1.000-€1.400 per maand** aan commissie. Dat is €12.000-€17.000 per jaar — het salaris van een parttime medewerker.
+Als een knipbeurt €40 kost en je 100 boekingen per maand via Treatwell ontvangt, betaal je **€1.000-€1.400 per maand** aan commissie. Dat is €12.000-€17.000 per jaar, het salaris van een parttime medewerker.
 
 Daarnaast heb je te maken met:
-- **Geen controle over prijspresentatie** — Treatwell stimuleert kortingen
-- **Klantgegevens zijn van Treatwell** — jij hebt geen directe toegang
-- **Afhankelijkheid** — als Treatwell de commissie verhoogt, kun je weinig doen
+- **Geen controle over prijspresentatie**: Treatwell stimuleert kortingen
+- **Klantgegevens zijn van Treatwell**: jij hebt geen directe toegang
+- **Afhankelijkheid**: als Treatwell de commissie verhoogt, kun je weinig doen
 
 ## Alternatief 1: Eigen website met boekingsmodule
 
@@ -36,15 +36,15 @@ De meest directe oplossing is een eigen online boekingssysteem op je website. Kl
 
 ### Kosten?
 
-Een complete salonwebsite met boekingssysteem kost eenmalig €800-€2.500. De maandelijkse kosten voor hosting en het boekingssysteem liggen rond €20-€80 per maand — een fractie van Treatwell's commissie.
+Een complete salonwebsite met boekingssysteem kost eenmalig €800-€2.500. De maandelijkse kosten voor hosting en het boekingssysteem liggen rond €20-€80 per maand, een fractie van Treatwell's commissie.
 
 ## Alternatief 2: Salonized, Timma of Planyo
 
 Er zijn diverse boekingsplatforms die geen commissie per boeking rekenen:
 
-- **Salonized** — Nederlands platform, specifiek voor salons. Vast maandtarief, geen commissie.
-- **Timma** — Focus op beauty en wellness. Betaal per maand, niet per boeking.
-- **Planyo** — Flexibel boekingssysteem, geschikt voor salons met meerdere medewerkers.
+- **Salonized**: Nederlands platform, specifiek voor salons. Vast maandtarief, geen commissie.
+- **Timma**: focus op beauty en wellness. Betaal per maand, niet per boeking.
+- **Planyo**: flexibel boekingssysteem, geschikt voor salons met meerdere medewerkers.
 
 Het verschil met Treatwell: je betaalt een vast bedrag per maand, ongeacht hoeveel boekingen je ontvangt. Hoe meer je boekt, hoe voordeliger het wordt.
 
@@ -68,7 +68,7 @@ Het risico van cold turkey stoppen: je verliest van de ene op de andere dag een 
 
 ### Verlies ik klanten als ik stop met Treatwell?
 
-De klanten die via Treatwell komen zijn Treatwell-klanten — ze boeken waar het goedkoopst is. Je eigen klanten (die komen voor jou, niet voor de korting) kun je eenvoudig migreren naar je eigen systeem.
+De klanten die via Treatwell komen zijn Treatwell-klanten: ze boeken waar het goedkoopst is. Je eigen klanten (die komen voor jou, niet voor de korting) kun je eenvoudig migreren naar je eigen systeem.
 
 ### Is een eigen boekingssysteem moeilijk te beheren?
 

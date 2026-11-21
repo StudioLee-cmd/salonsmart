@@ -44,6 +44,6 @@ Treatwell levert boekingen, SalonSmart bouwt je salon. Twintig functies, geen co
 
 ## Managed service: jij focust op je salon
 
-Met onze managed service hoef je zelf niets te doen. We houden alles draaiend — van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
+Met onze managed service hoef je zelf niets te doen. We houden alles draaiend, van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
 
 Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.

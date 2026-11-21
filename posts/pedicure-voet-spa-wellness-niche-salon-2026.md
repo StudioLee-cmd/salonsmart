@@ -8,7 +8,7 @@ authorSlug: "tim-van-der-lee"
 tags: ["Wellness", "Pedicure"]
 cluster: branding
 ---
-Pedicure en voet-spa is in Nederlandse schoonheidssalons een van de meest onderschatte wellness-niches. Geen trendy specialisme, geen Instagram-bare service — maar wel een segment met loyale klantenkringen, terugkerende afspraken en gemiddelde besteding boven die van standaard manicure of facial. Voor salons die een tweede sterke pijler willen opbouwen naast hun primaire schoonheidsbehandelingen, is dit een van de stabielere keuzes.
+Pedicure en voet-spa is in Nederlandse schoonheidssalons een van de meest onderschatte wellness-niches. Geen trendy specialisme, geen Instagram-bare service, maar wel een segment met loyale klantenkringen, terugkerende afspraken en gemiddelde besteding boven die van standaard manicure of facial. Voor salons die een tweede sterke pijler willen opbouwen naast hun primaire schoonheidsbehandelingen, is dit een van de stabielere keuzes.
 
 Dit artikel is voor jou als saloneigenaar of behandelmanager die overweegt pedicure of een complete voet-spa als specialisme toe te voegen. Geen consumenten-uitleg over de behandeling, maar een businessgids: marktomvang, marges, certificering, en hoe je in zes maanden een vol pedicure-rooster opbouwt met de juiste doelgroep-mix.
 
@@ -16,7 +16,7 @@ Dit artikel is voor jou als saloneigenaar of behandelmanager die overweegt pedic
 
 De Nederlandse markt voor professionele voetverzorging groeit sinds 2019 met gemiddeld 7-9 procent per jaar in omzet. Drie redenen:
 
-- **Vergrijzing.** Senioren zijn de grootste groeigroep — 65-plussers boeken 4-6 keer per jaar pedicure tegenover 1-2 keer voor gemiddelde 30-jarigen.
+- **Vergrijzing.** Senioren zijn de grootste groeigroep: 65-plussers boeken 4-6 keer per jaar pedicure tegenover 1-2 keer voor gemiddelde 30-jarigen.
 - **Sportieve doelgroep.** Hardlopers, wandelaars, dansers en marathonners zien voet-verzorging steeds vaker als preventief in plaats van cosmetisch. Een groeisegment met hogere bestedingsbereidheid.
 - **Diabetische voetzorg.** Met 1,2 miljoen Nederlandse diabetespatiënten is medisch pedicure (gespecialiseerd in diabetische voet) een onderbediende markt waar zorgverzekeraars deels vergoeden.
 
@@ -30,7 +30,7 @@ Concrete cijfers Nederlandse markt 2026:
 | Medisch pedicure (geregistreerd) | 60 min | €55 - €78 | 50-60% |
 | Diabetische voetzorg | 60 min | €58 - €82 | 50-60% (deels vergoed) |
 
-Een pedicure-stoel die 6 klanten per dag op gemiddelde €52 omzet, draait €300 per dag of €72.000 per stoel per jaar bij vijf werkdagen. Voor een salon met één gespecialiseerde stoel is dit een aanzienlijke aanvulling op bestaande omzet — én met klanten die elke 4-6 weken terugkomen.
+Een pedicure-stoel die 6 klanten per dag op gemiddelde €52 omzet, draait €300 per dag of €72.000 per stoel per jaar bij vijf werkdagen. Voor een salon met één gespecialiseerde stoel is dit een aanzienlijke aanvulling op bestaande omzet, én met klanten die elke 4-6 weken terugkomen.
 
 ## De drie doelgroepen kiezen
 
@@ -42,7 +42,7 @@ Niet elke salon kan alle voetzorg-doelgroepen bedienen. Maak vooraf een keuze.
 
 **Doelgroep 3: medische voetzorg.** Diabetes, reumatische voet, fungale infectie. Vereist registratie als Medisch Pedicure (ProVoet), aparte hygiëne-protocollen, en samenwerking met huisarts en diabetes-verpleegkundige. Hoogste marges, lagere volumes.
 
-Voor 90% van de schoonheidssalons werkt **doelgroep 1 (senioren) als hoofdsegment** — grootste markt, stabielste vraag, makkelijkste op te bouwen via mond-tot-mondreclame. Doelgroep 2 of 3 als secundair voegt diversiteit en hogere uurtarieven toe.
+Voor 90% van de schoonheidssalons werkt **doelgroep 1 (senioren) als hoofdsegment**: grootste markt, stabielste vraag, makkelijkste op te bouwen via mond-tot-mondreclame. Doelgroep 2 of 3 als secundair voegt diversiteit en hogere uurtarieven toe.
 
 ## Investering: wat een voet-spa kost
 
@@ -70,7 +70,7 @@ Voor cosmetische pedicure is geen wettelijke certificering verplicht. Voor medis
 - **KwaliteitsRegister Pedicures (KRP)** als losstaande borging.
 - **Hygiëne-protocol** moet voldoen aan ProVoet-richtlijnen, zelfs voor cosmetisch werk. Reken op €120-€220 voor sterilisatie-apparatuur en eerste voorraad steriele instrumenten.
 
-Voor de meeste salons is een ProVoet-erkende behandelaar in dienst genoeg om beide markten (cosmetisch + medisch) te bedienen. Of huur een mobiele medisch pedicure 1-2 dagen per week in voor de medische cliënten — dat scheelt jaren opleiding voor jou.
+Voor de meeste salons is een ProVoet-erkende behandelaar in dienst genoeg om beide markten (cosmetisch + medisch) te bedienen. Of huur een mobiele medisch pedicure 1-2 dagen per week in voor de medische cliënten. Dat scheelt jaren opleiding voor jou.
 
 ## Het stappenplan: van besluit tot vol rooster
 
@@ -135,6 +135,6 @@ Voor salons die hier wél in passen: dit is een van de stabielere wellness-niche
 
 ## Conclusie
 
-Pedicure en voet-spa is geen sexy specialisme, maar wel een van de slimste tweede pijlers voor een schoonheidssalon. Met de juiste doelgroep-keuze (senioren als basis, sport en medisch als upsell), een aparte branding en een degelijk klantbehoud-systeem, bouw je in zes tot twaalf maanden een rooster op dat blijft draaien als de rest van de salon stagneert. De fouten zitten in halfslachtige uitvoering, verkeerde apparatuur en gebrek aan aparte marketing — niet in de beslissing zelf.
+Pedicure en voet-spa is geen sexy specialisme, maar wel een van de slimste tweede pijlers voor een schoonheidssalon. Met de juiste doelgroep-keuze (senioren als basis, sport en medisch als upsell), een aparte branding en een degelijk klantbehoud-systeem, bouw je in zes tot twaalf maanden een rooster op dat blijft draaien als de rest van de salon stagneert. De fouten zitten in halfslachtige uitvoering, verkeerde apparatuur en gebrek aan aparte marketing, niet in de beslissing zelf.
 
 Wil je weten of jouw werkgebied genoeg vraag heeft om dit serieus aan te pakken? Vraag onze [gratis ai scan voor salons](/gratis-scan) aan, dan kijken we mee.
